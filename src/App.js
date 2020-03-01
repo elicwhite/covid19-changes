@@ -75,7 +75,7 @@ function App() {
       <h1>
         Comparison of{' '}
         <a href="https://www.cdc.gov/coronavirus/2019-nCoV/summary.html">
-          CDC's COVID-19 updates
+        CDC's Clinical Guidance for COVID-19
         </a>
       </h1>
       <div className="date-picker-row">

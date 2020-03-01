@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const CDC_UPDATES_PATH = path.join(__dirname, 'cdcupdates');
-const CDC_URL = 'https://www.cdc.gov/coronavirus/2019-nCoV/summary.html';
+const CDC_URL = 'https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html';
 
 const date = new Date();
 

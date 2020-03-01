@@ -1,0 +1,66 @@
+Coronavirus Disease 2019 (COVID-19) Situation Summary
+Minus
+Related Pages
+This is an emerging, rapidly evolving situation and CDC will provide updated information as it becomes available, in addition to updated guidance.
+Updated February 22, 2020
+Background
+CDC is responding to an outbreak of respiratory disease caused by a novel (new) coronavirus that was first detected in Wuhan City, Hubei Province, China and which has now been detected in 32 locations internationally, including cases in the United States. The virus has been named “SARS-CoV-2” and the disease it causes has been named “coronavirus disease 2019” (abbreviated “COVID-19”).
+On January 30, 2020, the International Health Regulations Emergency Committee of the World Health Organization declared the outbreak a “public health emergency of international concernexternal icon” (PHEIC). On January 31, 2020, Health and Human Services Secretary Alex M. Azar II declared a public health emergency (PHE) for the United States to aid the nation’s healthcare community in responding to COVID-19.
+Source and Spread of the Virus
+Coronaviruses are a large family of viruses that are common in many different species of animals, including camels, cattle, cats, and bats. Rarely, animal coronaviruses can infect people and then spread between people such as with MERS-CoV, SARS-CoV, and now with this new virus (named SARS-CoV-2).
+The SARS-CoV-2 virus is a betacoronavirus, like MERS-CoV and SARS-CoV.  All three of these viruses have their origins in bats. The sequences from U.S. patients are similar to the one that China initially posted, suggesting a likely single, recent emergence of this virus from an animal reservoir.
+Early on, many of the patients in the COVID-19 outbreak in Wuhan, China had some link to a large seafood and live animal market, suggesting animal-to-person spread. Later, a growing number of patients reportedly did not have exposure to animal markets, indicating person-to-person spread. Person-to-person spread has been reported outside China, including in the United States and other locations. Chinese officials report that sustained person-to-person spread in the community is occurring in China. In addition, other destinations have apparent community spread, meaning some people have been infected who are not sure how or where they became infected. Learn what is known about the spread of newly emerged coronaviruses.
+On This Page
+BackgroundSource and Spread of the VirusSituation in U.S.Illness SeverityRisk AssessmentWhat to ExpectCDC ResponseCDC RecommendsOther Available Resources
+Confirmed COVID-19 Cases Global Map
+View larger image and see a list of locations
+map iconCOVID-19 cases in the U.S.
+Situation in U.S.
+Imported cases of COVID-19 in travelers have been detected in the U.S. Person-to-person spread of COVID-19 also has been seen among close contacts of returned travelers from Wuhan, but at this time, this virus is NOT currently spreading in the community in the United States.
+Illness Severity
+Both MERS-CoV and SARS-CoV have been known to cause severe illness in people. The complete clinical picture with regard to COVID-19 is not fully understood. Reported illnesses have ranged from mild to severe, including illness resulting in death. Learn more about the symptoms associated with COVID-19.
+There are ongoing investigations to learn more. This is a rapidly evolving situation and information will be updated as it becomes available.
+Risk Assessment
+Outbreaks of novel virus infections among people are always of public health concern. The risk from these outbreaks depends on characteristics of the virus, including how well it spreads between people, the severity of resulting illness, and the medical or other measures available to control the impact of the virus (for example, vaccine or treatment medications).
+The potential public health threat posed by COVID-19 is high, both globally and to the United States. The fact that this disease has caused illness, including illness resulting in death, and sustained person-to-person spread is concerning. These factors meet two of the criteria of a pandemic. It’s unclear how the situation will unfold, but risk is dependent on exposure. At this time, some people will have an increased risk of infection, for example healthcare workers caring for patients with COVID-19 and other close contacts of persons with COVID-19. For the general American public, who are unlikely to be exposed to this virus, the immediate health risk from COVID-19 is considered low at this time.
+What to Expect
+More cases are likely to be identified in the coming days, including more cases in the United States. It’s also likely that person-to-person spread will continue to occur, including in the United States.
+CDC Response
+This is a picture of CDC’s laboratory test kit for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). CDC is shipping the test kits to laboratories CDC has designated as qualified, including U.S. state and local public health laboratories, Department of Defense (DOD) laboratories and select international laboratories. The test kits are bolstering global laboratory capacity for detecting SARS-CoV-2.
+resize iconView Larger
+Close
+This is a picture of CDC’s laboratory test kit for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). CDC is shipping the test kits to laboratories CDC has designated as qualified, including U.S. state and local public health laboratories, Department of Defense (DOD) laboratories and select international laboratories. The test kits are bolstering global laboratory capacity for detecting SARS-CoV-2.
+download iconDownload Imageimage icon[JPG, NAN ]
+The federal government is working closely with state, local, tribal, and territorial partners, as well as public health partners, to respond to this public health threat.
+The public health response is multi-layered, with the goal of detecting and minimizing introductions of this virus in the United States so as to reduce the spread and the impact of this virus.
+CDC established a COVID-19 Incident Management System on January 7, 2020. On January 21, 2020, CDC activated its Emergency Operations Center to better provide ongoing support to the COVID-19 response.
+The U.S. government has taken unprecedented steps with respect to travel in response to the growing public health threat posed by this new coronavirus:
+Effective February 2, 2020, at 5pm, the U.S. government suspended entry of foreign nationals who have been in China within the past 14 days.
+U.S. citizens, residents, and their immediate family members who have been in Hubei province and other parts of mainland China are allowed to enter the United States, but they are subject to health monitoring and possible quarantine for up to 14 days.
+CDC has issued the following travel guidance related to COVID-19:
+China — Level 3, Avoid Nonessential Travel — last updated February 22;
+Japan — Level 2, Practice Enhanced Precautions — last updated February 22;
+South Korea — Level 2, Practice Enhanced Precautions — issued February 22;
+Hong Kong — Level 1, Practice Usual Precautions — issued February 19.
+CDC also recommends that all travelers reconsider cruise ship voyages into or within Asia at this time.
+CDC is issuing clinical guidance, including:
+An interim Health Alert Network (HAN) Update to inform state and local health departments and healthcare professionals about this outbreak on February 1, 2020.
+On January 30, 2020, CDC published guidance for healthcare professionals on the clinical care of  COVID-19 patients.
+On February 3, 2020, CDC posted guidance for assessing the potential risk for various exposures to COVID-19 and managing those people appropriately.
+CDC has deployed multidisciplinary teams to support state health departments with clinical management, contact tracing, and communications.
+CDC has worked with the Department of State, supporting the safe return of Americans who have been stranded as a result of the ongoing outbreaks of COVID-19 and related travel restrictions. CDC has worked to assess the health of passengers as they return to the United States and provided continued daily monitoring of people who are quarantined.
+CDC laboratories have supported the COVID-19 response, including:
+CDC has developed a real time Reverse Transcription-Polymerase Chain Reaction (rRT-PCR) test that can diagnose COVID-19 in respiratory samples from clinical specimens. On January 24, 2020, CDC publicly posted the assay protocol for this test.
+CDC has been uploading the entire genome of the viruses from reported cases in the United States to GenBank as sequencing was completed.
+CDC has grown the COVID-19 virus in cell culture, which is necessary for further studies, including for additional genetic characterization. The cell-grown virus was sent to NIH’s BEI Resources Repositoryexternal icon for use by the broad scientific community.
+CDC Recommends
+While the immediate risk of this new virus to the American public is believed to be low at this time, everyone can do their part to help us respond to this emerging public health threat:
+It’s currently flu and respiratory disease season and CDC recommends getting a flu vaccine, taking everyday preventive actions to help stop the spread of germs, and taking flu antivirals if prescribed.
+If you are a healthcare provider, be on the look-out for people who recently traveled from China and have fever and respiratory symptoms.
+If you are a healthcare provider caring for a COVID-19 patient or a public health responder, please take care of yourself and follow recommended infection control procedures.
+If you have been in China or have been exposed to someone sick with COVID-19 in the last 14 days, you will face some limitations on your movement and activity. Please follow instructions during this time. Your cooperation is integral to the ongoing public health response to try to slow spread of this virus. If you develop COVID-19 symptoms, contact your healthcare provider, and tell them about your symptoms and your travel or exposure to a COVID-19 patient.
+For people who are ill with COVID-19, please follow CDC guidance on how to reduce the risk of spreading your illness to others.
+Other Available Resources
+The following resources are available with information on COVID-19
+U.S. Department of State China Travel Advisoryexternal icon
+World Health Organization, Coronavirusexternal icon

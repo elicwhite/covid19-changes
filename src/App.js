@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import ReactDiffViewer, { DiffMethod } from 'react-diff-viewer';
 import ReactGA from 'react-ga';
 import Dropdown from 'react-dropdown';
+import queryString from 'query-string';
 import './App.css';
 import CDCUpdates from './cdcUpdatesMapping';
 
@@ -15,13 +16,20 @@ function convertShorthandToDate(shorthand) {
 }
 
 function App() {
-  useEffect(() => {
-    ReactGA.pageview(window.location.pathname + window.location.search);
-  }, []);
-
+  const query = queryString.parse(window.location.search);
   const dateOptions = Object.keys(CDCUpdates).reverse();
-  const [nextIndex, setNextIndex] = useState(0);
-  const [prevIndex, setPrevIndex] = useState(1);
+  const initialFromIndex =
+    query.from != null && dateOptions.indexOf(query.from) >= 0
+      ? dateOptions.indexOf(query.from)
+      : 1;
+
+  const initialToIndex =
+    query.to != null && dateOptions.indexOf(query.to) >= 0
+      ? dateOptions.indexOf(query.to)
+      : 1;
+
+  const [nextIndex, setNextIndex] = useState(initialToIndex);
+  const [prevIndex, setPrevIndex] = useState(initialFromIndex);
 
   const formattedOptions = dateOptions.map((dateOption, index) => ({
     value: index,
@@ -34,16 +42,31 @@ function App() {
   // On mount, find the most recent previous date that results in a diff
   useEffect(() => {
     let prevIndexPointer = prevIndex;
-
     while (
       CDCUpdates[dateOptions[nextIndex]] ===
       CDCUpdates[dateOptions[prevIndexPointer]]
     ) {
       prevIndexPointer++;
     }
-
     setPrevIndex(prevIndexPointer);
   }, []);
+
+  useEffect(() => {
+    window.history.replaceState(
+      {
+        prevDate,
+        nextDate,
+      },
+      '',
+      '?' +
+        queryString.stringify({
+          from: prevDate,
+          to: nextDate,
+        }),
+    );
+
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, [prevDate, nextDate]);
 
   return (
     <div className="App">

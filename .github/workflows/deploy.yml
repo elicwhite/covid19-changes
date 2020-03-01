@@ -9,10 +9,11 @@ jobs:
         uses: actions/checkout@v2
         with:
           persist-credentials: false
-      - name: Install Dependencies
+      - name: Setup Node
         uses: actions/setup-node@v1
         with:
           node-version: '10.x'
+      - name: 'Setup Dependencies'
         run: yarn
       - name: Build
         run: yarn build

@@ -117,6 +117,7 @@ function App() {
           newValue={dates[nextDate]}
           splitView={true}
           compareMethod={DiffMethod.WORDS}
+          hideLineNumbers={true}
         />
       )}
     </div>

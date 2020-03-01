@@ -20,6 +20,10 @@ jobs:
         run: node fetch-latest-updates.js
       - name: 'Regenerate Update Mapping'
         run: yarn run generate-mapping
+      - name: 'Print git statuss'
+        run: git status
+      - name: 'Print git diff'
+        run: git diff
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4.0.0
         with:

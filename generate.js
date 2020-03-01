@@ -43,6 +43,7 @@ const dates = {
   '20-02-22': 'https://web.archive.org/web/20200223170732/https://www.cdc.gov/coronavirus/2019-nCoV/summary.html',
   '20-02-23': 'https://web.archive.org/web/20200224213221/https://www.cdc.gov/coronavirus/2019-nCoV/summary.html',
   '20-02-24': 'https://web.archive.org/web/20200225003215/https://www.cdc.gov/coronavirus/2019-nCoV/summary.html',
+  '20-02-28': 'http://webcache.googleusercontent.com/search?q=cache:www.cdc.gov/coronavirus/2019-nCoV/summary.html&strip=1&vwsrc=0',
   '20-02-29': 'https://www.cdc.gov/coronavirus/2019-nCoV/summary.html',
 }
 

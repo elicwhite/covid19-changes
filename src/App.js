@@ -65,7 +65,9 @@ function App() {
         }),
     );
 
-    ReactGA.pageview(window.location.pathname + window.location.search);
+    if (!window.location.hostname.includes('localhost')) {
+      ReactGA.pageview(window.location.pathname + window.location.search);
+    }
   }, [prevDate, nextDate]);
 
   return (

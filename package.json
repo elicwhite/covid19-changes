@@ -12,6 +12,7 @@
     "react-diff-viewer": "^3.0.1",
     "react-dom": "^16.13.0",
     "react-dropdown": "^1.6.4",
+    "react-ga": "^2.7.0",
     "react-scripts": "3.4.0"
   },
   "scripts": {

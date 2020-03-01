@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ReactDiffViewer, { DiffMethod } from 'react-diff-viewer';
+import ReactGA from 'react-ga';
 import Dropdown from 'react-dropdown';
 import './App.css';
 import raw from 'raw.macro';
@@ -53,6 +54,10 @@ function convertShorthandToDate(shorthand) {
 }
 
 function App() {
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, []);
+
   const dateOptions = Object.keys(dates).reverse();
   const [nextIndex, setNextIndex] = useState(0);
   const [prevIndex, setPrevIndex] = useState(1);
@@ -70,7 +75,7 @@ function App() {
     let prevIndexPointer = prevIndex;
 
     while (
-      dates[dateOptions[nextIndex]] == dates[dateOptions[prevIndexPointer]]
+      dates[dateOptions[nextIndex]] === dates[dateOptions[prevIndexPointer]]
     ) {
       prevIndexPointer++;
     }

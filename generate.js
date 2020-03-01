@@ -43,13 +43,15 @@ const dates = {
   '20-02-22': 'https://web.archive.org/web/20200223170732/https://www.cdc.gov/coronavirus/2019-nCoV/summary.html',
   '20-02-23': 'https://web.archive.org/web/20200224213221/https://www.cdc.gov/coronavirus/2019-nCoV/summary.html',
   '20-02-24': 'https://web.archive.org/web/20200225003215/https://www.cdc.gov/coronavirus/2019-nCoV/summary.html',
+  '20-02-29': 'https://www.cdc.gov/coronavirus/2019-nCoV/summary.html',
 }
 
 async function run() {
   for (date in dates) {
-    const originalsPath = path.join(currentFolder, 'originals', `${date}.txt`);
-    if (fs.existsSync(originalsPath)) {
+    const destination = path.join(CDC_UPDATES_PATH, `${date}.txt`);
+    if (fs.existsSync(destination)) {
       console.log('Already have', date, '... Skipping');
+      continue;
     }
 
     const url = dates[date];
@@ -63,11 +65,11 @@ async function run() {
       .filter(Boolean)
       .join('\n');
 
-    fs.writeFileSync(
-      path.join(CDC_UPDATES_PATH, `${date}.txt`),
-      cleanedContent,
-    );
+    fs.writeFileSync(destination, cleanedContent);
   }
 }
 
-run();
+run().catch(err => {
+  console.error(err);
+  process.exit(1);
+});

@@ -40,6 +40,7 @@ const dates = {
   '20-02-22': raw('../cdcupdates/20-02-22.txt'),
   '20-02-23': raw('../cdcupdates/20-02-23.txt'),
   '20-02-24': raw('../cdcupdates/20-02-24.txt'),
+  '20-02-29': raw('../cdcupdates/20-02-29.txt'),
 };
 
 function convertShorthandToDate(shorthand) {

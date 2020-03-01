@@ -18,4 +18,4 @@ jobs:
       - name: Build
         run: yarn build
       - name: Deploy
-      - run: ls
+        run: ls

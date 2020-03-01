@@ -18,6 +18,7 @@ jobs:
         run: yarn
       - name: 'Fetch'
         run: node fetch-latest-updates.js
+      - name: 'Regenerate Update Mapping'
         run: yarn run generate-mapping
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4.0.0

@@ -3,46 +3,7 @@ import ReactDiffViewer, { DiffMethod } from 'react-diff-viewer';
 import ReactGA from 'react-ga';
 import Dropdown from 'react-dropdown';
 import './App.css';
-import raw from 'raw.macro';
-
-const dates = {
-  '20-01-21': raw('../cdcupdates/20-01-21.txt'),
-  '20-01-22': raw('../cdcupdates/20-01-22.txt'),
-  '20-01-23': raw('../cdcupdates/20-01-23.txt'),
-  '20-01-24': raw('../cdcupdates/20-01-24.txt'),
-  '20-01-25': raw('../cdcupdates/20-01-25.txt'),
-  '20-01-26': raw('../cdcupdates/20-01-26.txt'),
-  '20-01-27': raw('../cdcupdates/20-01-27.txt'),
-  '20-01-28': raw('../cdcupdates/20-01-28.txt'),
-  '20-01-29': raw('../cdcupdates/20-01-29.txt'),
-  '20-01-30': raw('../cdcupdates/20-01-30.txt'),
-  '20-01-31': raw('../cdcupdates/20-01-31.txt'),
-  '20-02-01': raw('../cdcupdates/20-02-01.txt'),
-  '20-02-02': raw('../cdcupdates/20-02-02.txt'),
-  '20-02-03': raw('../cdcupdates/20-02-03.txt'),
-  '20-02-04': raw('../cdcupdates/20-02-04.txt'),
-  '20-02-05': raw('../cdcupdates/20-02-05.txt'),
-  '20-02-06': raw('../cdcupdates/20-02-06.txt'),
-  '20-02-07': raw('../cdcupdates/20-02-07.txt'),
-  '20-02-08': raw('../cdcupdates/20-02-08.txt'),
-  '20-02-09': raw('../cdcupdates/20-02-09.txt'),
-  '20-02-10': raw('../cdcupdates/20-02-10.txt'),
-  '20-02-11': raw('../cdcupdates/20-02-11.txt'),
-  '20-02-12': raw('../cdcupdates/20-02-12.txt'),
-  '20-02-13': raw('../cdcupdates/20-02-13.txt'),
-  '20-02-14': raw('../cdcupdates/20-02-14.txt'),
-  '20-02-15': raw('../cdcupdates/20-02-15.txt'),
-  '20-02-16': raw('../cdcupdates/20-02-16.txt'),
-  '20-02-17': raw('../cdcupdates/20-02-17.txt'),
-  '20-02-18': raw('../cdcupdates/20-02-18.txt'),
-  '20-02-19': raw('../cdcupdates/20-02-19.txt'),
-  '20-02-20': raw('../cdcupdates/20-02-20.txt'),
-  '20-02-21': raw('../cdcupdates/20-02-21.txt'),
-  '20-02-22': raw('../cdcupdates/20-02-22.txt'),
-  '20-02-23': raw('../cdcupdates/20-02-23.txt'),
-  '20-02-24': raw('../cdcupdates/20-02-24.txt'),
-  '20-02-29': raw('../cdcupdates/20-02-29.txt'),
-};
+import CDCUpdates from './cdcUpdatesMapping';
 
 function convertShorthandToDate(shorthand) {
   const [year, month, day] = shorthand.split('-').map(val => parseInt(val, 10));
@@ -58,7 +19,7 @@ function App() {
     ReactGA.pageview(window.location.pathname + window.location.search);
   }, []);
 
-  const dateOptions = Object.keys(dates).reverse();
+  const dateOptions = Object.keys(CDCUpdates).reverse();
   const [nextIndex, setNextIndex] = useState(0);
   const [prevIndex, setPrevIndex] = useState(1);
 
@@ -75,7 +36,8 @@ function App() {
     let prevIndexPointer = prevIndex;
 
     while (
-      dates[dateOptions[nextIndex]] === dates[dateOptions[prevIndexPointer]]
+      CDCUpdates[dateOptions[nextIndex]] ===
+      CDCUpdates[dateOptions[prevIndexPointer]]
     ) {
       prevIndexPointer++;
     }
@@ -109,12 +71,12 @@ function App() {
           placeholder="Select a date to compare to"
         />
       </div>
-      {dates[nextDate] === dates[prevDate] ? (
+      {CDCUpdates[nextDate] === CDCUpdates[prevDate] ? (
         <NoUpdates prevDate={prevDate} nextDate={nextDate} />
       ) : (
         <ReactDiffViewer
-          oldValue={dates[prevDate]}
-          newValue={dates[nextDate]}
+          oldValue={CDCUpdates[prevDate]}
+          newValue={CDCUpdates[nextDate]}
           splitView={true}
           compareMethod={DiffMethod.WORDS}
           hideLineNumbers={true}

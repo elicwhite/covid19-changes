@@ -20,7 +20,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "generate-updates": "node generate.js",
+    "backfill-updates": "node generate.js",
+    "generate-mapping": "node generate-cdc-mapping.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
@@ -42,6 +43,7 @@
   "devDependencies": {
     "gh-pages": "^2.2.0",
     "node-fetch": "^2.6.0",
-    "node-html-parser": "^1.2.8"
+    "node-html-parser": "^1.2.8",
+    "prettier": "^1.19.1"
   }
 }

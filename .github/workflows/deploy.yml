@@ -15,7 +15,5 @@ jobs:
           node-version: '10.x'
       - name: 'Setup Dependencies'
         run: yarn
-      - name: Build
-        run: yarn build
       - name: Deploy
-        run: ls
+        run: yarn deploy

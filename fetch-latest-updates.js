@@ -6,8 +6,7 @@ const path = require('path');
 const CDC_UPDATES_PATH = path.join(__dirname, 'cdcupdates');
 const CDC_URL = 'https://www.cdc.gov/coronavirus/2019-nCoV/summary.html';
 
-const date = new Date();
-
+const date = currentTimeInTimezone('America/New_York');
 const month = String(date.getMonth() + 1).padStart(2, '0');
 const day = String(date.getDate()).padStart(2, '0');
 const shortDateString = `20-${month}-${day}`;
@@ -26,6 +25,18 @@ async function run() {
     .join('\n');
 
   fs.writeFileSync(destination, cleanedContent);
+}
+
+function currentTimeInTimezone(timezone) {
+  var date = new Date();
+
+  var invdate = new Date(
+    date.toLocaleString('en-US', {
+      timeZone: timezone,
+    }),
+  );
+
+  return invdate;
 }
 
 run().catch(err => {

@@ -1,0 +1,64 @@
+2019 Novel Coronavirus (2019-nCoV) Situation Summary
+Minus
+Related Pages
+This is an emerging, rapidly evolving situation and CDC will provide updated information as it becomes available, in addition to updated guidance.
+Updated February 5, 2020
+Background
+CDC is closely monitoring an outbreak of respiratory illness caused by a novel (new) coronavirus (named “2019-nCoV”) that was first detected in Wuhan City, Hubei Province, China and which continues to expand. Chinese health officials have reported tens of thousands of infections with 2019-nCoV in China, with the virus reportedly spreading from person-to-person in parts of that country. Infections with 2019-nCoV, most of them associated with travel from Wuhan, also are being reported in a growing number of international locations, including the United States. Some person-to-person spread of this virus outside China has been detected. The United States reported the first confirmed instance of person-to-person spread with this virus on January 30, 2020.
+On January 30, 2020, the International Health Regulations Emergency Committee of the World Health Organization declared the outbreak a “public health emergency of international concernexternal icon” (PHEIC). On January 31, 2020, Health and Human Services Secretary Alex M. Azar II declared a public health emergency (PHE) for the United States to aid the nation’s healthcare community in responding to 2019-nCoV. Also on January 31, the President of the United States signed a presidential “Proclamation on Suspension of Entry as Immigrants and Nonimmigrants of Persons who Pose a Risk of Transmitting 2019 Novel Coronavirusexternal icon“. These measures were announced at a press briefing by members of the President’s Coronavirus Task Forceexternal icon.
+Coronaviruses are a large family of viruses that are common in many different species of animals, including camels, cattle, cats, and bats. Rarely, animal coronaviruses can infect people and then spread between people such as with MERS, SARS, and now with 2019-nCoV.
+Source and Spread of the Virus
+Chinese health authorities were the first to post the full genome of the 2019-nCoV in GenBankexternal icon, the NIH genetic sequence database, and in the Global Initiative on Sharing All Influenza Data (GISAIDexternal icon) portal, an action which has facilitated detection of this virus. CDC is posting the full genome of the 2019-nCoV viruses detected in U.S. patients to GenBank as sequencing is completed.
+2019-nCoV is a betacoronavirus, like MERS and SARs, both of which have their origins in bats. The sequences from U.S. patients are similar to the one that China initially posted, suggesting a likely single, recent emergence of this virus from an animal reservoir.
+Early on, many of the patients in the outbreak of respiratory illness caused by 2019-nCoV in Wuhan, China had some link to a large seafood and live animal market, suggesting animal-to-person spread. Later, a growing number of patients reportedly did not have exposure to animal markets, indicating person-to-person spread. Chinese officials report that sustained person-to-person spread in the community is occurring in China. Person-to-person spread has been reported outside China, including in the United States and other countries. Learn what is known about the spread of newly emerged coronaviruses.
+On This Page
+BackgroundSource and Spread of the VirusSituation in U.S.Illness SeverityRisk AssessmentWhat to ExpectCDC ResponseCDC RecommendsOther Available Resources
+2019-nCoV in the U.S.
+View larger image
+Confirmed 2019-nCoV Cases Globally
+View larger image and see a list of locations
+Situation in U.S.
+Imported cases of 2019-nCoV infection in travelers have been detected in the U.S. Person-to-person spread of 2019-nCoV also has been seen among close contacts of returned travelers from Wuhan, but at this time, this virus is NOT currently spreading in the community in the United States.
+The U.S. government has taken unprecedented stepsexternal icon related to travel in response to the growing public health threat posed by this new coronavirus, including suspending entry in the United States of foreign nationals who have visited China within the past 14 days. Measures to detect this virus among those who are allowed entry into the United States (U.S. citizens, residents and family) who have been in China within 14 days also are being implemented.
+Illness Severity
+Both MERS and SARS have been known to cause severe illness in people. The complete clinical picture with regard to 2019-nCoV is not fully understood. Reported illnesses have ranged from mild to severe, including resulting in death. Learn more about the symptoms associated with 2019-nCoV.
+There are ongoing investigations to learn more. This is a rapidly evolving situation and information will be updated as it becomes available.
+Risk Assessment
+Outbreaks of novel virus infections among people are always of public health concern. The risk from these outbreaks depends on characteristics of the virus, including how well it spreads between people, the severity of resulting illness, and the medical or other measures available to control the impact of the virus (for example, vaccine or treatment medications).
+The potential public health threat posed by 2019-nCoV virus is high, both globally and to the United States. The fact that this virus has caused illness, including illness resulting in death, and sustained person-to-person spread in China is concerning. These factors meet two of the criteria of a pandemic. It’s unclear how the situation will unfold, but risk is dependent on exposure. At this time, some people will have an increased risk of infection, for example healthcare workers caring for 2019-nCoV patients and other close contacts of 2019-nCoV patients. For the general American public, who are unlikely to be exposed to this virus, the immediate health risk from 2019-nCoV is considered low at this time.
+What to Expect
+More cases are likely to be identified in the coming days, including more cases in the United States. It’s also likely that person-to-person spread will continue to occur, including in the United States.
+CDC Response
+This is a picture of CDC’s laboratory test kit for the 2019 novel coronavirus (2019-nCoV). CDC is shipping the test kits to laboratories CDC has designated as qualified, including U.S. state and local public health laboratories, Department of Defense (DOD) laboratories and select international laboratories. The test kits are bolstering global laboratory capacity for detecting 2019-nCov.
+resize iconView Larger
+Close
+This is a picture of CDC’s laboratory test kit for the 2019 novel coronavirus (2019-nCoV). CDC is shipping the test kits to laboratories CDC has designated as qualified, including U.S. state and local public health laboratories, Department of Defense (DOD) laboratories and select international laboratories. The test kits are bolstering global laboratory capacity for detecting 2019-nCov.
+download iconDownload Imageimage icon[JPG, NAN ]
+The federal government is working closely with state, local, tribal, and territorial partners as well as public health partners to respond to this public health threat.
+The public health response is multi-layered, with the goal of detecting and minimizing introductions of this virus in the United States so as to reduce the spread and the impact of this virus.
+CDC established a 2019-nCoV Incident Management Structure on January 7, 2020. On January 21, 2020, CDC activated its Emergency Operations Center to better provide ongoing support to the 2019-nCoV response.
+On January 27, 2020, CDC issued updated travel guidance for China, recommending that travelers avoid all nonessential travel to all of the country (Level 3 Travel Health Notice).
+The U.S. government has taken unprecedented steps with respect to travel in response to the growing public health threat posed by this new coronavirus:
+Effective February 2, 2020 at 5pm, the U.S. government suspended entry of foreign nationals who have been in China within the past 14 days.
+U.S. citizens, residents and their immediate family members who have been in Hubei province and other parts of mainland China are allowed to enter the United States, but they are subject to health monitoring and possible quarantine for up to 14 days.
+See more at: “Proclamation on Suspension of Entry as Immigrants and Nonimmigrants of Persons who Pose a Risk of Transmitting 2019 Novel Coronavirusexternal icon”.
+CDC issued an interim Health Alert Network (HAN) Update to inform state and local health departments and healthcare professionals about this outbreak on February 1, 2020.
+On January 30, 2020, CDC published guidance for healthcare professionals on the clinical care of 2019-nCoV patients.
+On February 3, 2020, CDC posted guidance for assessing the potential risk for various exposures to 2019-nCoV and managing those people appropriately.
+CDC has deployed multidisciplinary teams to Washington, Illinois, California, and Arizona to assist health departments with clinical management, contact tracing, and communications.
+CDC has developed a real time Reverse Transcription-Polymerase Chain Reaction (rRT-PCR) test that can diagnose 2019-nCoV in respiratory and serum samples from clinical specimens. On January 24, 2020, CDC publicly posted the assay protocol for this test. Currently, testing for this virus must take place at CDC.
+CDC submitted an Emergency Use Authorization (EUA) package to the U.S. Food and Drugs Administration on February 3, 2020.
+FDA approved the EUA, on February 4, 2020. On February 5, 2020, CDC test kits were available for ordering by domestic and international partners through the agency’s International Reagent Resourceexternal icon.
+CDC uploaded to GenBank the entire genome of the virus from reported cases in the United States as sequencing was completed.
+CDC has grown the virus in cell culture, which is necessary for further studies, including for additional genetic characterization. The cell-grown virus has been sent to NIH’s BEI Resources Repositoryexternal icon for use by the broad scientific community.
+CDC Recommends
+While the immediate risk of this new virus to the American public is believed to be low at this time, everyone can do their part to help us respond to this emerging public health threat:
+It’s currently flu and respiratory disease season and CDC recommends getting a flu vaccine, taking everyday preventive actions to help stop the spread of germs, and taking flu antivirals if prescribed.
+If you are a healthcare provider, be on the look-out for people who recently traveled from China and have fever and respiratory symptoms.
+If you are a healthcare provider caring for a 2019-nCoV patient or a public health responder, please take care of yourself and follow recommended infection control procedures.
+For people who have had close contact with someone infected with 2019-nCoV who develop symptoms, contact your healthcare provider, and tell them about your symptoms and your exposure to a 2019-nCoV patient.
+For people who are ill with 2019-nCoV, please follow CDC guidance on how to reduce the risk of spreading your illness to others. This guidance in on the CDC website.
+Other Available Resources
+The following resources are available with information on 2019-nCoV
+U.S. Department of State China Travel Advisoryexternal icon
+World Health Organization, Coronavirusexternal icon

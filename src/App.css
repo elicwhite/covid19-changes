@@ -7,6 +7,12 @@ h1 {
   justify-content: space-around;
 }
 
+.page-picker-row {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1em;
+}
+
 .page-center {
   display: flex;
   justify-content: center;

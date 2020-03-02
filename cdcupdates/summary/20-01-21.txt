@@ -1,0 +1,34 @@
+2019 Novel Coronavirus (2019-nCoV), Wuhan, China
+Minus
+Related Pages
+This is an emerging, rapidly evolving situation and CDC will provide updated information as it becomes available, in addition to updated guidance.
+On This Page
+Situation SummaryRisk AssessmentWhat to ExpectCDC ResponseOther Available Resources
+Updated January 21, 2020
+Situation Summary
+View larger image
+The Centers for Disease Control and Prevention (CDC) is closely monitoring an outbreak caused by a novel (new) coronavirus in Wuhan, Hubei Province, China. Chinese authorities first identified the new coronavirus, which has resulted in close to 300 confirmed human infections in China with several deaths reported. A number of countries, including the United States, have been actively screening incoming travelers from Wuhan and exported human infections with the novel coronavirus have been confirmed in Thailand,external icon Japanexternal icon, and The Republic of Koreaexternal icon. The United States announced their first infection with 2019-nCoV detected in a traveler returning from Wuhan.
+Chinese health authorities posted the full genome of the so-called “2019 novel coronavirus” or “2019-nCoV” in GenBankexternal icon, the NIH genetic sequence database, and in the Global Initiative on Sharing All Influenza Data (GISAIDexternal icon) portal.
+Coronaviruses are a large family of viruses, some causing illness in people and others that circulate among animals, including camels, cats and bats. Rarely, animal coronaviruses can evolve and infect people and then spread between people such as has been seen with MERS and SARS. Past MERS and SARS outbreaks have been complex, requiring comprehensive public health responses.
+Early on, many of the patients in the outbreak in Wuhan, China reportedly had some link to a large seafood and animal market, suggesting animal-to-person spread. However, a growing number of patients reportedly have not had exposure to animal markets, suggesting limited person-to-person spread is occurring, though it’s unclear how easily or sustainably this virus is spreading between people. Both MERS and SARS have been known to cause severe illness in people. The situation with regard to 2019-nCoV is still unclear. While severe illness, including illness resulting in four deaths, has been reported in China, other patients have had milder illness and been discharged.
+There are ongoing investigations to learn more. This is a rapidly evolving situation and information will be updated as it becomes available.
+Risk Assessment
+Outbreaks of novel virus infections among people are always of public health concern. The risk from these outbreaks depends on characteristics of the virus, including whether and how well it spreads between people, the severity of resulting illness, and the medical or other measures available to control the impact of the virus (for example, vaccine or treatment medications).
+There is much more to learn about how the 2019-nCoV virus spreads, severity of associated illness, and other features of the virus. Investigations are ongoing. While CDC considers this is a serious public health concern, based on current information, the immediate health risk from 2019-nCoV to the general American public is considered low at this time. Nevertheless, CDC is taking proactive preparedness precautions.
+What to Expect
+Access to the full genetic sequence of 2019-nCoV will help identify infections with this virus going forward. More cases may be identified in the coming days, including more in countries outside China, including possibly more cases in the United States. Given what has occurred previously with MERS and SARS, it’s likely that some limited person-to-person spread will continue to occur.
+CDC Response
+CDC is closely monitoring this situation and is working with WHO.
+CDC established a 2019-nCoV Incident Management Structure on January 7, 2020. On January 21, 2020, CDC activated its Emergency Response System to better provide ongoing support to the 2019-nCoV response.
+On January 21, 2020, CDC again updated its interim travel health notice for this destination to provide information to people who may be traveling to Wuhan City and who may get sick. The travel notice was raised from Level 1; Practice Usual Precautions, to a Level 2: Practice Enhanced Precautions advising travelers that preliminary information suggests that older adults with underlying health conditions may be at increased risk for severe disease.
+CDC began entry screening of passengers on direct and connecting flights from Wuhan China to the three main ports of entry in the United States on January 17, 2020 and will to expand that screening to Atlanta and Chicago in the coming days. CDC, working with DHS, also will funnel all travelers from Wuhan, China to the five airports conducting entry health screening. Together, the five airports will cover all travelers arriving in the United States whose travel originated from Wuhan, China.
+CDC issued an updated interim Health Alert Notice (HAN) Advisory to inform state and local health departments and health care providers about this outbreak on January 17, 2020.
+A CDC team has deployed a team to support the ongoing investigation in the state of Washington in response to the first reported case of 2019-nCoV in the United States, including potentially tracing close contacts to determine if anyone else has become ill.
+CDC has developed a real time Reverse Transcription-Polymerase Chain Reaction (rRT-PCR) test that can diagnose 2019-nCoV. Currently, testing for this virus must take place at CDC, but in the coming days and weeks, CDC will share these tests with domestic and international partners through the agency’s International Reagent Resourceexternal icon.
+Other Available Resources
+The following resources are available with information on 2019-nCoV
+CDC Travelers’ Health: Novel Coronavirus in China
+CDC  Health Alert Network Advisory Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China
+CDC Health Alert Network Advisory information for state and local health departments and health care providers
+CDC Information on Coronaviruses
+World Health Organization, Coronavirusexternal icon

@@ -15,8 +15,7 @@ const CDC_PAGES = {
     'https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html'
 };
 
-const date = new Date();
-
+const date = currentTimeInTimezone('America/New_York');
 const month = String(date.getMonth() + 1).padStart(2, '0');
 const day = String(date.getDate()).padStart(2, '0');
 const shortDateString = `20-${month}-${day}`;
@@ -38,6 +37,18 @@ async function run() {
 
     fs.writeFileSync(destination, cleanedContent);
   }
+}
+
+function currentTimeInTimezone(timezone) {
+  var date = new Date();
+
+  var invdate = new Date(
+    date.toLocaleString('en-US', {
+      timeZone: timezone,
+    }),
+  );
+
+  return invdate;
 }
 
 run().catch(err => {

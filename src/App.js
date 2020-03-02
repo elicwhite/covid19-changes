@@ -26,7 +26,7 @@ function App() {
   const initialToIndex =
     query.to != null && dateOptions.indexOf(query.to) >= 0
       ? dateOptions.indexOf(query.to)
-      : 1;
+      : 0;
 
   const [nextIndex, setNextIndex] = useState(initialToIndex);
   const [prevIndex, setPrevIndex] = useState(initialFromIndex);

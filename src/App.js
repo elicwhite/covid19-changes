@@ -34,9 +34,9 @@ function getPageMapping(page) {
 function App() {
   const query = queryString.parse(window.location.search);
 
-  var initialPage = query.page || 'summary';
+  const initialPage = query.page in pages ? query.page : 'summary';
   const [page, setPage] = useState(initialPage);
-  var CDCUpdates = getPageMapping(page);
+  const CDCUpdates = getPageMapping(page);
 
   const dateOptions = Object.keys(CDCUpdates).reverse();
   const initialFromIndex =

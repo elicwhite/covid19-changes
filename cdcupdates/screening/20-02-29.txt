@@ -1,0 +1,58 @@
+Evaluating and Reporting Persons Under Investigation (PUI)
+Minus
+Related Pages
+Summary of Recent ChangesRevisions were made on February 27, 2020, to reflect the following:
+Information updated in the “Criteria to Guide Evaluation of PUI for COVID-19” section.
+Updated February 27, 2020
+Limited information is available to characterize the spectrum of clinical illness associated with coronavirus disease 2019 (COVID-19). No vaccine or specific treatment for COVID-19 is available; care is supportive.
+The CDC clinical criteria for a COVID-19 person under investigation (PUI) have been developed based on what is known about MERS-CoV and SARS-CoV and are subject to change as additional information becomes available.
+Healthcare providers should obtain a detailed travel history for patients being evaluated with fever and acute respiratory illness. CDC guidance for evaluating and reporting a PUI for MERS-CoV remains unchanged.
+CDC health advisory
+Update and Interim Guidance on Outbreak of Coronavirus Disease 2019 (COVID-19)
+CDC continues to closely monitor an outbreak of respiratory illness caused by COVID-19 that was initially detected in Wuhan City, Hubei Province, China. This HAN Update provides a situational update and guidance to state and local health departments and health care providers.
+phone iconContact your local or state health departmentHealthcare providers should immediately notify their localexternal icon or stateexternal icon health department in the event of a PUI for COVID-19.
+Criteria to Guide Evaluation of PUI for COVID-19
+Local health departments, in consultation with clinicians, should determine whether a patient is a PUI for COVID-2019. The CDC clinical criteria for COVID-19 PUIs have been developed based on available information about this novel virus, as well as what is known about Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). These criteria are subject to change as additional information becomes available.
+Clinical features and epidemiologic risk
+Clinical Features
+&
+Epidemiologic Risk
+Fever1 or signs/symptoms of lower respiratory illness (e.g. cough or shortness of breath)
+AND
+Any person, including healthcare workers2, who has had close contact3 with a laboratory-confirmed4 COVID-19 patient within 14 days of symptom onset
+Fever1 and signs/symptoms of a lower respiratory illness (e.g., cough or shortness of breath) requiring hospitalization
+AND
+A history of travel from affected geographic areas5 (see below) within 14 days of symptom onset
+Fever1 with severe acute lower respiratory illness (e.g., pneumonia, ARDS) requiring hospitalization and without alternative explanatory diagnosis (e.g., influenza)6
+AND
+No source of exposure has been identified
+Affected Geographic Areas with Widespread or Sustained Community Transmission
+Last updated February 28, 2020
+China (Level 3 Travel Health Notice)
+Iran (Level 3 Travel Health Notice)
+Italy (Level 3 Travel Health Notice)
+Japan (Level 2 Travel Health Notice)
+South Korea (Level 3 Travel Health Notice)
+The criteria are intended to serve as guidance for evaluation. In consultation with public health departments, patients should be evaluated on a case-by-case basis to determine the need for testing. Testing may be considered for deceased persons who would otherwise meet the PUI criteria.
+Recommendations for Reporting, Testing, and Specimen Collection
+Updated February 28, 2020
+Clinicians should immediately implement recommended infection prevention and control practices if a patient is suspected of having COVID-19. They should also notify infection control personnel at their healthcare facility and their state or local health department if a patient is classified as a PUI for COVID-19. State health departments that have identified a PUI or a laboratory-confirmed case should complete a PUI and Case Report form through the processes identified on CDC’s Coronavirus Disease 2019 website. State and local health departments can contact CDC’s Emergency Operations Center (EOC) at 770-488-7100 for assistance with obtaining, storing, and shipping appropriate specimens to CDC for testing, including after hours or on weekends or holidays. Currently, diagnostic testing for COVID-19 is being performed at state public health laboratories and CDC. Testing for other respiratory pathogens should not delay specimen testing for COVID-19.
+For initial diagnostic testing for SARS-CoV-2, CDC recommends collecting and testing upper respiratory tract specimens (nasopharyngeal AND oropharyngeal swabs). CDC also recommends testing lower respiratory tract specimens, if available. For patients who develop a productive cough, sputum should be collected and tested for SARS-CoV-2. The induction of sputum is not recommended. For patients for whom it is clinically indicated (e.g., those receiving invasive mechanical ventilation), a lower respiratory tract aspirate or bronchoalveolar lavage sample should be collected and tested as a lower respiratory tract specimen. Specimens should be collected as soon as possible once a PUI is identified, regardless of the time of symptom onset. See Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from Patients Under Investigation (PUIs) for COVID-19 and Biosafety FAQs for handling and processing specimens from suspected cases and PUIs.
+Footnotes
+1Fever may be subjective or confirmed
+2For healthcare personnel, testing may be considered if there has been exposure to a person with suspected COVID-19 without laboratory confirmation. Because of their often extensive and close contact with vulnerable patients in healthcare settings, even mild signs and symptoms (e.g., sore throat) of COVID-19 should be evaluated among potentially exposed healthcare personnel. Additional information is available in CDC’s Interim U.S. Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with Coronavirus Disease 2019 (COVID-19).
+3Close contact is defined as—
+a) being within approximately 6 feet (2 meters) of a COVID-19 case for a prolonged period of time; close contact can occur while caring for, living with, visiting, or sharing a healthcare waiting area or room with a COVID-19 case
+– or –
+b) having direct contact with infectious secretions of a COVID-19 case (e.g., being coughed on)
+If such contact occurs while not wearing recommended personal protective equipment or PPE (e.g., gowns, gloves, NIOSH-certified disposable N95 respirator, eye protection), criteria for PUI consideration are met.
+Additional information is available in CDC’s updated Interim Infection Prevention and Control Recommendations for Patients with Confirmed COVID-19 or Persons Under Investigation for COVID-19 in Healthcare Settings.
+Data to inform the definition of close contact are limited. Considerations when assessing close contact include the duration of exposure (e.g., longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g., coughing likely increases exposure risk as does exposure to a severely ill patient). Special consideration should be given to healthcare personnel exposed in healthcare settings as described in CDC’s Interim U.S. Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with COVID-19.
+4Documentation of laboratory-confirmation of COVID-19 may not be possible for travelers or persons caring for COVID-19 patients in other countries.
+5Affected areas are defined as geographic regions where sustained community transmission has been identified. Relevant affected areas will be defined as a country with at least a CDC Level 2 Travel Health Notice. See all COVID-19 Travel Health Notices.
+6Category includes single or clusters of patients with severe acute lower respiratory illness (e.g., pneumonia, ARDS) of unknown etiology in which COVID-19 is being considered.
+Additional Resources:
+State health department after-hours contact listexternal icon
+Directory of Local Health Departmentsexternal icon
+World Health Organization (WHO) Coronavirusexternal icon
+WHO guidance on clinical management of severe acute respiratory infection when COVID-19 is suspectedexternal icon

@@ -1,0 +1,56 @@
+Evaluating and Reporting Patients Under Investigation (PUI)
+Minus
+Related Pages
+Updated February 2, 2020
+Limited information is available to characterize the spectrum of clinical illness associated with 2019-nCoV. No vaccine or specific treatment for 2019-nCoV infection is available; care is supportive.
+The CDC clinical criteria for a 2019-nCoV person under investigation (PUI) have been developed based on what is known about MERS-CoV and SARS-CoV and are subject to change as additional information becomes available.
+Health care providers should obtain a detailed travel history for patients being evaluated with fever and acute respiratory illness. CDC guidance for evaluating and reporting a PUI for MERS-CoV remains unchanged.
+Criteria to Guide Evaluation of Persons Under Investigation (PUI) for 2019-nCoV
+Patients in the United States who meet the following criteria should be evaluated as a PUI for 2019-nCoV.
+clipboard list check solid iconFlowchart to Identify and Assess 2019 Novel CoronavirusPrintable resource for healthcare professionals for the evaluation of patients who may be ill with or who may have been exposed to 2019 Novel Coronavirus (2019-nCoV).
+Learn more
+phone iconContact your local or state health departmentHealthcare providers should immediately notify their localexternal icon or stateexternal icon health department in the event of a PUI for 2019-nCoV.
+Clinical features and epidemiologic risk
+Clinical Features
+&
+Epidemiologic Risk
+Fever1 or signs/symptoms of lower respiratory illness (e.g. cough or shortness of breath)
+AND
+Any person, including health care workers, who has had close contact2 with a laboratory-confirmed3,4 2019-nCoV patient within 14 days of symptom onset
+Fever1 and signs/symptoms of a lower respiratory illness (e.g., cough or shortness of breath)
+AND
+A history of travel from Hubei Province, China5 within 14 days of symptom onset
+Fever1 and signs/symptoms of a lower respiratory illness (e.g., cough or shortness of breath) requiring hospitalization4
+AND
+A history of travel from mainland China5 within 14 days of symptom onset
+The criteria are intended to serve as guidance for evaluation. Patients should be evaluated and discussed with public health departments on a case-by-case basis if their clinical presentation or exposure history is equivocal (e.g., uncertain travel or exposure).
+Recommendations for Reporting, Testing, and Specimen Collection
+Updated February 3, 2020
+Healthcare providers should immediately notify both infection control personnel at their healthcare facility and their local or state health department in the event of a PUI for 2019-nCoV. State health departments that have identified a PUI should immediately contact CDC’s Emergency Operations Center (EOC) at 770-488-7100 and complete a 2019-nCoV PUI case investigation form available below.
+Download fillable PDF form pdf icon[PDF – 211 KB]
+Download Microsoft Word form word icon[DOC – 90 KB]
+CDC’s EOC will assist local/state health departments to collect, store, and ship specimens appropriately to CDC, including during afterhours or on weekends/holidays. At this time, diagnostic testing for 2019-nCoV can be conducted only at CDC.
+Testing for other respiratory pathogens should not delay specimen shipping to CDC. If a PUI tests positive for another respiratory pathogen, after clinical evaluation and consultation with public health authorities, they may no longer be considered a PUI. This may evolve as more information becomes available on possible 2019-nCoV co-infections.
+For biosafety reasons, it is not recommended to perform virus isolation in cell culture or initial characterization of viral agents recovered in cultures of specimens from a PUI for 2019-nCoV.
+To increase the likelihood of detecting 2019-nCoV infection, CDC recommends collecting and testing multiple clinical specimens from different sites, including two specimen types—lower respiratory and upper respiratory. Additional specimen types (e.g., stool, urine) may be collected and stored. Specimens should be collected as soon as possible once a PUI is identified regardless of time of symptom onset. Additional guidance for collection, handling, and testing of clinical specimens is available.
+Interim Healthcare Infection Prevention and Control Recommendations for Persons Under Investigation for 2019-nCoV
+Interim Health Care Infection Prevention and Control Recommendations for Persons Under Investigation for 2019 Novel Coronavirus
+Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Health Care Settings
+CDC Health Alert Network Advisory Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV)
+Footnotes
+1Fever may be subjective or confirmed
+2Close contact is defined as—
+a) being within approximately 6 feet (2 meters) of a 2019-nCoV case for a prolonged period of time; close contact can occur while caring for, living with, visiting, or sharing a health care waiting area or room with a 2019-nCoV case
+– or –
+b) having direct contact with infectious secretions of a 2019-nCoV case (e.g., being coughed on)
+If such contact occurs while not wearing recommended personal protective equipment or PPE (e.g., gowns, gloves, NIOSH-certified disposable N95 respirator, eye protection), criteria for PUI consideration are met”
+See CDC’s updated Interim Healthcare Infection Prevention and Control Recommendations for Persons Under Investigation for 2019 Novel Coronavirus.
+Data to inform the definition of close contact are limited. Considerations when assessing close contact include the duration of exposure (e.g., longer exposure time likely increases exposure risk) and the clinical symptoms of the person with 2019-nCoV (e.g., coughing likely increases exposure risk as does exposure to a severely ill patient). Special consideration should be given to those exposed in health care settings.
+3Documentation of laboratory-confirmation of 2019-nCoV may not be possible for travelers or persons caring for patients in other countries.
+4Category also includes any member of a cluster of patients with severe acute lower respiratory illness (e.g., pneumonia, ARDS) of unknown etiology in which 2019-nCoV is being considered that requires hospitalization. Such persons should be evaluated in consultation with state and local health departments regardless of travel history.
+5For persons with travel to China within 14 days that are being regularly monitored by local health departments or referred for evaluation from border screening, testing for nCoV can be considered at the discretion of the health officials for all persons with illnesses with fever and lower respiratory symptoms (those hospitalized and those not hospitalized).
+Additional Resources:
+State health department after-hours contact listexternal icon
+Directory of Local Health Departmentsexternal icon
+World Health Organization (WHO) Coronavirusexternal icon
+WHO guidance on clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspectedexternal icon

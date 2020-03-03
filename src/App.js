@@ -4,7 +4,10 @@ import ReactGA from 'react-ga';
 import Dropdown from 'react-dropdown';
 import queryString from 'query-string';
 import './App.css';
-import CDCUpdates from './cdcUpdatesMapping';
+import CDCUpdatesSummary from './cdcUpdatesMappingSummary';
+import CDCUpdatesScreening from './cdcUpdatesMappingScreening';
+import CDCUpdatesManagement from './cdcUpdatesMappingManagement';
+import pages from './pages';
 
 function convertShorthandToDate(shorthand) {
   const [year, month, day] = shorthand.split('-').map(val => parseInt(val, 10));
@@ -15,8 +18,26 @@ function convertShorthandToDate(shorthand) {
   });
 }
 
+function getPageMapping(page) {
+  switch (page) {
+    case 'summary':
+      return CDCUpdatesSummary;
+    case 'management':
+      return CDCUpdatesManagement;
+    case 'screening':
+      return CDCUpdatesScreening;
+    default:
+      return CDCUpdatesSummary;
+  }
+}
+
 function App() {
   const query = queryString.parse(window.location.search);
+
+  const initialPage = query.page in pages ? query.page : 'summary';
+  const [page, setPage] = useState(initialPage);
+  const CDCUpdates = getPageMapping(page);
+
   const dateOptions = Object.keys(CDCUpdates).reverse();
   const initialFromIndex =
     query.from != null && dateOptions.indexOf(query.from) >= 0
@@ -36,6 +57,11 @@ function App() {
     label: convertShorthandToDate(dateOption),
   }));
 
+  const pageOptions = Object.keys(pages).map(page => ({
+    value: page,
+    label: pages[page].dropDownLabel,
+  }));
+
   const prevDate = dateOptions[prevIndex];
   const nextDate = dateOptions[nextIndex];
 
@@ -49,35 +75,46 @@ function App() {
       prevIndexPointer++;
     }
     setPrevIndex(prevIndexPointer);
-  }, []);
+  }, [page]);
 
   useEffect(() => {
     window.history.replaceState(
       {
         prevDate,
         nextDate,
+        page,
       },
       '',
       '?' +
         queryString.stringify({
           from: prevDate,
           to: nextDate,
+          page: page,
         }),
     );
 
     if (!window.location.hostname.includes('localhost')) {
       ReactGA.pageview(window.location.pathname + window.location.search);
     }
-  }, [prevDate, nextDate]);
+  }, [prevDate, nextDate, page]);
 
   return (
     <div className="App">
       <h1>
-        Comparison of{' '}
-        <a href="https://www.cdc.gov/coronavirus/2019-nCoV/summary.html">
-          CDC's COVID-19 updates
-        </a>
+        Comparison of <a href={pages[page].url}>{pages[page].title}</a>
       </h1>
+      <div className="page-picker-row">
+        <Dropdown
+          options={pageOptions}
+          onChange={newValue => {
+            setPrevIndex(1);
+            setNextIndex(0);
+            setPage(newValue.value);
+          }}
+          value={page}
+          placeholder="Select a page"
+        />
+      </div>
       <div className="date-picker-row">
         <Dropdown
           options={formattedOptions}

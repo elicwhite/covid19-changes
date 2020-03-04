@@ -8,9 +8,6 @@ Updated recommendations for specimen collection.
 Updated March 4, 2020
 Limited information is available to characterize the spectrum of clinical illness associated with coronavirus disease 2019 (COVID-19). No vaccine or specific treatment for COVID-19 is available; care is supportive.
 The CDC clinical criteria for a COVID-19 person under investigation (PUI) have been developed based on what is known about COVID-19 and are subject to change as additional information becomes available.
-CDC health advisory
-Update and Interim Guidance on Outbreak of Coronavirus Disease 2019 (COVID-19)
-CDC continues to closely monitor an outbreak of respiratory illness caused by COVID-19 that was initially detected in Wuhan City, Hubei Province, China. This HAN Update provides a situational update and guidance to state and local health departments and health care providers.
 phone iconContact your local or state health departmentHealthcare providers should immediately notify their localexternal icon or stateexternal icon health department in the event of a PUI for COVID-19.
 Criteria to Guide Evaluation of PUI for COVID-19
 As availability of diagnostic testing for COVID-19 increases, clinicians will be able to access laboratory tests for diagnosing COVID-19 through clinical laboratories performing tests authorized by FDA under an Emergency Use Authorization (EUA). Clinicians will also be able to access laboratory testing through public health laboratories in their jurisdictions.

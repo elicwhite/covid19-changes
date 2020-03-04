@@ -1,8 +1,11 @@
 Evaluating and Reporting Persons Under Investigation (PUI)
 Minus
 Related Pages
-Summary of Recent ChangesRevisions were made on February 27, 2020, to reflect the following:
-Information updated in the “Criteria to Guide Evaluation of PUI for COVID-19” section.
+Summary of Recent ChangesRevisions were made on February 20, 2020, to reflect the following:
+Updated recommendations for specimen collection
+Revisions were made on February 27, 2020, to reflect the following:
+Criteria for evaluation of Persons Under Investigation (PUI) were expanded to include those with a history of travel to areas of sustained and widespread transmission.
+Criteria for evaluation of Persons Under Investigation (PUI) were expanded to recommend clinicians and state and local health departments consider COVID-19 in patients with severe respiratory illness even in the absence of travel history to affected areas.
 Updated February 27, 2020
 Limited information is available to characterize the spectrum of clinical illness associated with coronavirus disease 2019 (COVID-19). No vaccine or specific treatment for COVID-19 is available; care is supportive.
 The CDC clinical criteria for a COVID-19 person under investigation (PUI) have been developed based on what is known about MERS-CoV and SARS-CoV and are subject to change as additional information becomes available.
@@ -33,7 +36,7 @@ Iran (Level 3 Travel Health Notice)
 Italy (Level 3 Travel Health Notice)
 Japan (Level 2 Travel Health Notice)
 South Korea (Level 3 Travel Health Notice)
-The criteria are intended to serve as guidance for evaluation. In consultation with public health departments, patients should be evaluated on a case-by-case basis to determine the need for testing. Testing may be considered for deceased persons who would otherwise meet the PUI criteria.
+The criteria are intended to serve as guidance for evaluation. In consultation with public health departments, patients should be evaluated on a case-by-case basis to determine the need for testing. Where there is community transmission in the United States, clinicians and public health officials may consider testing patients without severe illness. Decisions on which patients receive testing should be based on the local epidemiology of COVID-19, as well as the clinical course of illness. Testing may be considered for deceased persons who would otherwise meet the PUI criteria.
 Recommendations for Reporting, Testing, and Specimen Collection
 Updated February 28, 2020
 Clinicians should immediately implement recommended infection prevention and control practices if a patient is suspected of having COVID-19. They should also notify infection control personnel at their healthcare facility and their state or local health department if a patient is classified as a PUI for COVID-19. State health departments that have identified a PUI or a laboratory-confirmed case should complete a PUI and Case Report form through the processes identified on CDC’s Coronavirus Disease 2019 website. State and local health departments can contact CDC’s Emergency Operations Center (EOC) at 770-488-7100 for assistance with obtaining, storing, and shipping appropriate specimens to CDC for testing, including after hours or on weekends or holidays. Currently, diagnostic testing for COVID-19 is being performed at state public health laboratories and CDC. Testing for other respiratory pathogens should not delay specimen testing for COVID-19.

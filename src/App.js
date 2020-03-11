@@ -3,6 +3,9 @@ import ReactDiffViewer, { DiffMethod } from 'react-diff-viewer';
 import ReactGA from 'react-ga';
 import Dropdown from 'react-dropdown';
 import queryString from 'query-string';
+import { ThemeProvider } from 'styled-components';
+import { lightTheme, darkTheme } from './theme';
+import { GlobalStyles } from './global';
 import './App.css';
 import CDCUpdatesSummary from './cdcUpdatesMappingSummary';
 import CDCUpdatesScreening from './cdcUpdatesMappingScreening';
@@ -65,7 +68,15 @@ function App() {
   const prevDate = dateOptions[prevIndex];
   const nextDate = dateOptions[nextIndex];
 
-  const [loading, setLoading] = useState(true);
+  const [theme, setTheme] = useState('light');
+
+  const toggleTheme = () => {
+    if (theme === 'light'){
+      setTheme('dark');
+    }else{
+      setTheme('light');
+    }
+  }
 
   // On mount, find the most recent previous date that results in a diff
   useEffect(() => {
@@ -77,7 +88,6 @@ function App() {
       prevIndexPointer++;
     }
     setPrevIndex(prevIndexPointer);
-    setLoading(false);
   }, [page]);
 
   useEffect(() => {
@@ -103,10 +113,13 @@ function App() {
 
   return (
     <div className="App">
+      <ThemeProvider theme={theme === 'light' ? lightTheme : darkTheme}>
+        <GlobalStyles />
       <h1>
         Comparison of <a href={pages[page].url}>{pages[page].title}</a>
       </h1>
       <div className="page-picker-row">
+      <Toggle theme={theme} toggleTheme={toggleTheme} />
         <Dropdown
           options={pageOptions}
           onChange={newValue => {
@@ -136,7 +149,7 @@ function App() {
           placeholder="Select a date to compare to"
         />
       </div>
-      {!loading && CDCUpdates[nextDate] === CDCUpdates[prevDate] ? (
+      {CDCUpdates[nextDate] === CDCUpdates[prevDate] ? (
         <NoUpdates prevDate={prevDate} nextDate={nextDate} />
       ) : (
         <ReactDiffViewer
@@ -145,8 +158,10 @@ function App() {
           splitView={true}
           compareMethod={DiffMethod.WORDS}
           hideLineNumbers={true}
+          useDarkTheme={theme === 'dark'}
         />
       )}
+      </ThemeProvider>
     </div>
   );
 }

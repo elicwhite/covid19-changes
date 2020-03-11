@@ -65,6 +65,8 @@ function App() {
   const prevDate = dateOptions[prevIndex];
   const nextDate = dateOptions[nextIndex];
 
+  const [loading, setLoading] = useState(true);
+
   // On mount, find the most recent previous date that results in a diff
   useEffect(() => {
     let prevIndexPointer = prevIndex;
@@ -75,6 +77,7 @@ function App() {
       prevIndexPointer++;
     }
     setPrevIndex(prevIndexPointer);
+    setLoading(false);
   }, [page]);
 
   useEffect(() => {
@@ -133,7 +136,7 @@ function App() {
           placeholder="Select a date to compare to"
         />
       </div>
-      {CDCUpdates[nextDate] === CDCUpdates[prevDate] ? (
+      {!loading && CDCUpdates[nextDate] === CDCUpdates[prevDate] ? (
         <NoUpdates prevDate={prevDate} nextDate={nextDate} />
       ) : (
         <ReactDiffViewer

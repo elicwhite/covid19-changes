@@ -6,6 +6,7 @@ import queryString from 'query-string';
 import { ThemeProvider } from 'styled-components';
 import { lightTheme, darkTheme } from './theme';
 import { GlobalStyles } from './global';
+import storage from 'local-storage-fallback';
 import './App.css';
 import CDCUpdatesSummary from './cdcUpdatesMappingSummary';
 import CDCUpdatesScreening from './cdcUpdatesMappingScreening';
@@ -32,6 +33,11 @@ function getPageMapping(page) {
     default:
       return CDCUpdatesSummary;
   }
+}
+
+function getInitialTheme() {
+  const savedTheme = storage.getItem('theme');
+  return savedTheme ? savedTheme : 'light';
 }
 
 function App() {
@@ -68,14 +74,10 @@ function App() {
   const prevDate = dateOptions[prevIndex];
   const nextDate = dateOptions[nextIndex];
 
-  const [theme, setTheme] = useState('light');
+  const [theme, setTheme] = useState(getInitialTheme);
 
   const toggleTheme = () => {
-    if (theme === 'light'){
-      setTheme('dark');
-    }else{
-      setTheme('light');
-    }
+    return theme === 'light' ? setTheme('dark') : setTheme('light');
   }
 
   // On mount, find the most recent previous date that results in a diff
@@ -99,11 +101,11 @@ function App() {
       },
       '',
       '?' +
-        queryString.stringify({
-          from: prevDate,
-          to: nextDate,
-          page: page,
-        }),
+      queryString.stringify({
+        from: prevDate,
+        to: nextDate,
+        page: page,
+      }),
     );
 
     if (!window.location.hostname.includes('localhost')) {
@@ -111,56 +113,60 @@ function App() {
     }
   }, [prevDate, nextDate, page]);
 
+  useEffect(() => {
+    storage.setItem('theme', theme)
+  }, [theme]);
+
   return (
     <div className="App">
       <ThemeProvider theme={theme === 'light' ? lightTheme : darkTheme}>
         <GlobalStyles />
-      <h1>
-        Comparison of <a href={pages[page].url}>{pages[page].title}</a>
-      </h1>
-      <div className="page-picker-row">
-      <Toggle theme={theme} toggleTheme={toggleTheme} />
-        <Dropdown
-          options={pageOptions}
-          onChange={newValue => {
-            setPrevIndex(1);
-            setNextIndex(0);
-            setPage(newValue.value);
-          }}
-          value={page}
-          placeholder="Select a page"
-        />
-      </div>
-      <div className="date-picker-row">
-        <Dropdown
-          options={formattedOptions}
-          onChange={newValue => {
-            setPrevIndex(newValue.value);
-          }}
-          value={convertShorthandToDate(prevDate)}
-          placeholder="Select a date to compare from"
-        />
-        <Dropdown
-          options={formattedOptions}
-          onChange={newValue => {
-            setNextIndex(newValue.value);
-          }}
-          value={convertShorthandToDate(nextDate)}
-          placeholder="Select a date to compare to"
-        />
-      </div>
-      {CDCUpdates[nextDate] === CDCUpdates[prevDate] ? (
-        <NoUpdates prevDate={prevDate} nextDate={nextDate} />
-      ) : (
-        <ReactDiffViewer
-          oldValue={CDCUpdates[prevDate]}
-          newValue={CDCUpdates[nextDate]}
-          splitView={true}
-          compareMethod={DiffMethod.WORDS}
-          hideLineNumbers={true}
-          useDarkTheme={theme === 'dark'}
-        />
-      )}
+        <h1>
+          Comparison of <a href={pages[page].url}>{pages[page].title}</a>
+        </h1>
+        <div className="page-picker-row">
+          <button onClick={toggleTheme}>Toggle Dark Mode</button>
+          <Dropdown
+            options={pageOptions}
+            onChange={newValue => {
+              setPrevIndex(1);
+              setNextIndex(0);
+              setPage(newValue.value);
+            }}
+            value={page}
+            placeholder="Select a page"
+          />
+        </div>
+        <div className="date-picker-row">
+          <Dropdown
+            options={formattedOptions}
+            onChange={newValue => {
+              setPrevIndex(newValue.value);
+            }}
+            value={convertShorthandToDate(prevDate)}
+            placeholder="Select a date to compare from"
+          />
+          <Dropdown
+            options={formattedOptions}
+            onChange={newValue => {
+              setNextIndex(newValue.value);
+            }}
+            value={convertShorthandToDate(nextDate)}
+            placeholder="Select a date to compare to"
+          />
+        </div>
+        {CDCUpdates[nextDate] === CDCUpdates[prevDate] ? (
+          <NoUpdates prevDate={prevDate} nextDate={nextDate} />
+        ) : (
+            <ReactDiffViewer
+              oldValue={CDCUpdates[prevDate]}
+              newValue={CDCUpdates[nextDate]}
+              splitView={true}
+              compareMethod={DiffMethod.WORDS}
+              hideLineNumbers={true}
+              useDarkTheme={theme === 'dark'}
+            />
+          )}
       </ThemeProvider>
     </div>
   );

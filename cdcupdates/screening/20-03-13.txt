@@ -8,6 +8,9 @@ Criteria for evaluation of persons for testing for COVID-19 were expanded to inc
 Updated March 4, 2020
 Limited information is available to characterize the spectrum of clinical illness associated with coronavirus disease 2019 (COVID-19). No vaccine or specific treatment for COVID-19 is available; care is supportive.
 The CDC clinical criteria for considering testing for COVID-19 have been developed based on what is known about COVID-19 and are subject to change as additional information becomes available.
+CDC Health Advisory
+Update and Interim Guidance on Outbreak of Coronavirus Disease 2019 (COVID-19)
+CDC continues to closely monitor an outbreak of respiratory illness caused by COVID-19 that was initially detected in Wuhan City, Hubei Province, China. This HAN Update provides a situational update and guidance to state and local health departments and health care providers.
 phone iconContact your local or state health departmentHealthcare providers should immediately notify their localexternal icon or stateexternal icon health department in the event of the identification of a PUI for COVID-19. When working with your local or state health department check their available hours.
 Criteria to Guide Evaluation and Laboratory Testing for COVID-19
 Clinicians should continue to work with their local and state health departments to coordinate testing through public health laboratories. In addition, COVID-19 diagnostic testing, authorized by the Food and Drug Administration under an Emergency Use Authorization (EUA), is becoming available in clinical laboratories. This additional testing capacity will allow clinicians to consider COVID-19 testing for a wider group of symptomatic patients.
@@ -17,14 +20,6 @@ Other symptomatic individuals such as, older adults and individuals with chronic
 Any persons including healthcare personnel2, who within 14 days of symptom onset had close contact3 with a suspect or laboratory-confirmed4 COVID-19 patient, or who have a history of travel from affected geographic areas5 (see below) within 14 days of their symptom onset.
 There are epidemiologic factors that may also help guide decisions about COVID-19 testing. Documented COVID-19 infections in a jurisdiction and known community transmission may contribute to an epidemiologic risk assessment to inform testing decisions. Clinicians are strongly encouraged to test for other causes of respiratory illness (e.g., influenza).
 Mildly ill patients should be encouraged to stay home and contact their healthcare provider by phone for guidance about clinical management. Patients who have severe symptoms, such as difficulty breathing, should seek care immediately. Older patients and individuals who have underlying medical conditions or are immunocompromised should contact their physician early in the course of even mild illness.
-International Areas with Sustained (Ongoing) Transmission
-Last updated March 12, 2020
-China (Level 3 Travel Health Notice)
-Iran (Level 3 Travel Health Notice)
-Most of Europe (Level 3 Travel Health Notice)
-South Korea (Level 3 Travel Health Notice)
-Global Outbreak Notice (Level 2 Travel Health Notice)
-For additional information, please visit CDC’s Travel Information page.
 Recommendations for Reporting, Testing, and Specimen Collection
 Updated February 28, 2020
 Clinicians should immediately implement recommended infection prevention and control practices if a patient is suspected of having COVID-19. They should also notify infection control personnel at their healthcare facility and their state or local health department if a patient is classified as a PUI for COVID-19. State health departments that have identified a PUI or a laboratory-confirmed case should complete a PUI and Case Report form through the processes identified on CDC’s Coronavirus Disease 2019 website. State and local health departments can contact CDC’s Emergency Operations Center (EOC) at 770-488-7100 for assistance with obtaining, storing, and shipping appropriate specimens to CDC for testing, including after hours or on weekends or holidays.

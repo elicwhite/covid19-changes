@@ -1,4 +1,4 @@
-Coronavirus Disease 2019 (COVID-19) Situation Summary
+Situation Summary
 Minus
 Related Pages
 This is an emerging, rapidly evolving situation and CDC will provide updated information as it becomes available, in addition to updated guidance.
@@ -87,9 +87,9 @@ CDC has grown the COVID-19 virus in cell culture, which is necessary for further
 CDC also is developing a serology test for COVID-19.
 CDC Recommends
 Everyone can do their part to help us respond to this emerging public health threat:
-Individuals and communities should familiarize themselves with recommendations to protect themselves and their communities from getting and spreading respiratory illnesses like COVID-19.
+Individuals and communities should familiarize themselves with recommendations to protect themselves and their communities from getting and spreading respiratory illnesses like COVID-19.
 Older people and people with severe chronic conditions should take special precautions because they are at higher risk of developing serious COVID-19 illness.
-If you are a healthcare provider, use your judgment to determine if a patient has signs and symptoms compatible with COVID-19 and whether the patient should be testedexternal icon. Factors to consider in addition to clinical symptoms may include:
+If you are a healthcare provider, use your judgment to determine if a patient has signs and symptoms compatible with COVID-19 and whether the patient should be tested. Factors to consider in addition to clinical symptoms may include:
 Does the patient have recent travel from an affected area?
 Has the patient been in close contact with someone with COVID-19 or with patients with pneumonia of unknown cause?
 Does the patient reside in an area where there has been community spread of COVID-19?

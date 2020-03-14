@@ -2,11 +2,12 @@ import React, { useState, useEffect } from 'react';
 import ReactDiffViewer, { DiffMethod } from 'react-diff-viewer';
 import ReactGA from 'react-ga';
 import Dropdown from 'react-dropdown';
+import Switch from "react-switch";
 import queryString from 'query-string';
 import { ThemeProvider } from 'styled-components';
-import { lightTheme, darkTheme } from './theme';
-import { GlobalStyles } from './global';
-import storage from 'local-storage-fallback';
+import { lightTheme, darkTheme, GlobalStyles } from './themes';
+import { useDarkMode } from './darkMode';
+import { lightModeIcon, darkModeIcon } from './icons';
 import './App.css';
 import CDCUpdatesSummary from './cdcUpdatesMappingSummary';
 import CDCUpdatesScreening from './cdcUpdatesMappingScreening';
@@ -33,11 +34,6 @@ function getPageMapping(page) {
     default:
       return CDCUpdatesSummary;
   }
-}
-
-function getInitialTheme() {
-  const savedTheme = storage.getItem('theme');
-  return savedTheme ? savedTheme : 'light';
 }
 
 function App() {
@@ -74,11 +70,7 @@ function App() {
   const prevDate = dateOptions[prevIndex];
   const nextDate = dateOptions[nextIndex];
 
-  const [theme, setTheme] = useState(getInitialTheme);
-
-  const toggleTheme = () => {
-    return theme === 'light' ? setTheme('dark') : setTheme('light');
-  }
+  const [theme, toggleTheme] = useDarkMode();
 
   // On mount, find the most recent previous date that results in a diff
   useEffect(() => {
@@ -113,10 +105,6 @@ function App() {
     }
   }, [prevDate, nextDate, page]);
 
-  useEffect(() => {
-    storage.setItem('theme', theme)
-  }, [theme]);
-
   return (
     <div className="App">
       <ThemeProvider theme={theme === 'light' ? lightTheme : darkTheme}>
@@ -125,7 +113,19 @@ function App() {
           Comparison of <a href={pages[page].url}>{pages[page].title}</a>
         </h1>
         <div className="page-picker-row">
-          <button onClick={toggleTheme}>Toggle Dark Mode</button>
+          <Switch 
+            onChange={toggleTheme}
+            offColor={'#E0E0E0'}
+            onColor={'#121212'}
+            checked={theme === 'dark'}
+            uncheckedIcon={lightModeIcon('#FDB813')}
+            checkedIcon={darkModeIcon('#EBC815')}
+            handleDiameter={18}
+            height={30}
+            width={60}
+          />
+          </div>
+          <div className="page-picker-row">
           <Dropdown
             options={pageOptions}
             onChange={newValue => {

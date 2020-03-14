@@ -115,12 +115,12 @@ function App() {
         <div className="page-picker-row">
           <Switch 
             onChange={toggleTheme}
-            offColor={'#E8E8E8'}
+            offColor={'#E0E0E0'}
             onColor={'#121212'}
             checked={theme === 'dark'}
-            uncheckedIcon={lightModeIcon}
-            checkedIcon={darkModeIcon}
-            handleDiameter={20}
+            uncheckedIcon={lightModeIcon('#FDB813')}
+            checkedIcon={darkModeIcon('#EBC815')}
+            handleDiameter={18}
             height={30}
             width={60}
           />

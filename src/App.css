@@ -1,3 +1,5 @@
+/* Base stylesheet */
+
 h1 {
   text-align: center;
 }
@@ -34,7 +36,6 @@ h1 {
   cursor: default;
   outline: none;
   padding: 8px 52px 8px 10px;
-  transition: all 200ms ease;
 }
 
 .Dropdown-control:hover {

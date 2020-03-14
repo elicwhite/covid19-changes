@@ -7,12 +7,12 @@ const CDC_UPDATES_PATH = path.join(__dirname, 'cdcupdates');
 
 // CDC urls to scrape
 const CDC_PAGES = {
-  summary: 
-    'https://www.cdc.gov/coronavirus/2019-nCoV/summary.html',
+  summary:
+    'https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html',
   management:
     'https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html',
   screening:
-    'https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html'
+    'https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html',
 };
 
 const date = currentTimeInTimezone('America/New_York');

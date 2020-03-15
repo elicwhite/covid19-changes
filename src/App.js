@@ -65,6 +65,8 @@ function App() {
   const prevDate = dateOptions[prevIndex];
   const nextDate = dateOptions[nextIndex];
 
+  const [useDarkTheme, setUseDarkTheme] = useState(false);
+
   // On mount, find the most recent previous date that results in a diff
   useEffect(() => {
     let prevIndexPointer = prevIndex;
@@ -86,11 +88,11 @@ function App() {
       },
       '',
       '?' +
-        queryString.stringify({
-          from: prevDate,
-          to: nextDate,
-          page: page,
-        }),
+      queryString.stringify({
+        from: prevDate,
+        to: nextDate,
+        page: page,
+      }),
     );
 
     if (!window.location.hostname.includes('localhost')) {
@@ -98,52 +100,67 @@ function App() {
     }
   }, [prevDate, nextDate, page]);
 
+  useEffect(() => {
+    // check if user has a dark mode preference set
+     if(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches){
+         setUseDarkTheme(true);
+     }
+
+    // update if dark mode status changes
+    const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    darkModeMediaQuery.addListener((e) => {
+      const darkModeStatus = e.matches;
+      setUseDarkTheme(darkModeStatus);
+    });
+  }, []);
+
   return (
     <div className="App">
-      <h1>
-        Comparison of <a href={pages[page].url}>{pages[page].title}</a>
-      </h1>
-      <div className="page-picker-row">
-        <Dropdown
-          options={pageOptions}
-          onChange={newValue => {
-            setPrevIndex(1);
-            setNextIndex(0);
-            setPage(newValue.value);
-          }}
-          value={page}
-          placeholder="Select a page"
-        />
-      </div>
-      <div className="date-picker-row">
-        <Dropdown
-          options={formattedOptions}
-          onChange={newValue => {
-            setPrevIndex(newValue.value);
-          }}
-          value={convertShorthandToDate(prevDate)}
-          placeholder="Select a date to compare from"
-        />
-        <Dropdown
-          options={formattedOptions}
-          onChange={newValue => {
-            setNextIndex(newValue.value);
-          }}
-          value={convertShorthandToDate(nextDate)}
-          placeholder="Select a date to compare to"
-        />
-      </div>
-      {CDCUpdates[nextDate] === CDCUpdates[prevDate] ? (
-        <NoUpdates prevDate={prevDate} nextDate={nextDate} />
-      ) : (
-        <ReactDiffViewer
-          oldValue={CDCUpdates[prevDate]}
-          newValue={CDCUpdates[nextDate]}
-          splitView={true}
-          compareMethod={DiffMethod.WORDS}
-          hideLineNumbers={true}
-        />
-      )}
+        <h1>
+          Comparison of <a href={pages[page].url}>{pages[page].title}</a>
+        </h1>
+          <div className="page-picker-row">
+          <Dropdown
+            options={pageOptions}
+            onChange={newValue => {
+              setPrevIndex(1);
+              setNextIndex(0);
+              setPage(newValue.value);
+            }}
+            value={page}
+            placeholder="Select a page"
+          />
+        </div>
+        <div className="date-picker-row">
+          <Dropdown
+            options={formattedOptions}
+            onChange={newValue => {
+              setPrevIndex(newValue.value);
+            }}
+            value={convertShorthandToDate(prevDate)}
+            placeholder="Select a date to compare from"
+          />
+          <Dropdown
+            options={formattedOptions}
+            onChange={newValue => {
+              setNextIndex(newValue.value);
+            }}
+            value={convertShorthandToDate(nextDate)}
+            placeholder="Select a date to compare to"
+          />
+        </div>
+        {CDCUpdates[nextDate] === CDCUpdates[prevDate] ? (
+          <NoUpdates prevDate={prevDate} nextDate={nextDate} />
+        ) : (
+            <ReactDiffViewer
+              oldValue={CDCUpdates[prevDate]}
+              newValue={CDCUpdates[nextDate]}
+              splitView={true}
+              compareMethod={DiffMethod.WORDS}
+              hideLineNumbers={true}
+              useDarkTheme={useDarkTheme}
+            />
+          )}
     </div>
   );
 }

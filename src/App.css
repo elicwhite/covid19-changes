@@ -34,7 +34,6 @@ h1 {
   cursor: default;
   outline: none;
   padding: 8px 52px 8px 10px;
-  transition: all 200ms ease;
 }
 
 .Dropdown-control:hover {
@@ -111,4 +110,42 @@ h1 {
   cursor: default;
   display: block;
   padding: 8px 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #2e303c;
+    color: #fafafa;
+  }
+
+  a {
+    color: #3282b8;
+  }
+
+  a:visited {
+    color: #8b4367;
+  }
+
+  .Dropdown-control {
+    background-color: #2e303c;
+    color: #fff;
+  }
+
+  .Dropdown-menu {
+    background-color: #2e303c;
+  }
+
+  .Dropdown-option {
+    color: #fff;
+  }
+
+  .Dropdown-option:hover {
+    background-color: #464c67;
+    color: #fff;
+  }
+
+  .Dropdown-option.is-selected {
+    background-color: #464c67;
+    color: #fff;
+  }
 }

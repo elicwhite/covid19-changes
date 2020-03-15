@@ -111,7 +111,6 @@ function App() {
     darkModeMediaQuery.addListener((e) => {
       const darkModeStatus = e.matches;
       setUseDarkTheme(darkModeStatus);
-      console.log("changed");
     });
   }, []);
 

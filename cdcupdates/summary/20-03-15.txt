@@ -9,7 +9,7 @@ On January 30, 2020, the International Health Regulations Emergency Committee of
 Source and Spread of the Virus
 Coronaviruses are a large family of viruses that are common in people and many different species of animals, including camels, cattle, cats, and bats. Rarely, animal coronaviruses can infect people and then spread between people such as with MERS-CoV, SARS-CoV, and now with this new virus (named SARS-CoV-2).
 The SARS-CoV-2 virus is a betacoronavirus, like MERS-CoV and SARS-CoV.  All three of these viruses have their origins in bats. The sequences from U.S. patients are similar to the one that China initially posted, suggesting a likely single, recent emergence of this virus from an animal reservoir.
-Early on, many of the patients at the epicenter of the outbreak in Wuhan, Hubei Province, China had some link to a large seafood and live animal market, suggesting animal-to-person spread. Later, a growing number of patients reportedly did not have exposure to animal markets, indicating person-to-person spread. Person-to-person spread was subsequently reported outside Hubei and in countries outside China, including in the United States. Some international destinations now have ongoing community spread with the virus that causes COVID-19, as do some parts of the United States. Community spread means some people have been infected and it is not known how or where they became exposed. Learn what is known about the spread of this newly emerged coronaviruses.
+Early on, many of the patients at the epicenter of the outbreak in Wuhan, Hubei Province, China had some link to a large seafood and live animal market, suggesting animal-to-person spread. Later, a growing number of patients reportedly did not have exposure to animal markets, indicating person-to-person spread. Person-to-person spread was subsequently reported outside Hubei and in countries outside China, including in the United States. Some international destinations now have ongoing community spread with the virus that causes COVID-19, as do some parts of the United States. Community spread means some people have been infected and it is not known how or where they became exposed. Learn what is known about the spread of this newly emerged coronaviruses.
 On This Page
 BackgroundSource and Spread of the VirusSeverityCOVID-19 Now a PandemicSituation in U.S.Risk AssessmentWhat May HappenCDC ResponseHighlights of CDC's ResponseCDC RecommendsOther Available Resources
 Confirmed COVID-19 Cases Global Map
@@ -32,16 +32,16 @@ Imported cases in travelers
 Cases among close contacts of a known case
 Community-acquired cases where the source of the infection is unknown.
 Three U.S. states are experiencing sustained community spread.
-View latest case counts, deaths, and a map of states with reported cases.
+View latest case counts, deaths, and a map of states with reported cases.
 Risk Assessment
-Risk depends on characteristics of the virus, including how well it spreads between people; the severity of resulting illness; and the medical or other measures available to control the impact of the virus (for example, vaccines or medications that can treat the illness) and the relative success of these. In the absence of vaccine or treatment medications, nonpharmaceutical interventions become the most important response strategy. These are community interventions that can reduce the impact of disease.
+Risk depends on characteristics of the virus, including how well it spreads between people; the severity of resulting illness; and the medical or other measures available to control the impact of the virus (for example, vaccines or medications that can treat the illness) and the relative success of these. In the absence of vaccine or treatment medications, nonpharmaceutical interventions become the most important response strategy. These are community interventions that can reduce the impact of disease.
 The risk from COVID-19 to Americans can be broken down into risk of exposure versus risk of serious illness and death.
 Risk of exposure:
 The immediate risk of being exposed to this virus is still low for most Americans, but as the outbreak expands, that risk will increase. Cases of COVID-19 and instances of community spread are being reported in a growing number of states.
 People in places where ongoing community spread of the virus that causes COVID-19 has been reported are at elevated risk of exposure, with the level of risk dependent on the location.
 Healthcare workers caring for patients with COVID-19 are at elevated risk of exposure.
 Close contacts of persons with COVID-19 also are at elevated risk of exposure.
-Travelers returning from affected international locations where community spread is occurring also are at elevated risk of exposure, with level of risk dependent on where they traveled.
+Travelers returning from affected international locations where community spread is occurring also are at elevated risk of exposure, with level of risk dependent on where they traveled.
 Risk of Severe Illness:
 Early information out of China, where COVID-19 first started, shows that some people are at higher risk of getting very sick from this illness. This includes:
 Older adults, with risk increasing by age.
@@ -52,10 +52,10 @@ Lung disease
 CDC has developed guidance to help in the risk assessment and management of people with potential exposures to COVID-19.
 What May Happen
 More cases of COVID-19 are likely to be identified in the United States in the coming days, including more instances of community spread. CDC expects that widespread transmission of COVID-19 in the United States will occur. In the coming months, most of the U.S. population will be exposed to this virus.
-Widespread transmission of COVID-19 could translate into large numbers of people needing medical care at the same time. Schools, childcare centers, and workplaces, may experience more absenteeism. Mass gatherings may be sparsely attended or postponed. Public health and healthcare systems may become overloaded, with elevated rates of hospitalizations and deaths. Other critical infrastructure, such as law enforcement, emergency medical services, and sectors of the transportation industry may also be affected. Healthcare providers and hospitals may be overwhelmed. At this time, there is no vaccine to protect against COVID-19 and no medications approved to treat it. Nonpharmaceutical interventions will be the most important response strategy to try to delay the spread of the virus and reduce the impact of disease.
+Widespread transmission of COVID-19 could translate into large numbers of people needing medical care at the same time. Schools, childcare centers, and workplaces, may experience more absenteeism. Mass gatherings may be sparsely attended or postponed. Public health and healthcare systems may become overloaded, with elevated rates of hospitalizations and deaths. Other critical infrastructure, such as law enforcement, emergency medical services, and sectors of the transportation industry may also be affected. Healthcare providers and hospitals may be overwhelmed. At this time, there is no vaccine to protect against COVID-19 and no medications approved to treat it. Nonpharmaceutical interventions will be the most important response strategy to try to delay the spread of the virus and reduce the impact of disease.
 CDC Response
 Global efforts at this time are focused concurrently on lessening the spread and impact of this virus. The federal government is working closely with state, local, tribal, and territorial partners, as well as public health partners, to respond to this public health threat.
-CDC is implementing its pandemic preparedness and response plans, working on multiple fronts, including providing specific guidance on measures to prepare communities to respond to local spread of the virus that causes COVID-19. There is an abundance of pandemic guidance developed in anticipation of an influenza pandemic that is being adapted for a potential COVID-19 pandemic.
+CDC is implementing its pandemic preparedness and response plans, working on multiple fronts, including providing specific guidance on measures to prepare communities to respond to local spread of the virus that causes COVID-19. There is an abundance of pandemic guidance developed in anticipation of an influenza pandemic that is being adapted for a potential COVID-19 pandemic.
 Highlights of CDC’s Response
 CDC established a COVID-19 Incident Management System on January 7, 2020. On January 21, CDC activated its Emergency Operations Center to better provide ongoing support to the COVID-19 response.
 The U.S. government has taken unprecedented steps with respect to travel in response to the growing public health threat posed by this new coronavirus:
@@ -63,7 +63,7 @@ Foreign nationals who have been in China or Iran within the past 14 days cannot 
 U.S. citizens, residents, and their immediate family members who have been in China or Iran within in the past 14 days can enter the United States, but they are subject to health monitoring and possible quarantine for up to 14 days.
 On March 11external icon, a similar policy was expanded to include 26 European countries for a period of 30 days.
 On March 8, CDC recommended that people at higher risk of serious COVID-19 illness avoid cruise travel and non-essential air travel.
-Additionally, CDC has issued the following additional specific travel guidance related to COVID-19.
+Additionally, CDC has issued the following additional specific travel guidance related to COVID-19.
 CDC has issued clinical guidance, including:
 On January 30, CDC published guidance for healthcare professionals on the clinical care of  COVID-19 patients.
 On February 3, CDC posted guidance for assessing the potential risk for various exposures to COVID-19 and managing those people appropriately.
@@ -79,11 +79,11 @@ This is a picture of CDC’s laboratory test kit for severe acute respiratory sy
 download iconDownload Imageimage icon[JPG, NAN ]
 An important part of CDC’s role during a public health emergency is to develop a test for the pathogen and equip state and local public health labs with testing capacity.
 CDC developed an rRT-PCR test to diagnose COVID-19.
-As of the evening of March 10, 79 state and local public health labs in 50 states and the District of Columbia have successfully verified and are currently using CDC COVID-19 diagnostic tests.
+As of the evening of March 10, 79 state and local public health labs in 50 states and the District of Columbia have successfully verified and are currently using CDC COVID-19 diagnostic tests.
 Combined with other reagents that CDC has procured, there are enough testing kits to test more than 75,000 people.
 In addition, CDC has two laboratories conducting testing for the virus that causes COVID-19. CDC can test approximately 350 specimens per day.
 Commercial labs are working to develop their own tests that hopefully will be available soon. This will allow a greater number of tests to happen close to where potential cases are.
-CDC has grown the COVID-19 virus in cell culture, which is necessary for further studies, including for additional genetic characterization. The cell-grown virus was sent to NIH’s BEI Resources Repositoryexternal icon for use by the broad scientific community.
+CDC has grown the COVID-19 virus in cell culture, which is necessary for further studies, including for additional genetic characterization. The cell-grown virus was sent to NIH’s BEI Resources Repositoryexternal icon for use by the broad scientific community.
 CDC also is developing a serology test for COVID-19.
 CDC Recommends
 Everyone can do their part to help us respond to this emerging public health threat:

@@ -2,7 +2,7 @@ Situation Summary
 Minus
 Related Pages
 This is an emerging, rapidly evolving situation and CDC will provide updated information as it becomes available, in addition to updated guidance.
-Updated March 14, 2020
+Updated March 15, 2020
 Background
 CDC is responding to an outbreak of respiratory disease caused by a novel (new) coronavirus that was first detected in China and which has now been detected in more than 100 locations internationally, including in the United States. The virus has been named “SARS-CoV-2” and the disease it causes has been named “coronavirus disease 2019” (abbreviated “COVID-19”).
 On January 30, 2020, the International Health Regulations Emergency Committee of the World Health Organization (WHO) declared the outbreak a “public health emergency of international concernexternal icon” (PHEIC). On January 31, Health and Human Services Secretary Alex M. Azar II declared a public health emergency (PHE) for the United States to aid the nation’s healthcare community in responding to COVID-19. On March 11, WHO publiclyexternal icon characterized COVID-19 as a pandemic. On March 13, the President of the United States declared the COVID-19 outbreak a national emergencyexternal icon.
@@ -62,6 +62,7 @@ The U.S. government has taken unprecedented steps with respect to travel in resp
 Foreign nationals who have been in China or Iran within the past 14 days cannot enter the United States.
 U.S. citizens, residents, and their immediate family members who have been in China or Iran within in the past 14 days can enter the United States, but they are subject to health monitoring and possible quarantine for up to 14 days.
 On March 11external icon, a similar policy was expanded to include 26 European countries for a period of 30 days.
+On March 14external icon, a similar policy was issued to include the United Kingdom and the Republic of Ireland.
 On March 8, CDC recommended that people at higher risk of serious COVID-19 illness avoid cruise travel and non-essential air travel.
 Additionally, CDC has issued the following additional specific travel guidance related to COVID-19.
 CDC has issued clinical guidance, including:

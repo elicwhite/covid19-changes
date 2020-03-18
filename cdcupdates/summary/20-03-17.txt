@@ -2,9 +2,9 @@ Situation Summary
 Minus
 Related Pages
 This is an emerging, rapidly evolving situation and CDC will provide updated information as it becomes available, in addition to updated guidance.
-Updated March 15, 2020
+Updated March 17, 2020
 Background
-CDC is responding to an outbreak of respiratory disease caused by a novel (new) coronavirus that was first detected in China and which has now been detected in more than 100 locations internationally, including in the United States. The virus has been named “SARS-CoV-2” and the disease it causes has been named “coronavirus disease 2019” (abbreviated “COVID-19”).
+CDC is responding to an outbreak of respiratory disease caused by a novel (new) coronavirus that was first detected in China and which has now been detected in more than 150 locations internationally, including in the United States. The virus has been named “SARS-CoV-2” and the disease it causes has been named “coronavirus disease 2019” (abbreviated “COVID-19”).
 On January 30, 2020, the International Health Regulations Emergency Committee of the World Health Organization (WHO) declared the outbreak a “public health emergency of international concernexternal icon” (PHEIC). On January 31, Health and Human Services Secretary Alex M. Azar II declared a public health emergency (PHE) for the United States to aid the nation’s healthcare community in responding to COVID-19. On March 11, WHO publiclyexternal icon characterized COVID-19 as a pandemic. On March 13, the President of the United States declared the COVID-19 outbreak a national emergencyexternal icon.
 Source and Spread of the Virus
 Coronaviruses are a large family of viruses that are common in people and many different species of animals, including camels, cattle, cats, and bats. Rarely, animal coronaviruses can infect people and then spread between people such as with MERS-CoV, SARS-CoV, and now with this new virus (named SARS-CoV-2).
@@ -59,18 +59,18 @@ CDC is implementing its pandemic preparedness and response plans, working on mul
 Highlights of CDC’s Response
 CDC established a COVID-19 Incident Management System on January 7, 2020. On January 21, CDC activated its Emergency Operations Center to better provide ongoing support to the COVID-19 response.
 The U.S. government has taken unprecedented steps with respect to travel in response to the growing public health threat posed by this new coronavirus:
-Foreign nationals who have been in China or Iran within the past 14 days cannot enter the United States.
-U.S. citizens, residents, and their immediate family members who have been in China or Iran within in the past 14 days can enter the United States, but they are subject to health monitoring and possible quarantine for up to 14 days.
-On March 11external icon, a similar policy was expanded to include 26 European countries for a period of 30 days.
-On March 14external icon, a similar policy was issued to include the United Kingdom and the Republic of Ireland.
-On March 8, CDC recommended that people at higher risk of serious COVID-19 illness avoid cruise travel and non-essential air travel.
+Foreign nationals who have been in China, Iran, the United Kingdom, Ireland and any one of 26 European countries within the past 14 days cannot enter the United States.
+U.S. citizens, residents, and their immediate family members who have been any one of those countries within in the past 14 days can enter the United States, but they are subject to health monitoring and possible quarantine for up to 14 days.
+People at higher risk of serious COVID-19 illness avoid cruise travel and non-essential air travel.
 Additionally, CDC has issued the following additional specific travel guidance related to COVID-19.
 CDC has issued clinical guidance, including:
-On January 30, CDC published guidance for healthcare professionals on the clinical care of  COVID-19 patients.
-On February 3, CDC posted guidance for assessing the potential risk for various exposures to COVID-19 and managing those people appropriately.
-On February 27, CDC updated its criteria to guide evaluation of persons under investigation for COVID-19.
-On March 8, CDC issued a Health Alert Network (HAN).
-On March 10, CDC issued updated infection control guidance for healthcare settings, including guidance on the use of personal protective equipment (PPE) during a shortage.
+Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19).
+Infection Prevention and Control Recommendations for Patients, including guidance on the use of personal protective equipment (PPE) during a shortage.
+Preparing for COVID-19: Long-term Care Facilities, Nursing Homes
+Discontinuation of Home Isolation for Persons with COVID-19
+CDC also has issued guidance for other settings, including schools, and mass gatherings.
+Guidance for Child Care Settings.
+Resources for Large Community Events & Mass Gatherings
 CDC has deployed multidisciplinary teams to support state health departments case identification, contact tracing, clinical management, and public communications.
 CDC has worked with federal partners to support the safe return of Americans overseas who have been affected by COVID-19.
 This is a picture of CDC’s laboratory test kit for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). CDC tests are provided to U.S. state and local public health laboratories, Department of Defense (DOD) laboratories and select international laboratories.
@@ -80,15 +80,14 @@ This is a picture of CDC’s laboratory test kit for severe acute respiratory sy
 download iconDownload Imageimage icon[JPG, NAN ]
 An important part of CDC’s role during a public health emergency is to develop a test for the pathogen and equip state and local public health labs with testing capacity.
 CDC developed an rRT-PCR test to diagnose COVID-19.
-As of the evening of March 10, 79 state and local public health labs in 50 states and the District of Columbia have successfully verified and are currently using CDC COVID-19 diagnostic tests.
+As of the evening of March 15, 89 state and local public health labs in 50 states and the District of Columbia have successfully verified and are currently using CDC COVID-19 diagnostic tests.
 Combined with other reagents that CDC has procured, there are enough testing kits to test more than 75,000 people.
-In addition, CDC has two laboratories conducting testing for the virus that causes COVID-19. CDC can test approximately 350 specimens per day.
-Commercial labs are working to develop their own tests that hopefully will be available soon. This will allow a greater number of tests to happen close to where potential cases are.
+Commercial manufacturers are now producing their own tests.
 CDC has grown the COVID-19 virus in cell culture, which is necessary for further studies, including for additional genetic characterization. The cell-grown virus was sent to NIH’s BEI Resources Repositoryexternal icon for use by the broad scientific community.
 CDC also is developing a serology test for COVID-19.
 CDC Recommends
 Everyone can do their part to help us respond to this emerging public health threat:
-Individuals and communities should familiarize themselves with recommendations to protect themselves and their communities from getting and spreading respiratory illnesses like COVID-19.
+On March 16, the White House announced a program called “15 Days to Slow the Spread,”pdf iconexternal icon which is a nationwide effort to slow the spread of COVID-19 through the implementation of social distancing at all levels of society.
 Older people and people with severe chronic conditions should take special precautions because they are at higher risk of developing serious COVID-19 illness.
 If you are a healthcare provider, use your judgment to determine if a patient has signs and symptoms compatible with COVID-19 and whether the patient should be tested. Factors to consider in addition to clinical symptoms may include:
 Does the patient have recent travel from an affected area?

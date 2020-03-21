@@ -2,17 +2,17 @@ Situation Summary
 Minus
 Related Pages
 This is a rapidly evolving situation and CDC will provide updated information and guidance as it becomes available.
-Updated March 18, 2020
+Updated March 21, 2020
 CDC is responding to a pandemic of respiratory disease spreading from person-to-person caused by a novel (new) coronavirus. The disease has been named “coronavirus disease 2019” (abbreviated “COVID-19”). This situation poses a serious public health risk. The federal government is working closely with state, local, tribal, and territorial partners, as well as public health partners, to respond to this situation. COVID-19 can cause mild to severe illness; most severe illness occurs in older adults.
 Situation in U.S.
-Different parts of the country are seeing different levels of COVID-19 activity. The United States nationally is currently in the initiation phases, but states where community spread is occurring are in the acceleration phase. The duration and severity of each phase can vary depending on the characteristics of the virus and the public health response.
+Different parts of the country are seeing different levels of COVID-19 activity. The United States nationally is in the initiation phase of the pandemic. States in which community spread is occurring are in the acceleration phase. The duration and severity of each pandemic phase can vary depending on the characteristics of the virus and the public health response.
 CDC and state and local public health laboratories are testing for the virus that causes COVID-19. View CDC’s Public Health Laboratory Testing map.
 All 50 states have reported cases of COVID-19 to CDC.
 U.S. COVID-19 cases include:
 Imported cases in travelers
 Cases among close contacts of a known case
 Community-acquired cases where the source of the infection is unknown.
-Three U.S. states are experiencing sustained community spread.
+Twenty-seven U.S. states are reporting some community spread of COVID-19.
 View latest case counts, deaths, and a map of states with reported cases.
 On This Page
 Situation in U.S.CDC RecommendsCOVID-19 EmergenceSeverityCOVID-19 Now a PandemicRisk AssessmentWhat May HappenCDC ResponseHighlights of CDC's ResponseOther Available Resources
@@ -28,8 +28,7 @@ Does the patient have recent travel from an affected area?
 Has the patient been in close contact with someone with COVID-19 or with patients with pneumonia of unknown cause?
 Does the patient reside in an area where there has been community spread of COVID-19?
 If you are a healthcare provider or a public health responder caring for a COVID-19 patient, please take care of yourself and follow recommended infection control procedures.
-If you are a close contact of someone with COVID-19 and develop symptoms of COVID-19, call your healthcare provider and tell them about your symptoms and your exposure. They will decide whether you need to be tested. Keep in mind that there is no treatment for COVID-19 and people who are mildly ill are able to isolate at home.
-If you are a resident in a community where there is ongoing spread of COVID-19 and you develop COVID-19 symptoms, call your healthcare provider and tell them about your symptoms. They will decide whether you need to be tested. Keep in mind that there is no treatment for COVID-19 and people who are mildly ill are able to isolate at home.
+People who get a fever or cough should consider whether they might have COVID-19, depending on where they live, their travel history or other exposures. More than half of the U.S. is seeing some level of community spread of COVID-19. Testing for COVID-19 may be accessed through medical providers or public health departments, but there is no treatment for this virus. Most people have mild illness and are able to recover at home without medical care.
 For people who are ill with COVID-19, but are not sick enough to be hospitalized, please follow CDC guidance on how to reduce the risk of spreading your illness to others. People who are mildly ill with COVID-19 are able to isolate at home during their illness.
 If you have been in China or another affected area or have been exposed to someone sick with COVID-19 in the last 14 days, you will face some limitations on your movement and activity. Please follow instructions during this time. Your cooperation is integral to the ongoing public health response to try to slow spread of this virus.
 COVID-19 Emergence

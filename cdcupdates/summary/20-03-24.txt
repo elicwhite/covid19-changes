@@ -70,7 +70,7 @@ CDC established a COVID-19 Incident Management System on January 7, 2020. On Jan
 The U.S. government has taken unprecedented steps with respect to travel in response to the growing public health threat posed by this new coronavirus:
 Foreign nationals who have been in China, Iran, the United Kingdom, Ireland and any one of the 26 European countries in the Schengen Area within the past 14 days cannot enter the United States.
 U.S. citizens, residents, and their immediate family members who have been any one of those countries within in the past 14 days can enter the United States, but they are subject to health monitoring and possible quarantine for up to 14 days.
-People at higher risk of serious COVID-19 illness avoid cruise travel and non-essential air travel.
+People at higher risk of serious COVID-19 illness avoid cruise travel and non-essential air travel.
 CDC has issued additional specific travel guidance related to COVID-19.
 CDC has issued clinical guidance, including:
 Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19).

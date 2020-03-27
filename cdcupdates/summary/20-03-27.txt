@@ -2,17 +2,17 @@ Situation SummaryOther LanguagesEspañol繁體中文Tiếng Việt한국어
 Minus
 Related Pages
 This is a rapidly evolving situation and CDC will provide updated information and guidance as it becomes available.
-Updated March 21, 2020
+Updated March 26, 2020
 CDC is responding to a pandemic of respiratory disease spreading from person-to-person caused by a novel (new) coronavirus. The disease has been named “coronavirus disease 2019” (abbreviated “COVID-19”). This situation poses a serious public health risk. The federal government is working closely with state, local, tribal, and territorial partners, as well as public health partners, to respond to this situation. COVID-19 can cause mild to severe illness; most severe illness occurs in older adults.
 Situation in U.S.
-Different parts of the country are seeing different levels of COVID-19 activity. The United States nationally is in the initiation phase of the pandemic. States in which community spread is occurring are in the acceleration phase. The duration and severity of each pandemic phase can vary depending on the characteristics of the virus and the public health response.
+Different parts of the country are seeing different levels of COVID-19 activity. The United States nationally is in the acceleration phase of the pandemic.  The duration and severity of each pandemic phase can vary depending on the characteristics of the virus and the public health response.
 CDC and state and local public health laboratories are testing for the virus that causes COVID-19. View CDC’s Public Health Laboratory Testing map.
 All 50 states have reported cases of COVID-19 to CDC.
 U.S. COVID-19 cases include:
 Imported cases in travelers
 Cases among close contacts of a known case
 Community-acquired cases where the source of the infection is unknown.
-Twenty-seven U.S. states are reporting some community spread of COVID-19.
+Most U.S. states are reporting some community spread of COVID-19.
 View latest case counts, deaths, and a map of states with reported cases.
 On This Page
 Situation in U.S.CDC RecommendsCOVID-19 EmergenceSeverityCOVID-19 Now a PandemicRisk AssessmentWhat May HappenCDC ResponseHighlights of CDC's ResponseOther Available Resources
@@ -40,9 +40,9 @@ The complete clinical picture with regard to COVID-19 is not fully known. Report
 Learn more about the symptoms associated with COVID-19.
 COVID-19 Pandemic
 A pandemic is a global outbreak of disease. Pandemics happen when a new virus emerges to infect people and can spread between people sustainably. Because there is little to no pre-existing immunity against the new virus, it spreads worldwide.
-The virus that causes COVID-19 is infecting people and spreading easily from person-to-person. Cases have been detected in most countries worldwide and community spread is being detected in a growing number of countries. On March 11, the COVID-19 outbreak was characterized as a pandemic by the WHOexternal icon.
-This is the first pandemic known to be caused by the emergence of a new coronavirus. In the past century, there have been four pandemics caused by the emergence of novel influenza viruses. As a result, most research and guidance around pandemics is specific to influenza, but the same premises can be applied to the current COVID-19 pandemic. Pandemics of respiratory disease follow a certain progression outlined in a “Pandemic Intervals Framework.” Pandemics begin with an investigation phase, followed by recognition, initiation, and acceleration phases. The peak of illnesses occurs at the end of the acceleration phase, which is followed by a deceleration phase, during which there is a decrease in illnesses. Different countries can be in different phases of the pandemic at any point in time and different parts of the same country can also be in different phases of a pandemic.
-There are ongoing investigations to learn more. This is a rapidly evolving situation and information will be updated as it becomes available.
+The virus that causes COVID-19 is infecting people and spreading easily from person-to-person. On March 11, the COVID-19 outbreak was characterized as a pandemic by the WHOexternal icon.
+This is the first pandemic known to be caused by a new coronavirus. In the past century, there have been four pandemics caused by the emergence of new influenza viruses. As a result, most research and guidance around pandemics is specific to influenza, but the same premises can be applied to the current COVID-19 pandemic. Pandemics of respiratory disease follow a certain progression outlined in a “Pandemic Intervals Framework.” Pandemics begin with an investigation phase, followed by recognition, initiation, and acceleration phases. The peak of illnesses occurs at the end of the acceleration phase, which is followed by a deceleration phase, during which there is a decrease in illnesses. Different countries can be in different phases of the pandemic at any point in time and different parts of the same country can also be in different phases of a pandemic.
+Source: CDC’s “Updated Preparedness and Response Framework for Influenza Pandemics.”.
 Risk Assessment
 Risk depends on characteristics of the virus, including how well it spreads between people; the severity of resulting illness; and the medical or other measures available to control the impact of the virus (for example, vaccines or medications that can treat the illness) and the relative success of these. In the absence of vaccine or treatment medications, nonpharmaceutical interventions become the most important response strategy. These are community interventions that can reduce the impact of disease.
 The risk from COVID-19 to Americans can be broken down into risk of exposure versus risk of serious illness and death.

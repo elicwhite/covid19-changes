@@ -77,7 +77,7 @@ function App() {
       prevIndexPointer++;
     }
     setPrevIndex(prevIndexPointer);
-  }, [page]);
+  }, [CDCUpdates, dateOptions, nextIndex, prevIndex, page]);
 
   useEffect(() => {
     window.history.replaceState(

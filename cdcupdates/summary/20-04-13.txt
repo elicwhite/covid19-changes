@@ -78,5 +78,5 @@ CDC developed an rRT-PCR test to diagnose COVID-19.
 As of the evening of April 13, 95 state and local public health labs in 50 states, the District of Columbia, Guam, and Puerto Rico have successfully verified and are currently using CDC COVID-19 diagnostic tests.
 Commercial manufacturers are now producing their own tests.
 CDC has grown the COVID-19 virus in cell culture, which is necessary for further studies, including for additional genetic characterization. The cell-grown virus was sent to NIH’s BEI Resources Repositoryexternal icon for use by the broad scientific community.
-CDC also is developing a serology test for COVID-19.
+CDC also is developing a serology test for COVID-19.
 More InformationWorld Health Organization, Coronavirusexternal icon

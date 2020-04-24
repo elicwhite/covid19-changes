@@ -9,9 +9,11 @@ Possibility of infection with both SARS-CoV-2 and other respiratory viruses
 Additional laboratory and imaging findings in COVID-19
 Updated guidelines from the World Health Organization and the Surviving Sepsis Campaign
 Inclusion of new resource: Information for Clinicians on Therapeutic Options for COVID-19 Patients
+Inclusion of National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelinesexternal icon
 On This Page
 Clinical PresentationClinical CourseDiagnostic TestingLaboratory and Radiographic FindingsClinical Management and TreatmentInvestigational TherapeuticsDiscontinuation of Transmission-Based Precautions or Home Isolation
 This interim guidance is for clinicians caring for patients with confirmed infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19). CDC will update this interim guidance as more information becomes available.
+The National Institutes of Health recently published guidelines on prophylaxis use, testing, and management of COVID-19 patients. For more information, please visit: National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelinesexternal icon. The recommendations in the guidelines were based on scientific evidence and expert opinion and will be updated as more data becomes available.
 Clinical Presentation
 Incubation period
 The incubation period for COVID-19 is thought to extend to 14 days, with a median time of 4-5 days from exposure to symptoms onset.1-3 One study reported that 97.5% of persons with COVID-19 who develop symptoms will do so within 11.5 days of SARS-CoV-2 infection.3
@@ -83,6 +85,7 @@ Surviving Sepsis Campaign International Guidelines for the Management of Septic 
 Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of Americaexternal icon
 ACR Recommendations for the use of Chest Radiography and Computed Tomography (CT) for Suspected COVID-19 Infectionexternal icon
 Infectious Diseases Society of America Guidelines on the Treatment and Management of Patients with COVID-19 Infectionexternal icon
+National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelinesexternal icon
 References
 Guan WJ, Ni ZY, Hu Y, et al. Clinical Characteristics of Coronavirus Disease 2019 in China. The New England journal of medicine. 2020.
 Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. The New England journal of medicine. 2020.

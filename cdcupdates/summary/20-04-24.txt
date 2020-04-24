@@ -1,0 +1,68 @@
+Situation SummaryOther LanguagesEspañol简体中文Tiếng Việt한국어Other Languages							Updated April 19, 2020
+Minus
+Related Pages
+This is a rapidly evolving situation and CDC will provide updated information and guidance as it becomes available.
+On This Page
+Situation in U.S.CDC RecommendsCOVID-19 BackgroundSeverityRisk AssessmentCOVID-19 PandemicCDC Response
+CDC is responding to a pandemic of respiratory disease spreading from person to person caused by a novel (new) coronavirus. The disease has been named “coronavirus disease 2019” (abbreviated “COVID-19”). This situation poses a serious public health risk. The federal government is working closely with state, local, tribal, and territorial partners as well as public health partners, to respond to this situation. COVID-19 can cause mild to severe illness; most severe illness occurs in adults 65 years and older and people of any age with serious underlying medical problems.
+Situation in U.S.
+Different parts of the country are seeing different levels of COVID-19 activity. The United States nationally is in the acceleration phase of the pandemic.  The duration and severity of each pandemic phase can vary depending on the characteristics of the virus and the public health response.
+CDC and state and local public health laboratories are testing for the virus that causes COVID-19. For more details, view CDC’s Public Health Laboratory Testing map.
+All 50 states have reported cases of COVID-19 to CDC.
+U.S. COVID-19 cases include:
+People who were infected while travelling, before returning to the United States
+People who were infected after having close contact with someone known to be infected with the virus
+People in a community who were infected with the virus but don’t know how or where they were infected
+All U.S. states are reporting community spread of COVID-19.
+View latest case counts, deaths, demographic characteristics, and a map of states with reported cases.
+For more information about COVID-19, contact a state health department  or local health departmentexternal icon.
+For more information about COVID-19, contact a state health department  or local health departmentexternal icon.
+CDC Recommends
+Everyone can do their part to help us respond to this emerging public health threat by following CDC recommendations:
+Wear a cloth face covering in public settings to avoid spreading COVID-19 to others in case you are infected but do not have symptoms.
+The cloth face cover is meant to protect other people in case you are infected.
+The cloth face coverings recommended are not surgical masks or N-95 respirators. Those are considered critical supplies that should be reserved for healthcare workers and other first responders, as recommended by CDC.
+The cloth face covering is not a substitute for social distancing.
+CDC continues to recommend that people try keep about 6 feet between themselves and others.
+The White House “Slow the Spread” guidelinespdf iconexternal icon are in place until April 30. These are part of a nationwide effort to slow the spread of COVID-19 through the use of social distancing at all levels of society. On April 16, the White House released Guidelines for Opening Up America Againexternal icon, a phased approach to help state and local officials reopen their economies, get people back to work, and continue to protect American lives.
+People who are sick
+If you get a fever or cough, consider whether you might have COVID-19, depending on where you live, your travel history, and other exposures. All of the United States is seeing some level of community spread of COVID-19. You may ask to be tested for COVID-19 by contacting a medical provider or health department, but it’s important that you know there is no treatment for this virus. Most people who get the virus have mild illness and are able to recover at home without medical care.
+People at higher risk for severe illness
+People 65 years and older and people with serious underlying medical conditions should take special precautions because they are at higher risk of developing severe COVID-19 illness.
+Travelers
+American citizens, lawful permanent residents, and their families who have been in one of the countries with travel restrictions for entering the United States in the past 14 days will be allowed to enter the United States but will be redirected to one of 13 airports. After you return from one of these countries, you should stay home and monitor your health.
+All other international travelers, please follow CDC instructions during this time. Your cooperation is integral to the ongoing public health response to try to slow spread of this virus.
+Healthcare Providers
+If you are a healthcare provider, use your judgment to determine if a patient has signs and symptoms compatible with COVID-19 and whether the patient should be tested. CDC’s Criteria to Guide Evaluation and Laboratory Testing for COVID-19 provides priorities for testing patients with suspected COVID-19 infection.
+COVID-19 Background
+COVID-19 is caused by a new coronavirus. Coronaviruses are a large family of viruses that are common in people and many different species of animals, including camels, cattle, cats, and bats. Rarely, animal coronaviruses can infect people and then spread between people such as with MERS-CoV, SARS-CoV, and now with this new virus, named SARS-CoV-2.
+The SARS-CoV-2 virus is a betacoronavirus, like MERS-CoV and SARS-CoV. All three of these viruses have their origins in bats. The sequences from U.S. patients are similar to the one that China initially posted, suggesting a likely single, recent emergence of this virus from an animal reservoir.
+Early on, many of the patients at the epicenter of the outbreak in Wuhan, Hubei Province, China had some link to a large seafood and live animal market, suggesting animal-to-person spread. Later, a growing number of patients reportedly did not have exposure to animal markets, indicating person-to-person spread. Person-to-person spread was subsequently reported outside Hubei and in countries outside China, including in the United States. Most international destinations now have ongoing community spread with the virus that causes COVID-19, as does the United States. Community spread means some people have been infected and it is not known how or where they became exposed. Learn more about the spread of this coronavirus that is causing COVID-19.
+Severity
+The complete clinical picture of COVID-19 is not fully known. Reported illnesses have ranged from very mild (including some people with no reported symptoms) to severe, including illness resulting in death. While information so far suggests that the majority of COVID-19 illnesses are mild, an early reportexternal icon out of China found serious illness in 16% of people who were infected.  A CDC Morbidity & Mortality Weekly Report that looked at severity of disease among COVID-19 patients in the United States by age group found that 80% of deaths were among adults 65 years and older, with the highest percentage of severe outcomes occurring in people 85 years and older. People with serious underlying medical conditions — like serious heart conditions, chronic lung disease, and diabetes, for example — also seem to be at higher risk of developing severe COVID-19 illness.
+Related: Symptoms Associated with COVID-19
+Risk Assessment
+The risk posed by COVID-19 depends on characteristics of the virus, including how easily it spreads between people; the severity of resulting illness; and the medical or other measures available to control the impact of the virus (for example, vaccines or medications that can treat the illness) and the relative success of these. Because there are not yet vaccines or treatments for COVID-19, nonpharmaceutical interventions become the most important response strategy. These are community interventions that can help reduce the impact of disease, like social distancing and good hand hygiene.
+When considering the risk that COVID-19 poses to Americans, it’s helpful to break down this risk into two types: risk of exposure and risk of serious illness and death.
+Risk of exposure
+Cases of COVID-19 and instances of community spread are being reported in all states.
+People in places where ongoing community spread of the virus that causes COVID-19 has been reported are at elevated risk of exposure, with the level of their risk depending on their location.
+Healthcare workers caring for patients with COVID-19 are at elevated risk of exposure.
+Close contacts of persons with COVID-19 also are at elevated risk of exposure.
+Travelers returning from affected international locations where community spread is occurring also are at elevated risk of exposure, with their level of risk depending on where they traveled.
+Risk of severe illness
+Based on what we know now, persons at higher risk for severe illness from COVID-19 are:
+People 65 years and older
+People who live in a nursing home or long-term care facility
+People of all ages with serious underlying medical conditions
+CDC has developed guidance to help individuals and healthcare providers assess the risk and manage illness among people with potential community-related exposures to COVID-19.
+COVID-19 Pandemic
+A pandemic is a global outbreak of disease. Pandemics happen when a new virus emerges to infect people and can spread between people sustainably. Because there is little to no pre-existing immunity against the new virus, it spreads worldwide.
+Source: CDC’s "Updated Preparedness and Response Framework for Influenza Pandemics.
+The virus that causes COVID-19 is infecting people and spreading easily from person-to-person. On March 11, the COVID-19 outbreak was characterized as a pandemic by the WHOexternal icon.
+This is the first pandemic known to be caused by a new coronavirus. In the past century, there have been four pandemics caused by the emergence of new influenza viruses. As a result, most research and guidance around pandemics is specific to influenza, but the same premises can be applied to the current COVID-19 pandemic. Pandemics of respiratory disease follow a certain progression outlined in a “Pandemic Intervals Framework.” Pandemics begin with an investigation phase, followed by recognition, initiation, and acceleration phases. The peak of illnesses occurs at the end of the acceleration phase, which is followed by a deceleration phase, during which there is a decrease in illnesses. Different countries can be in different phases of the pandemic at any point in time and different parts of the same country can also be in different phases of a pandemic.
+Related: Confirmed COVID-19 Cases Global Map
+CDC Response
+Global efforts at this time are focused concurrently on lessening the spread and impact of this virus. The federal government is working closely with state, local, tribal, and territorial partners, as well as public health partners, to respond to this public health threat.
+View highlights of CDC’s response.
+More InformationWorld Health Organization, Coronavirusexternal icon

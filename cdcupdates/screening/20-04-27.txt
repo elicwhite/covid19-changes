@@ -2,7 +2,9 @@ Evaluating and Testing  Persons for Coronavirus Disease 2019 (COVID-19)
 Minus
 Related Pages
 CDC guidance for COVID-19 may be adapted by state and local health departments to respond to rapidly changing local circumstances.
-Summary of Recent ChangesRevisions were made on March 24, 2020 to reflect the following:
+Summary of Recent ChangesRevisions were made on April 27, 2020 to reflect the following:
+Updated priorities for testing patients with suspected COVID-19 infection
+Revisions were made on March 24, 2020 to reflect the following:
 Updated priorities for testing patients with suspected COVID-19 infection
 Revisions were made on March 9, 2020, to reflect the following:
 Reorganized the Criteria to Guide Evaluation and Laboratory Testing for COVID-19 section
@@ -16,29 +18,18 @@ Update and Interim Guidance on Outbreak of Coronavirus Disease 2019 (COVID-19)
 CDC continues to closely monitor an outbreak of respiratory illness caused by COVID-19 that was initially detected in Wuhan City, Hubei Province, China. This HAN Update provides a situational update and guidance to state and local health departments and health care providers.
 phone iconContact your local or state health departmentHealthcare providers should immediately notify their localexternal icon or stateexternal icon health department in the event of the identification of a PUI for COVID-19. When working with your local or state health department check their available hours.
 Criteria to Guide Evaluation and Laboratory Testing for COVID-19
-Clinicians considering testing of persons with possible COVID-19 should continue to work with their local and state health departments to coordinate testing through public health laboratories, or use COVID-19 diagnostic testing, authorized by the Food and Drug Administration under an Emergency Use Authorization (EUA) through clinical laboratories.  Increasing testing capacity will allow clinicians to consider COVID-19 testing for a wider group of symptomatic patients.
-Clinicians should use their judgment to determine if a patient has signs and symptoms compatible with COVID-19 and whether the patient should be tested. Most patients with confirmed COVID-19 have developed fever1 and/or symptoms of acute respiratory illness (e.g., cough, difficulty breathing). Priorities for testing include:
-Other considerations that may guide testing are epidemiologic factors such as the occurrence of local community transmission of COVID-19 infections in a jurisdiction. Clinicians are strongly encouraged to test for other causes of respiratory illness.
-Priorities for testing patients with suspected COVID-19 infectionpdf icon[PDF - 202 KB]
-Priorities for Laboratory Testing for COVID-19
-PRIORITY 1
-Ensure optimal care options for all hospitalized patients, lessen the risk of nosocomial infections, and maintain the integrity of the healthcare system
+Clinicians considering testing of persons with possible COVID-19 should continue to work with their local and state health departments to coordinate testing through public health laboratories, or use clinical laboratory diagnostic testing for COVID-19, authorized by the Food and Drug Administration under an Emergency Use Authorization (EUA).  Increasing testing capacity will allow clinicians to consider COVID-19 testing for a wider group of symptomatic patients and persons without symptoms in certain situations.
+Clinicians should use their judgment to determine if a patient has signs and symptoms compatible with COVID-19 and whether the patient should be tested. Most patients with confirmed COVID-19 have developed fever1 and/or symptoms of acute respiratory illness (e.g., cough, difficulty breathing) but some people may present with other symptoms as well. Other considerations that may guide testing are epidemiologic factors such as the occurrence of local community transmission of COVID-19 infections in a jurisdiction. Clinicians are encouraged to test for other causes of respiratory illness.
+PRIORITIES FOR COVID-19 TESTING
+(Nucleic Acid or Antigen)
+High Priority
 Hospitalized patients
-Symptomatic healthcare workers
-PRIORITY 2
-Ensure that those who are at highest risk of complication of infection are rapidly identified and appropriately triaged
-Patients in long-term care facilities with symptoms
-Patients 65 years of age and older with symptoms
-Patients with underlying conditions with symptoms
-First responders with symptoms
-PRIORITY 3
-As resources allow, test individuals in the surrounding community of rapidly increasing hospital cases to decrease community spread, and ensure health of essential workers
-Critical infrastructure workers with symptoms
-Individuals who do not meet any of the above categories with symptoms
-Health care workers and first responders
-Individuals with mild symptoms in communities experiencing high COVID-19 hospitalizations
-NON-PRIORITY
-Individuals without symptoms
+Healthcare facility workers, workers in congregate living settings, and first responders with symptoms
+Residents in long-term care facilities or other congregate living settings, including prisons and shelters, with symptoms
+Persons identified through public health cluster and selected contact investigations
+Priority
+Persons with symptoms of potential COVID-19 infection, including: fever, cough, shortness of breath, chills, muscle pain, new loss of taste or smell, vomiting or diarrhea and/or sore throat
+Persons without symptoms who are prioritized by health departments or clinicians, for any reason, including but not limited to:  public health monitoring, sentinel surveillance, or screening of other asymptomatic individuals according to state and local plans.
 Recommendations for Reporting, Testing, and Specimen Collection
 Updated February 28, 2020
 Clinicians should immediately implement recommended infection prevention and control practices if a patient is suspected of having COVID-19. They should also notify infection control personnel at their healthcare facility and their state or local health department if a patient is classified as a PUI for COVID-19. State health departments that have identified a PUI or a laboratory-confirmed case should complete a PUI and Case Report form through the processes identified on CDC’s Coronavirus Disease 2019 website. State and local health departments can contact CDC’s Emergency Operations Center (EOC) at 770-488-7100 for assistance with obtaining, storing, and shipping appropriate specimens to CDC for testing, including after hours or on weekends or holidays.

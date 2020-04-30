@@ -1,0 +1,53 @@
+Evaluating and Testing  Persons for Coronavirus Disease 2019 (COVID-19)
+Minus
+Related Pages
+CDC guidance for COVID-19 may be adapted by state and local health departments to respond to rapidly changing local circumstances.
+Summary of Recent ChangesRevisions were made on April 27, 2020 to reflect the following:
+Updated priorities for testing patients with suspected COVID-19 infection
+Revisions were made on March 24, 2020 to reflect the following:
+Updated priorities for testing patients with suspected COVID-19 infection
+Revisions were made on March 9, 2020, to reflect the following:
+Reorganized the Criteria to Guide Evaluation and Laboratory Testing for COVID-19 section
+Revisions were made on March 4, 2020, to reflect the following:
+Criteria for evaluation of persons for testing for COVID-19 were expanded to include a wider group of symptomatic patients.
+Limited information is available to characterize the spectrum of clinical illness associated with coronavirus disease 2019 (COVID-19). No vaccine or specific treatment for COVID-19 is available; care is supportive.
+The CDC clinical criteria for considering testing for COVID-19 have been developed based on what is known about COVID-19 and are subject to change as additional information becomes available.
+CDC Health Advisory
+Update and Interim Guidance on Outbreak of Coronavirus Disease 2019 (COVID-19)
+CDC continues to closely monitor an outbreak of respiratory illness caused by COVID-19 that was initially detected in Wuhan City, Hubei Province, China. This HAN Update provides a situational update and guidance to state and local health departments and health care providers.
+phone iconContact your local or state health departmentHealthcare providers should immediately notify their localexternal icon or stateexternal icon health department in the event of the identification of a PUI for COVID-19. When working with your local or state health department check their available hours.
+Criteria to Guide Evaluation and Laboratory Testing for COVID-19
+Updated April 27, 2020
+Clinicians considering testing of persons with possible COVID-19 should continue to work with their local and state health departments to coordinate testing through public health laboratories, or use clinical laboratory viral testing for COVID-19, authorized by the Food and Drug Administration under an Emergency Use Authorization (EUA).  Increasing testing capacity will allow clinicians to consider COVID-19 testing for a wider group of symptomatic patients and persons without symptoms in certain situations.
+Clinicians should use their judgment to determine if a patient has signs and symptoms compatible with COVID-19 and whether the patient should be tested. Most patients with confirmed COVID-19 have developed fever1 and/or symptoms of acute respiratory illness (e.g., cough, difficulty breathing) but some people may present with other symptoms as well. Other considerations that may guide testing are epidemiologic factors such as the occurrence of local community transmission of COVID-19 infections in a jurisdiction. Clinicians are encouraged to test for other causes of respiratory illness.
+PRIORITIES FOR COVID-19 TESTING
+(Nucleic Acid or Antigen)
+High Priority
+Hospitalized patients
+Healthcare facility workers, workers in congregate living settings, and first responders with symptoms
+Residents in long-term care facilities or other congregate living settings, including prisons and shelters, with symptoms
+Persons identified through public health cluster and selected contact investigations
+Priority
+Persons with symptoms of potential COVID-19 infection, including: fever, cough, shortness of breath, chills, muscle pain, new loss of taste or smell, vomiting or diarrhea and/or sore throat
+Persons without symptoms who are prioritized by health departments or clinicians, for any reason, including but not limited to:  public health monitoring, sentinel surveillance, or screening of other asymptomatic individuals according to state and local plans.
+Recommendations for Reporting, Testing, and Specimen Collection
+Updated February 28, 2020
+Clinicians should immediately implement recommended infection prevention and control practices if a patient is suspected of having COVID-19. They should also notify infection control personnel at their healthcare facility and their state or local health department if a patient is classified as a PUI for COVID-19. State health departments that have identified a PUI or a laboratory-confirmed case should complete a PUI and Case Report form through the processes identified on CDC’s Coronavirus Disease 2019 website. State and local health departments can contact CDC’s Emergency Operations Center (EOC) at 770-488-7100 for assistance with obtaining, storing, and shipping appropriate specimens to CDC for testing, including after hours or on weekends or holidays.
+For initial viral testing for COVID-19, CDC recommends collecting and testing upper respiratory tract specimens (nasopharyngeal swab). CDC also recommends testing lower respiratory tract specimens, if available. For patients who develop a productive cough, sputum should be collected and tested for COVID-19. The induction of sputum is not recommended. For patients for whom it is clinically indicated (e.g., those receiving invasive mechanical ventilation), a lower respiratory tract aspirate or bronchoalveolar lavage sample should be collected and tested as a lower respiratory tract specimen. Specimens should be collected as soon as possible once a PUI is identified, regardless of the time of symptom onset. See Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from Patients Under Investigation (PUIs) for COVID-19 and Biosafety FAQs for handling and processing specimens from suspected cases and PUIs.
+Footnotes
+1Fever may be subjective or confirmed
+2For healthcare personnel, testing may be considered if there has been exposure to a person with suspected COVID-19 without laboratory confirmation. Because of their often extensive and close contact with vulnerable patients in healthcare settings, even mild signs and symptoms (e.g., sore throat) of COVID-19 should be evaluated among potentially exposed healthcare personnel. Additional information is available in CDC’s Interim U.S. Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with Coronavirus Disease 2019 (COVID-19).
+3Close contact is defined as—
+a) being within approximately 6 feet (2 meters) of a COVID-19 case for a prolonged period of time; close contact can occur while caring for, living with, visiting, or sharing a healthcare waiting area or room with a COVID-19 case
+– or –
+b) having direct contact with infectious secretions of a COVID-19 case (e.g., being coughed on)
+If such contact occurs while not wearing recommended personal protective equipment or PPE (e.g., gowns, gloves, NIOSH-certified disposable N95 respirator, eye protection), criteria for PUI consideration are met.
+Additional information is available in CDC’s updated Interim Infection Prevention and Control Recommendations for Patients with Confirmed COVID-19 or Persons Under Investigation for COVID-19 in Healthcare Settings.
+Data to inform the definition of close contact are limited. Considerations when assessing close contact include the duration of exposure (e.g., longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g., coughing likely increases exposure risk as does exposure to a severely ill patient). Special consideration should be given to healthcare personnel exposed in healthcare settings as described in CDC’s Interim U.S. Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with COVID-19.
+4Documentation of laboratory-confirmation of COVID-19 may not be possible for travelers or persons caring for COVID-19 patients in other countries.
+5Affected areas are defined as geographic regions where sustained community transmission has been identified. For a list of relevant affected areas, see CDC’s Coronavirus Disease 2019 Information for Travel.
+Additional Resources:
+State health department after-hours contact listexternal icon
+Directory of Local Health Departmentsexternal icon
+World Health Organization (WHO) Coronavirusexternal icon
+WHO guidance on clinical management of severe acute respiratory infection when COVID-19 is suspectedexternal icon

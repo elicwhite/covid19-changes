@@ -11,7 +11,7 @@ Updated guidelines from the World Health Organization and the Surviving Sepsis C
 Inclusion of new resource: Information for Clinicians on Therapeutic Options for COVID-19 Patients
 Inclusion of National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelinesexternal icon
 On This Page
-Clinical PresentationClinical CourseDiagnostic TestingLaboratory and Radiographic FindingsClinical Management and TreatmentInvestigational TherapeuticsDiscontinuation of Transmission-Based Precautions or Home Isolation
+Clinical PresentationClinical CourseViral TestingLaboratory and Radiographic FindingsClinical Management and TreatmentInvestigational TherapeuticsDiscontinuation of Transmission-Based Precautions or Home Isolation
 This interim guidance is for clinicians caring for patients with confirmed infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19). CDC will update this interim guidance as more information becomes available.
 The National Institutes of Health recently published guidelines on prophylaxis use, testing, and management of COVID-19 patients. For more information, please visit: National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelinesexternal icon. The recommendations in the guidelines were based on scientific evidence and expert opinion and will be updated as more data becomes available.
 Clinical Presentation
@@ -49,7 +49,7 @@ It has been hypothesized that angiotensin-converting enzyme (ACE) inhibitors or 
 It has also been hypothesized that non-steroidal anti-inflammatory drugs (NSAIDs) may worsen COVID-19. Currently, there are no data suggesting an association between COVID-19 clinical outcomes and NSAID use. More information can be found at Healthcare Professionals: Frequently Asked Questions and Answers.
 Reinfection
 There are no data concerning the possibility of re-infection with SARS-CoV-2 after recovery from COVID-19. Viral RNA shedding declines with resolution of symptoms, and may continue for days to weeks.11,33,34 However, the detection of RNA during convalescence does not necessarily indicate the presence of viable infectious virus. Clinical recovery has been correlated with the detection of IgM and IgG antibodies which signal the development of immunity.36,47-49
-Diagnostic Testing
+Viral Testing
 Diagnosis of COVID-19 requires detection of SARS-CoV-2 RNA by reverse transcription polymerase chain reaction (RT-PCR). Detection of SARS-CoV-2 viral RNA is better in nasopharynx samples compared to throat samples.33,50 Lower respiratory samples may have better yield than upper respiratory samples.33,50. SARS-CoV-2 RNA has also been detected in stool and blood.13,34,47,51 Detection of SARS-CoV-2 RNA in blood may be a marker of severe illness.52 Viral RNA shedding may persist over longer periods among older persons and those who had severe illness requiring hospitalization. (median range of viral shedding among hospitalized patients 12–20 days).11,33-36
 Infection with both SARS-CoV-2 and with other respiratory viruses has been reported, and detection of another respiratory pathogen does not rule out COVID-19.53
 For more information about testing and specimen collection, handling and storage, visit Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19) and Frequently Asked Questions on COVID-19 Testing at Laboratories.

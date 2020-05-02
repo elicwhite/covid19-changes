@@ -23,7 +23,7 @@ Clinicians should use their judgment to determine if a patient has signs and sym
 PRIORITIES FOR COVID-19 TESTING
 (Nucleic Acid or Antigen)
 High Priority
-Hospitalized patients
+Hospitalized patients with symptoms
 Healthcare facility workers, workers in congregate living settings, and first responders with symptoms
 Residents in long-term care facilities or other congregate living settings, including prisons and shelters, with symptoms
 Persons identified through public health cluster and selected contact investigations

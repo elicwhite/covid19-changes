@@ -22,7 +22,7 @@ phone iconContact your local or state health departmentHealthcare providers shou
 PRIORITIES FOR COVID-19 TESTING
 (Nucleic Acid or Antigen)
 High Priority
-Hospitalized patients
+Hospitalized patients with symptoms
 Healthcare facility workers, workers in congregate living settings, and first responders with symptoms
 Residents in long-term care facilities or other congregate living settings, including correctional and detention facilities and shelters, with symptoms
 Persons identified by public health officials or clinicians as high priority
@@ -39,8 +39,8 @@ Clinicians should immediately implement recommended infection prevention and con
 For diagnostic testing for COVID-19 see the Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from PUIs for COVID-19 and Biosafety FAQs for handling and processing specimens from possible cases and PUIs.
 Clinicians should report positive test results to their local or state health department only.
 Recommendations for Antibody Testing
-Updated May 3, 2020
-CDC does not currently recommend using antibody testing alone for diagnostic purposes.
+Updated May 5, 2020
+CDC does not recommend using antibody testing to diagnose acute infection. It is recommended to use a viral (nucleic acid or antigen) test to diagnose acute infection.
 Additional Resources:
 Nasal (Anterior Nasal) Specimen Collection for SARS-CoV-2 Diagnostic Testing pdf icon[1 page]
 Guidance – Proposed Use of Point-of-Care (POC) Testing Platforms for SARS-CoV-2 (COVID-19) pdf icon[2 pages]

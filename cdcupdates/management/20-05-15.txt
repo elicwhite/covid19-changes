@@ -1,7 +1,9 @@
-Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)
+Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)							Updated May 15, 2020
 Minus
 Related Pages
-Summary of Recent ChangesRevisions were made on May 12, 2020, to reflect the following:
+Summary of Recent ChangesRevisions were made on May 15, 2020, to reflect the following:
+Updated information for pediatric management
+Revisions were made on May 12, 2020, to reflect the following:
 New information about COVID-19-Associated Hypercoagulability
 Updated content and resources to include new NIH Treatment Guidelines
 Minor revisions for clarity
@@ -20,7 +22,7 @@ Anorexia (40–84%)
 Shortness of breath (31–40%)
 Sputum production (28–33%)
 Myalgia (11–35%)
-Atypical presentations have been described, and older adults and persons with medical comorbidities may have delayed presentation of fever and respiratory symptoms.10,11 In one study of 1,099 hospitalized patients, fever was present in only 44% at hospital admission but later developed in 89% during hospitalization.1 Headache, confusion, rhinorrhea, sore throat, hemoptysis, vomiting, and diarrhea have been reported but are less common (<10%).1,4-6 Some persons with COVID-19 have experienced gastrointestinal symptoms such as diarrhea and nausea prior to developing fever and lower respiratory tract signs and symptoms.9 Anosmia or ageusia preceeding the onset of respiratory symptoms has been anecdotally reported12, but more information is needed to understand its role in identifying COVID-19.
+Atypical presentations have been described, and older adults and persons with medical comorbidities may have delayed presentation of fever and respiratory symptoms.10,11 In one study of 1,099 hospitalized patients, fever was present in only 44% at hospital admission but later developed in 89% during hospitalization.1 Headache, confusion, rhinorrhea, sore throat, hemoptysis, vomiting, and diarrhea have been reported but are less common (<10%).1,4-6 Some persons with COVID-19 have experienced gastrointestinal symptoms such as diarrhea and nausea prior to developing fever and lower respiratory tract signs and symptoms.9 Anosmia or ageusia preceding the onset of respiratory symptoms has been anecdotally reported12, but more information is needed to understand its role in identifying COVID-19.
 Several studies have reported that the signs and symptoms of COVID-19 in children are similar to adults and are usually milder compared to adults.13-17 For more information on the clinical presentation and course among children, see Information for Pediatric Healthcare Providers.
 Asymptomatic and Pre-Symptomatic Infection
 Several studies have documented SARS-CoV-2 infection in patients who never develop symptoms (asymptomatic) and in patients not yet symptomatic (pre-symptomatic).14,16,18-28 Since asymptomatic persons are not routinely tested, the prevalence of asymptomatic infection and detection of pre-symptomatic infection is not well understood. One study found that as many as 13% of RT-PCR-confirmed cases of SARS-CoV-2 infection in children were asymptomatic.14 Another study of skilled nursing facility residents infected with SARS-CoV-2 from a healthcare worker demonstrated that half were asymptomatic or pre-symptomatic at the time of contact tracing evaluation and testing.25 Patients may have abnormalities on chest imaging before the onset of symptoms.19,20 Some data suggest that pre-symptomatic infection tended to be detected in younger individuals and was less likely to be associated with viral pneumonia.19,20
@@ -74,7 +76,8 @@ There are limited data available to inform clinical management around prophylaxi
 Several national professional associations provide resources for up-to-date information concerning COVID-19-associated hypercoagulability, including management of anticoagulation. This is a rapidly evolving topic, with new information released often.
 More information on hypercoagulability and COVID-19 is available from the American Society of Hematologyexternal icon and National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelines – Antithrombotic Therapy in Patients with COVID-19external icon.
 Pediatric Management
-For more information on the management of children, see Information for Pediatric Healthcare Providers and the Surviving Sepsis Campaign International Guidelines for the Management of Septic Shock and Sepsis-Associated Organ Dysfunction in Childrenexternal icon.
+Illness among pediatric patients with COVID-19 is typically milder than among adults, with most children presenting with symptoms of upper respiratory infection. However, severe outcomes have been reported in children including SARS-CoV-2 associated deaths. CDC and partners are investigating  reports of multisystem inflammatory syndrome in children (MIS-C) associated with COVID-19 and have released a related health advisory through its Health Alert Network (HAN).
+For expanded guidance on the management of children with COVID-19 and associated complications, see Information for Pediatric Healthcare Providers and the Surviving Sepsis Campaign International Guidelines for the Management of Septic Shock and Sepsis-Associated Organ Dysfunction in Childrenexternal icon.
 Investigational Therapeutics
 The National Institutes of Health have published interim guidelines for the medical management of COVID-19external icon which include information on therapeutic options for COVID-19 currently under investigation. No U.S. Food and Drug Administration (FDA)-approved drugs have demonstrated safety and efficacy in randomized controlled trials when used to treat patients with COVID-19, although FDA has granted an Emergency Use Authorization for the use of remdesivirexternal icon to treat severe cases. Use of investigational therapies for treatment of COVID-19 should ideally be done in the context of enrollment in randomized controlled trials, so that beneficial drugs can be identified. For the latest information, see Information for Clinicians on Therapeutic Options for COVID-19 Patients. For information on registered trials in the United States, see ClinicalTrials.govexternal icon.
 Discontinuation of Transmission-Based Precautions or Home Isolation
@@ -87,6 +90,7 @@ Healthcare Professionals: Frequently Asked Questions and Answers
 Information for Pediatric Healthcare Providers
 Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19)
 Frequently Asked Questions on COVID-19 Testing at Laboratories
+Infection Control Guidance for Healthcare Professionals about COVID-19
 Interim Infection Prevention and Control Recommendations for Patients with Suspected or Confirmed Coronavirus Disease 2019 (COVID-19) or in Healthcare Settings
 COVIDView: A Weekly Surveillance Summary of U.S. COVID-19 Activity
 Additional resources

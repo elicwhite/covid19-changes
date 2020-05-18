@@ -122,4 +122,5 @@ export default {
   '20-05-15': raw('../cdcupdates/summary/20-05-15.txt'),
   '20-05-16': raw('../cdcupdates/summary/20-05-16.txt'),
   '20-05-17': raw('../cdcupdates/summary/20-05-17.txt'),
+  '20-05-18': raw('../cdcupdates/summary/20-05-18.txt'),
 };

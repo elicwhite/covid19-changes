@@ -1,7 +1,9 @@
-Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)							Updated May 15, 2020
+Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)							Updated May 20, 2020
 Minus
 Related Pages
-Summary of Recent ChangesRevisions were made on May 15, 2020, to reflect the following:
+Summary of Recent ChangesRevisions were made on May 20, 2020, to reflect the following:
+Refer to new guidance for Evaluation and Management Considerations for Neonates At Risk for COVID-19
+Revisions were made on May 15, 2020, to reflect the following:
 Updated information for pediatric management
 Revisions were made on May 12, 2020, to reflect the following:
 New information about COVID-19-Associated Hypercoagulability
@@ -76,8 +78,8 @@ There are limited data available to inform clinical management around prophylaxi
 Several national professional associations provide resources for up-to-date information concerning COVID-19-associated hypercoagulability, including management of anticoagulation. This is a rapidly evolving topic, with new information released often.
 More information on hypercoagulability and COVID-19 is available from the American Society of Hematologyexternal icon and National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelines – Antithrombotic Therapy in Patients with COVID-19external icon.
 Pediatric Management
-Illness among pediatric patients with COVID-19 is typically milder than among adults, with most children presenting with symptoms of upper respiratory infection. However, severe outcomes have been reported in children including SARS-CoV-2 associated deaths. CDC and partners are investigating  reports of multisystem inflammatory syndrome in children (MIS-C) associated with COVID-19 and have released a related health advisory through its Health Alert Network (HAN).
-For expanded guidance on the management of children with COVID-19 and associated complications, see Information for Pediatric Healthcare Providers and the Surviving Sepsis Campaign International Guidelines for the Management of Septic Shock and Sepsis-Associated Organ Dysfunction in Childrenexternal icon.
+Illness among pediatric patients with COVID-19 is typically milder than among adults, with most children presenting with symptoms of upper respiratory infection. However, severe outcomes have been reported in children including COVID-19 associated deaths. Data suggest that infants (<12 months of age) may be at higher risk for severe illness from COVID-19 compared with older children.14 CDC and partners are also investigating reports of multisystem inflammatory syndrome in children (MIS-C) associated with COVID-19 and CDC has released a related health advisory through its Health Alert Network (HAN).
+For expanded guidance on the management of children with COVID-19 and associated complications, see Evaluation and Management Considerations for Neonates At Risk for COVID-19, Information for Pediatric Healthcare Providers, and the Surviving Sepsis Campaign International Guidelines for the Management of Septic Shock and Sepsis-Associated Organ Dysfunction in Childrenexternal icon.
 Investigational Therapeutics
 The National Institutes of Health have published interim guidelines for the medical management of COVID-19external icon which include information on therapeutic options for COVID-19 currently under investigation. No U.S. Food and Drug Administration (FDA)-approved drugs have demonstrated safety and efficacy in randomized controlled trials when used to treat patients with COVID-19, although FDA has granted an Emergency Use Authorization for the use of remdesivirexternal icon to treat severe cases. Use of investigational therapies for treatment of COVID-19 should ideally be done in the context of enrollment in randomized controlled trials, so that beneficial drugs can be identified. For the latest information, see Information for Clinicians on Therapeutic Options for COVID-19 Patients. For information on registered trials in the United States, see ClinicalTrials.govexternal icon.
 Discontinuation of Transmission-Based Precautions or Home Isolation
@@ -92,6 +94,7 @@ Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19)
 Frequently Asked Questions on COVID-19 Testing at Laboratories
 Infection Control Guidance for Healthcare Professionals about COVID-19
 Interim Infection Prevention and Control Recommendations for Patients with Suspected or Confirmed Coronavirus Disease 2019 (COVID-19) or in Healthcare Settings
+Evaluation and Management Considerations for Neonates At Risk for COVID-19
 COVIDView: A Weekly Surveillance Summary of U.S. COVID-19 Activity
 Additional resources
 World Health Organization. Interim Guidance on Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspectedexternal icon

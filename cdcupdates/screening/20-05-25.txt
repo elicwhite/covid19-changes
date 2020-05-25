@@ -31,8 +31,9 @@ Clinicians should immediately implement recommended infection prevention and con
 For diagnostic testing for COVID-19 see the Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from PUIs for COVID-19 and Biosafety FAQs for handling and processing specimens from possible cases and PUIs.
 Clinicians should report positive test results to their local or state health department only.
 Recommendations for Antibody Testing
-Updated May 5, 2020
+Updated May 25, 2020
 CDC does not recommend using antibody testing to diagnose acute infection. It is recommended to use a viral (nucleic acid or antigen) test to diagnose acute infection.
+Read CDC’s interim guidelines for using antibody tests in clinical and public health settings.
 Additional Resources:
 Nasal (Anterior Nasal) Specimen Collection for SARS-CoV-2 Diagnostic Testing pdf icon[1 page]
 Guidance – Proposed Use of Point-of-Care (POC) Testing Platforms for SARS-CoV-2 (COVID-19) pdf icon[2 pages]

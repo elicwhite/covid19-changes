@@ -8,9 +8,6 @@ Specification of testing priorities
 Summary of other changes
 No vaccine for COVID-19 is currently available; however, vaccine trials are in progressexternal icon. The National Institutes of Health recently published guidelines on prophylaxis use, testing, and management of COVID-19 patients. For more information, please visit: National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelinesexternal icon.
 The CDC clinical criteria for considering testing for COVID-19 have been developed based on what is known about COVID-19 and are subject to change as additional information becomes available.
-CDC Health Advisory
-Update and Interim Guidance on Outbreak of Coronavirus Disease 2019 (COVID-19)
-CDC continues to closely monitor an outbreak of respiratory illness caused by COVID-19 that was initially detected in Wuhan City, Hubei Province, China. This HAN Update provides a situational update and guidance to state and local health departments and health care providers.
 phone iconContact your local or state health departmentHealthcare providers should immediately notify their localexternal icon or stateexternal icon health department in the event of the identification of a PUI for COVID-19. When working with your local or state health department check their available hours.
 PRIORITIES FOR COVID-19 TESTING
 (Nucleic Acid or Antigen)

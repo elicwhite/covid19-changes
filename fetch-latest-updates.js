@@ -8,7 +8,7 @@ const CDC_UPDATES_PATH = path.join(__dirname, 'cdcupdates');
 // CDC urls to scrape
 const CDC_PAGES = {
   summary:
-    'https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html',
+    'https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html',
   management:
     'https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html',
   screening:

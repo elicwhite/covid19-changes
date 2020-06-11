@@ -25,7 +25,7 @@ SARS-CoV-2 can cause asymptomatic, pre-symptomatic, and minimally symptomatic in
 Recommendations for Viral Testing, Specimen Collection, and Reporting
 Updated May 3, 2020
 Clinicians should immediately implement recommended infection prevention and control practices, including use of recommended personal protective equipment (PPE), if a patient is suspected of having COVID-19. They should also notify infection control personnel at their healthcare facility if a patient is classified as a Patient Under Investigation (PUI) for COVID-19.
-For diagnostic testing for COVID-19 see the Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from PUIs for COVID-19 and Biosafety FAQs for handling and processing specimens from possible cases and PUIs.
+For diagnostic testing for COVID-19 see the Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from PUIs for COVID-19 and Biosafety FAQs for handling and processing specimens from possible cases and PUIs.
 Clinicians should report positive test results to their local or state health department only.
 Recommendations for Antibody Testing
 Updated May 25, 2020

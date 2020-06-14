@@ -12,7 +12,7 @@ const CDC_PAGES = {
   management:
     'https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html',
   screening:
-    'https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html',
+    'https://www.cdc.gov/coronavirus/2019-ncov/hcp/testing-overview.html',
 };
 
 const date = currentTimeInTimezone('America/New_York');
@@ -26,9 +26,21 @@ async function run() {
       `${CDC_UPDATES_PATH}/${pageName}/${shortDateString}.txt`,
     );
     const result = await fetch(url);
-    const html = await result.text();
+    let html;
+    try {
+      html = await result.text();
+    } catch(err) {
+      console.error(`Unable to fetch page at ${url}`);
+      throw err;
+    }
+
     const root = parse(html);
     const content = root.querySelector('.content');
+
+    if (content == null) {
+      throw new Error(`Unable to find .content element on ${url}`);
+    }
+
     const cleanedContent = content.text
       .split('\n')
       .map(line => line.trim())

@@ -2,7 +2,8 @@ Overview of Testing for SARS-CoV-2
 Minus
 Related Pages
 Note:  This document is intended to provide guidance on the appropriate use of testing and does not dictate the determination of payment decisions or insurance coverage of such testing, except as may be otherwise referenced (or prescribed) by another entity or federal or state agency.
-Summary of ChangesChanges noted were made in a retired document, “Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19),” which has been replaced by this Overview of Testing for SARS-CoV-2. See more changes.
+Summary of ChangesRevisions were made on June 13, 2020, to reflect the following:
+Changes noted were made in a retired document, “Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19),” which has been replaced by this Overview of Testing for SARS-CoV-2. See more changes.
 This document provides a summary of considerations and current Centers for Disease Control and Prevention (CDC) recommendations regarding SARS-CoV-2 testing. The CDC recommendations for SARS-CoV-2 testing have been developed based on what is currently known about COVID-19 and are subject to change as additional information becomes available.
 Recommendations for Viral Testing, Specimen Collection, and Reporting
 Authorized assays for viral testing include those that detect SARS-CoV-2 nucleic acid or antigen. Viral (nucleic acid or antigen) tests check samples from the respiratory system (such as nasal swabs) and identify if an infection with SARS-CoV-2, the virus that causes COVID-19, is present. Viral tests are recommended to diagnose acute infection. Some tests are point-of-care tests, meaning results may be available at the testing site in less than an hour. Other tests must be sent to a laboratory to analyze, a process that may take 1-2 days once received by the lab. Testing the same individual more than once in a 24-hour period is not recommended.

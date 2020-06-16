@@ -1,0 +1,82 @@
+Overview of Testing for SARS-CoV-2
+Minus
+Related Pages
+Note:  This document is intended to provide guidance on the appropriate use of testing and does not dictate the determination of payment decisions or insurance coverage of such testing, except as may be otherwise referenced (or prescribed) by another entity or federal or state agency.
+Summary of ChangesRevisions were made on June 13, 2020, to reflect the following:
+Changes noted were made in a retired document, “Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19),” which has been replaced by this Overview of Testing for SARS-CoV-2. See more changes.
+This document provides a summary of considerations and current Centers for Disease Control and Prevention (CDC) recommendations regarding SARS-CoV-2 testing. The CDC recommendations for SARS-CoV-2 testing have been developed based on what is currently known about COVID-19 and are subject to change as additional information becomes available.
+Recommendations for Viral Testing, Specimen Collection, and Reporting
+Authorized assays for viral testing include those that detect SARS-CoV-2 nucleic acid or antigen. Viral (nucleic acid or antigen) tests check samples from the respiratory system (such as nasal swabs) and identify if an infection with SARS-CoV-2, the virus that causes COVID-19, is present. Viral tests are recommended to diagnose acute infection. Some tests are point-of-care tests, meaning results may be available at the testing site in less than an hour. Other tests must be sent to a laboratory to analyze, a process that may take 1-2 days once received by the lab. Testing the same individual more than once in a 24-hour period is not recommended.
+For more information on diagnostic testing for COVID-19 see the Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens and Biosafety FAQs for handling and processing specimens from possible cases.
+Recommendations for Antibody Testing
+CDC does not currently recommend using antibody testing as the sole basis for diagnosis of acute infection, and antibody tests are not authorized by FDA for such diagnostic purposes. In certain situations, serologic assays may be used to support clinical assessment of persons who present late in their illnesses when used in conjunction with viral detection tests.  In addition, if a person is suspected to have post-infectious syndrome (e.g., Multisystem Inflammatory Syndrome in Children) caused by SARS-CoV-2 infection, serologic assays may be used.
+Serologic assays for SARS-CoV-2, now broadly available, can play an important role in understanding the transmission dynamic of the virus in the general population and identifying groups at higher risk for infection. Unlike viral direct detection methods, such as nucleic acid amplification or antigen detection tests that can detect acutely infected persons, antibody tests help determine whether the individual being tested was previously infected—even if that person never showed symptoms.
+It is currently not clear whether a positive serologic test indicates immunity against SARS-CoV-2; serologic tests should not be used at this time to determine if an individual is immune. As additional data are collected to understand the significance of the presence or level of antibodies and their correlation with immunity, serologic tests may have utility in infection control decisions, but for now this evidence is not available.
+These tests can help determine the proportion of a population previously infected with SARS-CoV-2. Thus, demographic and geographic patterns of serologic test results can help determine which communities may have experienced a higher infection rate.
+Categories for SARS-CoV-2 Testing
+This document describes five categories of people for SARS-CoV-2 testing with viral tests (i.e., nucleic acid or antigen tests):
+Testing individuals with signs or symptoms consistent with COVID-19
+Testing asymptomatic individuals with recent known or suspected exposure to SARS-CoV-2 to control transmission
+Testing asymptomatic individuals without known or suspected exposure to SARS-CoV-2 for early identification in special settings
+Testing to determine resolution of infection (i.e., test-based strategy for Discontinuation of Transmission-based Precautions, HCP Return to Work, and Discontinuation of Home Isolation)
+Public health surveillance for SARS-CoV-2
+Generally, viral testing for SARS-CoV-2 is considered to be diagnostic when conducted among individuals with symptoms consistent with COVID-19 or among asymptomatic individuals with known or suspected recent exposure to SARS-CoV-2 to control transmission, or to determine resolution of infection. Testing is considered to be surveillance when conducted among asymptomatic individuals without known or suspected exposure to SARS-CoV-2 for early identification, or to detect transmission hot spots or characterize disease trends.
+Recommended testing for individuals with signs or symptoms consistent with COVID-19
+CDC recommends using authorized nucleic acid or antigen detection assaysexternal icon that have received an FDA EUA to test persons with symptoms when there is a concern of potential COVID-19. Tests should be used in accordance with the authorized labeling; providers should be familiar with the tests’ performance characteristics and limitations.
+Clinicians should use their judgment to determine if a patient has signs or symptoms compatible with COVID-19 and whether the patient should be tested. Most patients with confirmed COVID-19 have developed fever and/or symptoms of acute respiratory illness (e.g., cough) but some infected patients may present with other symptoms as well. Clinicians are encouraged to consider testing for other causes of respiratory illness, for example influenza, in addition to testing for SARS-CoV-2 depending on patient age, season, or clinical setting; detection of one respiratory pathogen (e.g., influenza) does not exclude the potential for co-infection with SARS-CoV-2. Because symptoms and presentations may be different in children, consider referencing the CDC guidelines for COVID in neonates and for multisystem inflammatory syndrome in children (MIS-C).
+The severity of symptomatic illness due to infection with SARS-CoV-2 may vary. Among persons with extensive and close contact to vulnerable populations (e.g., healthcare personnel [HCP]), even mild signs and symptoms (e.g., sore throat) of possible COVID-19 should prompt consideration for testing. Additional information is available in CDC’s Interim U.S. Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with Coronavirus Disease 2019 (COVID-19).
+Recommended testing for asymptomatic individuals with known or suspected exposure to SARS-CoV-2 to control transmission
+Testing is recommended for all close contactspdf icon of persons with SARS-CoV-2 infection, especially initial testing during an outbreak or pandemic due to the high likelihood of exposure. Because of the potential for asymptomatic and pre-symptomatic transmission, it is important that contacts of individuals with SARS-CoV-2 infection be quickly identified and tested.
+In areas where testing is limited, CDC has established a testing hierarchy; refer to the Interim Guidance on Developing a COVID-19 Case Investigation and Contact Tracing Planpdf icon for more information.
+CDC specifically recommends testing for all neonates born to women with COVID-19, regardless of whether there are signs of infection in the neonate.
+In some settings, broader testing, beyond close contacts, is recommended as a part of a strategy to control transmission of SARS-CoV-2.  This includes high-risk settings that have potential for rapid and widespread dissemination of SARS-CoV-2 (e.g., meat processing plant) or in which populations at risk for severe disease (e.g., long-term care facilities, including nursing homes, intermediate care facilities for individuals with intellectual disabilities, and psychiatric residential treatment facilities) could become exposed.  Expanded testing might include testing of all contacts in proximity to someone with SARS-CoV-2 infection, or even testing all individuals within a shared setting (e.g., facility-wide testing). Currently CDC recommends expanded contact testing in the following guidance documents:
+Testing guidance for nursing homes.
+Following identification of SARS-CoV-2 infection in a worker in a high-density critical infrastructure workplace
+Recommended testing for asymptomatic individuals without known or suspected SARS-CoV-2 exposure for early identification in special settings
+Certain settings can experience rapid spread of SARS-CoV-2, resulting in substantial adverse effects. This is particularly true for settings that house vulnerable populations in close quarters for extended periods of time (e.g., long-term care facilities, correctional and detention facilities) and/or settings where critical infrastructure workers (e.g., healthcare personnel, first responders) may be disproportionately affected.
+A strategy aimed at reducing introduction of SARS-CoV-2 into the setting through early identification could reduce the risk of widespread transmission in these situations.
+Facilities are encouraged to work with local, territorial, and state health departments to help inform decision-making about broad-based testing. Before testing large numbers of asymptomatic individuals without known or suspected exposure, the facility should have a plan in place for how it will modify operations based on test results.
+Approaches for early identification of asymptomatic individuals include:
+Initial testing of everyone residing and/or working in the setting,
+Regular (e.g., weekly) testing of everyone residing and/or working in the setting, and
+Testing of new entrants into the setting and/or those re-entering after a prolonged absence (e.g., one or more days)
+Settings for which these approaches could be considered include:
+Long-term care facilities
+Correctional and detention facilities
+Homeless shelters
+Other congregate work or living settings including mass care, temporary shelters, assisted living facilities, and group homes for individuals with intellectual disabilities and developmental disabilities
+High-density critical infrastructure workplaces where continuity of operations is a high priority
+CDC guidance currently addressing such testing includes:
+Pre-admission or pre-procedure testing as part of the evaluation of patients could be considered to inform decisions about deferring elective care (e.g., certain dental procedures) or procedures and the use of personal protective equipment.
+Testing guidance for nursing homes
+Recommended testing to determine resolution of infection with SARS-CoV-2
+A test-based strategy, which requires serial tests, can be used as an alternative to a symptom-based or time-based strategy, to determine when a person with SARS-CoV-2 infection no longer requires isolation or work exclusion.  This strategy could be considered in three situations:
+Discontinuation of Transmission-Based Precautions and Disposition of Patients with COVID-19 in Healthcare Settings
+Discontinuation of Isolation for Persons with COVID -19 Not in Healthcare Settings
+Determining Criteria for Return to Work for Healthcare Personnel with Suspected or Confirmed COVID-19
+Public health surveillance for SARS-CoV-2
+Testing is a fundamental part of the United States SARS-CoV-2 Surveillance Plan, which uses multiple surveillance systems and epidemiology networks, in collaboration with state, local, and academic partners, to monitor the progression and impact of SARS-CoV-2 spread in the United States.
+Viral tests are used in community, outpatient, and hospital-based surveillance systems to identify cases of SARS-CoV-2 infection. These data help identify areas of ongoing circulation (hot spots), determine trends in disease by location, provide insight into the impact of the disease over time and by location, and inform disease forecasts.
+Antibody tests are increasingly used to monitor disease burden by location and over time. Use of serologic assays in populations can help determine the proportion of a population previously infected with SARS-CoV-2. Thus, demographic and geographic patterns of serologic test results provide data that can be used in forecasts of disease spread that can support resource allocation decisions and planning by local, territorial and state officials.
+Additional Resources:
+Nasal (Anterior Nasal) Specimen Collection for SARS-CoV-2 Diagnostic Testing pdf icon[1 page]
+Guidance – Proposed Use of Point-of-Care (POC) Testing Platforms for SARS-CoV-2 (COVID-19) pdf icon[2 pages]
+State health department after-hours contact listexternal icon
+Directory of Local Health Departmentsexternal icon
+World Health Organization (WHO) Coronavirusexternal icon
+WHO guidance on clinical management of severe acute respiratory infection when COVID-19 is suspectedexternal icon
+NIH Coronavirus Disease 2019 (COVID-19) and Treatment Guidelinesexternal icon
+CMS Guidelinesexternal icon
+FAQs on Diagnostic Testing from the FDAexternal icon
+Summary of Changes to Retired Document, “Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19)”
+Revisions were made on May 3, 2020 to reflect the following:
+Updated recommendations for testing, specimen collection, and reporting patients and reporting positive test results
+Specification of testing priorities
+Revisions were made on April 27, 2020 to reflect the following:
+Updated priorities for testing patients with suspected COVID-19 infection
+Revisions were made on March 24, 2020 to reflect the following:
+Updated priorities for testing patients with suspected COVID-19 infection
+Revisions were made on March 9, 2020, to reflect the following:
+Reorganized the Criteria to Guide Evaluation and Laboratory Testing for COVID-19 section
+Revisions were made on March 4, 2020, to reflect the following:
+Criteria for evaluation of persons for testing for COVID-19 were expanded to include a wider group of symptomatic patients.

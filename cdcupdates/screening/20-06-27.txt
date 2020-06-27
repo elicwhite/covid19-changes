@@ -56,6 +56,7 @@ High-density critical infrastructure workplaces where continuity of operations i
 CDC guidance currently addressing such testing includes:
 Pre-admission or pre-procedure testing as part of the evaluation of patients could be considered to inform decisions about deferring elective care (e.g., certain dental procedures) or procedures and the use of personal protective equipment.
 Testing guidance for nursing homes
+Procedure for broad-based testing
 Recommended testing to determine resolution of infection with SARS-CoV-2
 A test-based strategy, which requires serial tests, can be used as an alternative to a symptom-based or time-based strategy, to determine when a person with SARS-CoV-2 infection no longer requires isolation or work exclusion.  This strategy could be considered in three situations:
 Discontinuation of Transmission-Based Precautions and Disposition of Patients with COVID-19 in Healthcare Settings

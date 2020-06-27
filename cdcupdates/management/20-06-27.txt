@@ -1,4 +1,11 @@
-Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)							Updated June 2, 2020
+Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)
+Updated May 29, 2020
+Print Page
+Facebook
+Twitter
+LinkedIn
+Email
+Syndicate
 Minus
 Related Pages
 Summary of Recent ChangesRevisions were made on May 25, 2020, to reflect the following:
@@ -81,7 +88,11 @@ Pediatric Management
 Illness among pediatric patients with COVID-19 is typically milder than among adults, with most children presenting with symptoms of upper respiratory infection. However, severe outcomes have been reported in children including COVID-19 associated deaths. Data suggest that infants (<12 months of age) may be at higher risk for severe illness from COVID-19 compared with older children.14 CDC and partners are also investigating reports of multisystem inflammatory syndrome in children (MIS-C) associated with COVID-19.
 For expanded guidance on the management of children with COVID-19 and associated complications, see Evaluation and Management Considerations for Neonates At Risk for COVID-19, Information for Pediatric Healthcare Providers, and the Surviving Sepsis Campaign International Guidelines for the Management of Septic Shock and Sepsis-Associated Organ Dysfunction in Childrenexternal icon.
 Investigational Therapeutics
-The National Institutes of Health have published interim guidelines for the medical management of COVID-19external icon which include information on therapeutic options for COVID-19 currently under investigation. No U.S. Food and Drug Administration (FDA)-approved drugs have demonstrated safety and efficacy in randomized controlled trials when used to treat patients with COVID-19, although FDA has granted an Emergency Use Authorization for the use of remdesivirexternal icon to treat severe cases. Use of investigational therapies for treatment of COVID-19 should ideally be done in the context of enrollment in randomized controlled trials, so that beneficial drugs can be identified. For the latest information, see Information for Clinicians on Therapeutic Options for COVID-19 Patients. For information on registered trials in the United States, see ClinicalTrials.govexternal icon.
+The National Institutes of Health has published interim guidelines for the medical management of COVID-19,external icon which include therapeutic options for COVID-19 currently under investigation. These guidelines will be updated as new information emerges and drugs and other therapeutic interventions are approved for use by the U.S. Food and Drug Administration (FDA).
+Although FDA has granted an Emergency Use Authorization for the use of remdesivirexternal icon to treat severe cases, there is still limited information available about the safety and efficacy of remdesivir and other drugs from randomized clinical controlled trials.
+For more information about therapeutic products which are available under either FDA’s expanded access program or an Emergency Use Authorization, visit ASPR’s Portfolio of COVID-19 Medical Countermeasures under Investigationexternal icon.
+Updated safety information is available on FDA’s Drug Safety Communications pageexternal icon, including updated safety information on hydroxychloroquineexternal icon.
+For information on registered trials for COVID-19 in the United States, see ClinicalTrials.govexternal icon.
 Discontinuation of Transmission-Based Precautions or Home Isolation
 Patients who have clinically recovered and are able to discharge from the hospital but who have not been cleared from their Transmission-Based Precautions may continue isolation at their place of residence until cleared. For recommendations on discontinuation of Transmission-Based Precautions or home isolation for patients who have recovered from COVID-19 illness, please see:
 Interim Guidance for Discontinuation of Transmission-Based Precautions and Disposition of Hospitalized Patients with COVID-19

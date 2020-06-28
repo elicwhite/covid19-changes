@@ -1,0 +1,199 @@
+COVIDView: A Weekly Surveillance Summary of U.S. COVID-19 Activity
+Updated June 26, 2020
+Print Page
+Facebook
+Twitter
+LinkedIn
+Email
+Syndicate
+Minus
+Related Pages
+Download Weekly Summary pdf icon[49 Pages, 2.45 MB]
+Key Updates for Week 25, ending June 20, 2020Nationally, levels of influenza-like illness (ILI) and COVID-19-like illness (CLI) remain lower than peaks seen in March and April but are increasing in several regions. The percentage of specimens testing positive for SARS-CoV-2, the virus that causes COVID-19, also increased from last week. Mortality attributed to COVID-19 decreased compared to last week but remains elevated above baseline and may increase as additional death certificates are processed.
+VirusPublic Health, Commercial and Clinical LaboratoriesThe overall percentage of respiratory specimens testing positive for SARS-CoV-2 increased from week 24 (6.5%) to week 25 (7.6%) nationally, driven by increases in seven regions. National percentages by type of laboratory:
+Public health laboratories – increased from 5.2% during week 24 to 6.1% during week 25;
+Clinical laboratories – increased from 4.7% during week 24 to 5.2% during week 25;
+Commercial laboratories – increased from 6.9% during week 24 to 7.9% during week 25.
+Outpatient and Emergency Department VisitsOutpatient Influenza-Like Illness Network (ILINet) and National Syndromic Surveillance Program (NSSP)Two surveillance indicators are being used to track outpatient or emergency department (ED) visits for illness with symptoms compatible with COVID-19.
+Nationally, levels of ILI remain below baseline for the tenth week and in all 10 surveillance regions for the past eight to eleven weeks. However, several regions reported increases in percentage of visits for ILI and CLI.
+Recent changes in health care seeking behavior, including increasing use of telemedicine, recommendations to limit emergency department (ED) visits to severe illnesses, and increased practice of social distancing, are likely affecting data reported from both networks, making it difficult to draw conclusions at this time. Tracking these systems moving forward will give additional insight into illness related to COVID-19.
+Severe DiseaseHospitalizationsCumulative COVID-19-associated hospitalization rates since March 1, 2020, are updated weekly. The overall cumulative COVID-19 hospitalization rate is 98.4 per 100,000, with the highest rates in people aged 65 years and older (297.6 per 100,000) and 50-64 years (148.6 per 100,000).
+MortalityBased on death certificate data, the percentage of deaths attributed to pneumonia, influenza or COVID-19 (PIC) decreased from 9.5% during week 24 to 6.9% during week 25 but remained above baseline. This is the ninth week of a declining percentage of deaths due to PIC, but this may change as more death certificates are processed, particularly for recent weeks.
+All data are preliminary and may change as more reports are received.
+A description of the surveillance systems summarized in COVIDView, including methodology and detailed descriptions of each data component, is available on the surveillance methods page.
+Key Points
+Overall, indicators used to monitor COVID-19 activity remain lower than peaks seen in March and April; however, increases are being seen in the percentage of specimens testing positive for SARS-CoV-2 and percentage of visits for ILI or CLI in multiple parts of the country, in some case for consecutive weeks.
+Nationally, using combined data from the three laboratory types, the percentages of laboratory specimens testing positive for SARS-CoV-2 with a molecular assay increased from week 24 (6.5%) to week 25 (7.6%).
+Increases were reported in seven of ten HHS surveillance regions, three of which (Region 4 [South East], Region 6 [South Central], and Region 9 [South West/Coast]) reported >10% of specimens positive for SARS-CoV-2.
+Three regions (Region 1 [New England], Region 3 [Mid-Atlantic] and Region 5 [Midwest]), reported a decrease in percentage of specimens testing positive for SARS-CoV-2.
+The percentage of outpatient and emergency department visits for ILI are below baseline nationally and in all regions of the country. Most regions have remained stable, compared to last week; however, a few regions experienced an increase in the percentage of visits for CLI and/or ILI with the largest increases in Regions 4 (South East), 6 (South Central), and 9 (South West/Coast).
+Systems monitoring ILI and CLI may be influenced by recent changes in health care seeking behavior, including increasing use of telemedicine, recommendations to limit emergency department (ED) visits to severe illnesses, and increased practice of social distancing.
+The overall cumulative COVID-19 associated hospitalization rate is 98.4 per 100,000, with the highest rates in people 65 years of age and older (297.6 per 100,000) followed by people 50-64 years (148.6 per 100,000). Hospitalization rates are cumulative and will increase as the COVID-19 pandemic continues.
+Non-Hispanic American Indian or Alaska Native persons have an age-adjusted hospitalization rate approximately 5 times that of non-Hispanic White persons, while non-Hispanic Black persons and Hispanic or Latino persons each have a rate approximately 4.5 times that of non-Hispanic White persons.
+Cumulative hospitalization rates for COVID-19 in adults (18-64 years) at this time are higher than cumulative end-of-season hospitalization rates for influenza over each of the past 5 influenza seasons.
+For people 65 years and older, current cumulative COVID-19 hospitalization rates are within ranges of cumulative influenza hospitalization rates observed at comparable time points* during recent influenza seasons.
+For children (0-17 years), cumulative COVID-19 hospitalization rates are much lower than cumulative influenza hospitalization rates at comparable time points* during recent influenza seasons.
+Based on death certificate data, the percentage of deaths attributed to pneumonia, influenza or COVID-19 (PIC) decreased from 9.5% during week 24 to 6.9% during week 25. This is the ninth week during which a declining percentage of deaths due to PIC has been recorded; however, the percentage remains above the epidemic threshold. The percentage may change as additional death certificates for deaths during recent weeks are processed.
+*Number of weeks since 10% of specimens tested positive for SARS-CoV-2 and influenza, respectively.
+U.S. Virologic SurveillanceThe number of specimens tested for SARS-CoV-2 using a molecular assay and reported to CDC by public health laboratories and a subset of clinical and commercial laboratories in the United States are summarized below. All laboratories are performing primary diagnostic functions; therefore, the percentage of specimens testing positive across laboratory types can be used to monitor overall trends in COVID-19 activity. As the outbreak progresses, it is possible that different types of laboratories will take on different roles, and the data interpretation may need to change.
+Summary of Laboratory Testing Results Reported to CDC
+Summary of Laboratory Testing Results Reported to CDC*
+Week 25
+(June 14 – June 20, 2020)
+Cumulative since March 1, 2020
+No. of specimens tested
+1,772,631
+16,998,825
+Public Health Laboratories
+172,748
+2,101,748
+Clinical Laboratories
+117,732
+1,434,393
+Commercial Laboratories
+1,482,151
+13,462,684
+No. of positive specimens (%)
+133,899 (7.6%)
+1,677,604 (9.9%)
+Public Health Laboratories
+10,474 (6.1%)
+199,744 (9.5%)
+Clinical Laboratories
+6,162 (5.2%)
+96,572 (6.7%)
+Commercial Laboratories
+117,263 (7.9%)
+1,381,288 (10.3%)
+* Commercial and clinical laboratory data represents select laboratories and does not capture all tests performed in the United States.
+Public Health Laboratories
+resize iconView LargerClosedownload iconDownload Imageimage icon[GIF, NAN ]
+View Data Table
+Clinical Laboratories
+resize iconView LargerClosedownload iconDownload Imageimage icon[GIF, NAN ]
+View Data Table
+Commercial Laboratories
+resize iconView LargerClosedownload iconDownload Imageimage icon[GIF, NAN ]
+* Commercial laboratories began testing for SARS-CoV-2 in early March, but the number and geographic distribution of reporting commercial laboratories became stable enough to calculate a weekly percentage of specimens testing positive as of March 29, 2020.
+View Data Table
+Additional virologic surveillance information: Surveillance Methods
+Outpatient/Emergency Department IllnessTwo syndromic surveillance systems are being used to monitor trends in outpatient and emergency department visits that may be associated with COVID-19 illness. Each system monitors a slightly different syndrome, and together these systems provide a more comprehensive picture of mild to moderate COVID-19 illness than either would individually. Both systems are currently being affected by recent changes in healthcare seeking behavior, including increased use of telemedicine, compliance with recommendations to limit emergency department (ED) visits to severe illnesses, and increased practice of social distancing. These changes affect the numbers of people seeking care in the outpatient and ED settings and their reasons for doing so.
+ILINet
+The U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) provides data on visits for influenza-like illness (ILI) (fever [≥100○F] and cough and/or sore throat) to approximately 2,600 primary care providers, emergency departments and urgent care centers in all 50 states, Puerto Rico, the District of Columbia and the U.S. Virgin Islands. Mild COVID-19 illness presents with symptoms similar to ILI, so ILINet is being used to track trends of mild to moderate COVID-19 illness and allows for comparison with prior influenza seasons.
+Nationwide during week 25, 0.8% of patient visits reported through ILINet were due to ILI. This percentage is well below the national baseline of 2.4%. The percentage of visits for ILI in week 25 remains low among all age groups but increased slightly for persons less than 65 years of age. Nationally, laboratory-confirmed influenza activity as reported by clinical laboratories is at levels usually seen during summer months which, along with changes in healthcare seeking behavior and the impact of social distancing, is likely contributing to the low level of ILI activity.
+resize iconView LargerClosedownload iconDownload Imageimage icon[GIF, NAN ]
+* Age-group specific percentages should not be compared to the national baseline.
+On a regional levelexternal icon, the percentage of outpatient visits for ILI ranged from 0.4% to 1.4% during week 25. All ten regions are at low levels and below their region-specific baselines; however, Region 4 (South East) increased from 0.9% during week 24 to 1.3% during week 25; Regions 7 (Central), 8 (West) and 9 (South West/Coast) also reported slight increases.
+Note: In response to the COVID-19 pandemic, new data sources will be incorporated into ILINet as we move into summer weeks when lower levels of influenza and other respiratory virus circulation are typical. Starting in week 21, increases in the number of patient visits will be seen as new sites are enrolled and the percentage of visits for ILI may change in comparison to previous weeks. While all regions remain below baseline levels for ILI, these system changes should be kept in mind when drawing conclusions from these data. Any changes in ILI due to changes in respiratory virus circulation will be highlighted here.
+Overall Percentage of Visits for ILI | Age Group ILI Data
+ILI Activity Levels
+Data collected in ILINet are used to produce a measure of ILI activity for all 50 states, Puerto Rico, the District of Columbia and New York City. The mean reported percentage of visits due to ILI for the current week is compared to the mean reported during non-influenza weeks, and the activity levels correspond to the number of standard deviations below, at or above the mean.
+The number of jurisdictions at each activity level during week 25 and the change compared to the previous week are summarized in the table below and shown in the following maps. The decreasing percentage of visits for ILI described above are reflected in this week’s ILI activity levels.
+ILI Activity Levels
+Activity Level
+Number of Jurisdictions
+Week 25
+(Week ending
+June 20, 2020)
+Compared to Previous Week
+Very High
+0
+No change
+High
+0
+No change
+Moderate
+0
+No change
+Low
+1
++1
+Minimal
+51
+-2
+Insufficient Data
+2
++1
+*Data collected in ILINet may disproportionally represent certain populations within a state and may not accurately depict the full picture of influenza activity for the whole state. Differences in the data presented here by CDC and independently by some state health departments likely represent differing levels of data completeness with data presented by the state likely being the more complete.
+National Syndromic Surveillance Program (NSSP): Emergency Department (ED) Visits
+NSSP is a collaboration among CDC, federal partners, local and state health departments and academic and private sector partners to collect, analyze and share electronic patient encounter data received from multiple healthcare settings. To track trends of potential COVID-19 visits, visits for COVID-19-like illness (CLI) (fever and cough or shortness of breath or difficulty breathing or presence of a coronavirus diagnosis code) and ILI to a subset of emergency departments in 47 states are being monitored.
+Nationwide during week 25, 2.1% of emergency department visits captured in NSSP were due to CLI and 0.8% were due to ILI. This is the first week of an increasing percentage of visits for CLI and ILI nationally since activity peaked in early April. Compared to week 24, 3 of 10 HHS regionsexternal icon (Regions 4 [South East], 6 [South Central] and 9 [South West/Coast]) reported increases in the percentages of visits for both CLI and ILI during week 25. One additional region reported a slight increase in percentage of visits for CLI during week 25 (Region 8 [Mountain]) and 2 additional regions reported a slight increase in percentage of visits for ILI (Regions 3 [Mid-Atlantic] and 7 [Central]).
+Additional information about medically attended outpatient and emergency department visits for ILI and CLI: Surveillance Methods
+HospitalizationsThe COVID-19-Associated Hospitalization Surveillance Network (COVID-NET) conducts population-based surveillance for laboratory-confirmed COVID-19-associated hospitalizations in select counties participating in the Emerging Infections Program (EIP) and the Influenza Hospitalization Surveillance Project (IHSP).
+A total of 31,934 laboratory-confirmed COVID-19-associated hospitalizations were reported by sites between March 1, 2020 and June 20, 2020. The overall cumulative hospitalization rate was 98.4 per 100,000 population. Among the 0-4 years, 5-17 years, 18-49 years, 50-64 years, and ≥ 65 years age groups, the highest rate of hospitalization is among adults aged ≥ 65 years, followed by adults aged 50-64 years and adults aged 18-49 years.
+resize iconView LargerClosedownload iconDownload Imageimage icon[GIF, NAN ]
+Hospitalization Rates
+Age Group
+Cumulative Rate per 100,000 Population
+Overall
+98.4
+0-4 years
+8.0
+5-17 years
+3.7
+18-49 years
+59.2
+18-29 years
+32.1
+30-39 years
+59.2
+40-49 years
+94.1
+50-64 years
+148.6
+65+ years
+297.6
+65-74 years
+216.3
+75-84 years
+358.2
+85+ years
+556.2
+Among the 31,934 laboratory-confirmed COVID-19-associated hospitalized cases, 29,789 (93.3%) had information on race and ethnicity while collection of race and ethnicity was still pending for 2,145 (6.7%) cases. Non-Hispanic American Indian or Alaska Native persons have an age-adjusted hospitalization rate approximately 5 times that of non-Hispanic White persons, while non-Hispanic Black persons and Hispanic or Latino persons each have a rate approximately 4.5 times that of non-Hispanic White persons. Additional data on race and ethnicity are available.
+Non-Hispanic White persons represent the highest proportion of hospitalized cases reported to COVID-NET, followed by non-Hispanic Black, Hispanic or Latino, non-Hispanic Asian or Pacific Islander, and non-Hispanic American Indian or Alaska Native persons. However, some racial and ethnic groups are disproportionately represented among hospitalized cases as compared with the overall population of the catchment area. Prevalence ratios show a similar pattern to that of the age-adjusted hospitalization rates: non-Hispanic American Indian or Alaska Native persons have the highest prevalence ratio, followed by non-Hispanic Black, and Hispanic or Latino persons.
+Comparison of age-adjusted rates and proportions of COVID-19-Associated Hospitalizations, by race and ethnicity, COVID-NET, March 1-June 20, 2020
+Non-Hispanic American Indian or Alaska Native
+Non-Hispanic Black
+Hispanic or Latino
+Non-Hispanic Asian or Pacific Islander
+Non-Hispanic White
+Age-adjusted hospitalization rate (per 100,000 population)1
+231.0
+202.2
+192.8
+54.2
+43.5
+Proportion of hospitalized COVID-NET cases2
+1.5%
+32.6%
+22.0%
+4.7%
+32.8%
+Proportion of population in COVID-NET catchment
+0.7%
+17.7%
+14.0%
+8.8%
+58.8%
+Prevalence ratios3
+2.1
+1.8
+1.5
+0.5
+0.6
+1COVID-19-associated hospitalization rates by race/ethnicity are calculated using hospitalized COVID-NET cases with known race and ethnicity for the numerator and NCHS bridged-race population estimates NCHS bridged-race population estimates for the denominator. Rates are adjusted to account for differences in age distributions within race/ethnicity strata in the COVID-NET catchment area; the age strata used for the adjustment include 0-17, 18-49, 50-64, 65-74, 75-84, and  85 years.
+2 Persons of multiple races (0.2%) or unknown race and ethnicity (6.2%) are not represented in the table but are included as part of the denominator.
+3 Prevalence ratio is calculated as the ratio of the proportion of hospitalized COVID-NET cases over the proportion of population in COVID-NET catchment area.
+Among 8,089 hospitalized adults with information on underlying medical conditions, 91% had at least one reported underlying medical condition. The most commonly reported were hypertension, obesity, chronic metabolic disease, and cardiovascular disease. Among 158 hospitalized children with information on underlying conditions, 53.2% had at least one reported underlying medical condition. The most commonly reported were obesity, asthma, and neurologic conditions.
+resize iconView LargerClosedownload iconDownload Imageimage icon[GIF, NAN ]
+Additional data on demographics, signs and symptoms at admission, underlying conditions, interventions, outcomes, and discharge diagnoses, stratified by age, sex, and race and ethnicity, are available.
+Additional hospitalization surveillance information: Surveillance Methods  | Additional rate data  |  Additional demographic and clinical data
+Mortality SurveillanceThe National Center for Health Statistics (NCHS) collects death certificate data from vital statistics offices for all deaths occurring in the United States. Based on death certificate data available on June 25, 2020, 6.9% of all deaths occurring during the week ending June 20, 2020 (week 25) were due to pneumonia, influenza or COVID-19 (PIC). This is the ninth week of a declining percentage of deaths due to PIC; however, the percentage remains above the epidemic threshold of 5.9% for week 25. Data for recent weeks are incomplete, and the PIC percentage may increase as more death certificates representing deaths during these weeks are processed.
+Weekly mortality surveillance data include a combination of machine coded and manually coded causes of death collected from death certificates. Percentages of deaths due to PIC are higher among manually coded records than more rapidly available machine coded records. Due to the additional time needed for manual coding, the initially reported PIC percentages may be lower than percentages calculated from final data.
+resize iconView LargerClosedownload iconDownload Imageimage icon[GIF, NAN ]
+*Data during recent weeks are incomplete because of the lag in time between when the death occurred and when the death certificate is completed, submitted to NCHS and processed for reporting purposes.
+View Data Table
+Additional NCHS mortality surveillance information: Surveillance Methods  | Provisional Death Counts for COVID-19
+More Information
+Purpose and Methods
+Past Weekly Reports

@@ -1,0 +1,236 @@
+Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)
+Updated June 30, 2020
+Print
+Facebook
+Twitter
+LinkedIn
+Email
+Syndicate
+Minus
+Related Pages
+Summary of Recent ChangesRevisions were made on June 20, 2020, to reflect the following:
+Updated content to Clinical Presentation
+Refer to People Who Are at Increased Risk for Severe Illness
+New information about Reinfection
+New information about Therapeutics
+Minor revisions for clarity and updates to footnotes throughout
+Revisions were made on May 29, 2020, to reflect the following:
+Refer to updated symptoms of Coronavirus
+Revisions were made on May 25, 2020, to reflect the following:
+Refer to new multisystem inflammatory syndrome in children (MIS-C) guidance for healthcare providers
+Revisions were made on May 20, 2020, to reflect the following:
+Refer to new guidance for Evaluation and Management Considerations for Neonates At Risk for COVID-19
+Revisions were made on May 12, 2020, to reflect the following:
+New information about COVID-19-Associated Hypercoagulability
+Updated content and resources to include new NIH Treatment Guidelines
+Minor revisions for clarity
+On This Page
+Clinical PresentationClinical PresentationClinical CourseViral TestingLaboratory and Radiographic FindingsClinical Management and TreatmentDiscontinuation of Transmission-Based Precautions or Home Isolation
+This interim guidance is for clinicians caring for patients with confirmed infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19). CDC will update this interim guidance as more information becomes available.
+Clinical Presentation
+Incubation period
+The incubation period for COVID-19 is thought to extend to 14 days, with a median time of 4-5 days from exposure to symptoms onset.1-3 One study reported that 97.5% of persons with COVID-19 who develop symptoms will do so within 11.5 days of SARS-CoV-2 infection.3
+Presentation
+The signs and symptoms of COVID-19 present at illness onset vary, but over the course of the disease, most persons with COVID-19 will experience the following1,4-9:
+Fever or chills
+Cough
+Shortness of breath or difficulty breathing
+Fatigue
+Muscle or body aches
+Headache
+New loss of taste or smell
+Sore throat
+Congestion or runny nose
+Nausea or vomiting
+Diarrhea
+Symptoms differ with severity of disease.  For example, fever, cough, and shortness of breath are more commonly reported among people who are hospitalized with COVID-19 than among those with milder disease (non-hospitalized patients). Atypical presentations occur often, and older adults and persons with medical comorbidities may have delayed presentation of fever and respiratory symptoms.10,14 In one study of 1,099 hospitalized patients, fever was present in only 44% at hospital admission but eventually developed in 89% during hospitalization.1 Fatigue, headache, and muscle aches (myalgia) are among the most commonly reported symptoms in people who are not hospitalized, and sore throat and nasal congestion or runny nose (rhinorrhea) also may be prominent symptoms.  Many people with COVID-19  experience gastrointestinal symptoms such as nausea, vomiting or diarrhea, sometimes prior to developing fever and lower respiratory tract signs and symptoms.9 Loss of smell (anosmia) or taste (ageusia) preceding the onset of respiratory symptoms has been commonly reported in COVID-19 especially among women and young or middle-aged patients who do not require hospitalization.11,12 While many of the symptoms of COVID-19 are common to other respiratory or viral illnesses, anosmia appears to be more specific to COVID-19.12
+Signs and symptoms of COVID-19 in children vary by age of the child,  and are usually milder compared to adults.15-19 For more information on the clinical presentation and course among children, see Information for Pediatric Healthcare Providers.
+Asymptomatic and Pre-Symptomatic Infection
+Several studies have documented SARS-CoV-2 infection in patients who never develop symptoms (asymptomatic) and in patients not yet symptomatic (pre-symptomatic).16,18,20-30 Since asymptomatic persons are not routinely tested, the prevalence of asymptomatic infection and detection of pre-symptomatic infection is not yet well understood. One study found that as many as 13% of reverse transcription-polymerase chain reaction (RT-PCR)-confirmed cases of SARS-CoV-2 infection in children were asymptomatic.16 Another study of skilled nursing facility residents who were infected with SARS-CoV-2 after contact with a healthcare worker with COVID-19 demonstrated that half of the residents were asymptomatic or pre-symptomatic at the time of contact tracing, evaluation, and testing.27 Patients may have abnormalities on chest imaging before the onset of symptoms.21,22.
+Asymptomatic and Pre-Symptomatic Transmission
+Increasing numbers of epidemiologic studies have documented SARS-CoV-2 transmission during the pre-symptomatic incubation period,21,31-33. Virologic studies using RT-PCR detection have reported tests with  low cycle thresholds, indicating larger quantities of viral RNA and viable virus has been cultured from persons with asymptomatic and pre-symptomatic SARS-CoV-2 infection.25,27,30,34 The relationship between SARS-CoV-2 viral RNA shedding and  transmission risk is not yet clear. The proportion of SARS-CoV-2 transmission due to asymptomatic or pre-symptomatic infection compared to symptomatic infection is unclear.35
+On This Page
+Clinical PresentationClinical PresentationClinical CourseViral TestingLaboratory and Radiographic FindingsClinical Management and TreatmentDiscontinuation of Transmission-Based Precautions or Home Isolation
+This interim guidance is for clinicians caring for patients with confirmed infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19). CDC will update this interim guidance as more information becomes available.
+Clinical Presentation
+Incubation period
+The incubation period for COVID-19 is thought to extend to 14 days, with a median time of 4-5 days from exposure to symptoms onset.1-3 One study reported that 97.5% of persons with COVID-19 who develop symptoms will do so within 11.5 days of SARS-CoV-2 infection.3
+Presentation
+The signs and symptoms of COVID-19 present at illness onset vary, but over the course of the disease, most persons with COVID-19 will experience the following1,4-9:
+Fever or chills
+Cough
+Shortness of breath or difficulty breathing
+Fatigue
+Muscle or body aches
+Headache
+New loss of taste or smell
+Sore throat
+Congestion or runny nose
+Nausea or vomiting
+Diarrhea
+Symptoms differ with severity of disease.  For example, fever, cough, and shortness of breath are more commonly reported among people who are hospitalized with COVID-19 than among those with milder disease (non-hospitalized patients). Atypical presentations occur often, and older adults and persons with medical comorbidities may have delayed presentation of fever and respiratory symptoms.10,14 In one study of 1,099 hospitalized patients, fever was present in only 44% at hospital admission but eventually developed in 89% during hospitalization.1 Fatigue, headache, and muscle aches (myalgia) are among the most commonly reported symptoms in people who are not hospitalized, and sore throat and nasal congestion or runny nose (rhinorrhea) also may be prominent symptoms.  Many people with COVID-19  experience gastrointestinal symptoms such as nausea, vomiting or diarrhea, sometimes prior to developing fever and lower respiratory tract signs and symptoms.9 Loss of smell (anosmia) or taste (ageusia) preceding the onset of respiratory symptoms has been commonly reported in COVID-19 especially among women and young or middle-aged patients who do not require hospitalization.11,12 While many of the symptoms of COVID-19 are common to other respiratory or viral illnesses, anosmia appears to be more specific to COVID-19.12
+Several studies have reported that the signs Signs and symptoms of COVID-19 in children are similar to adults vary by age of the child,  and are usually milder compared to adults.15-19 For more information on the clinical presentation and course among children, see Information for Pediatric Healthcare Providers.
+Asymptomatic and Pre-Symptomatic Infection
+Several studies have documented SARS-CoV-2 infection in patients who never develop symptoms (asymptomatic) and in patients not yet symptomatic (pre-symptomatic).16,18,20-30 Since asymptomatic persons are not routinely tested, the prevalence of asymptomatic infection and detection of pre-symptomatic infection is not yet well understood. One study found that as many as 13% of reverse transcription-polymerase chain reaction (RT-PCR)-confirmed cases of SARS-CoV-2 infection in children were asymptomatic.16 Another study of skilled nursing facility residents who were infected with SARS-CoV-2 after contact with a healthcare worker with COVID-19 demonstrated that half of the residents were asymptomatic or pre-symptomatic at the time of contact tracing, evaluation, and testing.27 Patients may have abnormalities on chest imaging before the onset of symptoms.21,22.
+Asymptomatic and Pre-Symptomatic Transmission
+Increasing numbers of epidemiologic studies have documented SARS-CoV-2 transmission during the pre-symptomatic incubation period,21,31-33. Virologic studies using RT-PCR detection have reported tests with  low cycle thresholds, indicating larger quantities of viral RNA and viable virus has been cultured from persons with asymptomatic and pre-symptomatic SARS-CoV-2 infection.25,27,30,34 The relationship between SARS-CoV-2 viral RNA shedding and  transmission risk is not yet clear. The proportion of SARS-CoV-2 transmission due to asymptomatic or pre-symptomatic infection compared to symptomatic infection is unclear.35
+Clinical Course
+Illness Severity
+The largest cohort reported of >44,000 persons with COVID-19 from China showed that illness severity can range from mild to critical:36
+Mild to moderate (mild symptoms up to mild pneumonia): 81%
+Severe (dyspnea, hypoxia, or >50% lung involvement on imaging): 14%
+Critical (respiratory failure, shock, or multiorgan system dysfunction): 5%
+In this study, all deaths occurred among patients with critical illness, and the overall case fatality rate was 2.3%.36 The case fatality rate among patients with critical disease was 49%.36 Among children in China, illness severity was lower with 94% having asymptomatic, mild, or moderate disease; 5% having severe disease; and <1% having critical disease.16 Among U.S. COVID-19 cases with known disposition, the proportion of persons who were hospitalized was 19%.37 The proportion of persons with COVID-19 admitted to the intensive care unit (ICU) was 6%.37
+Clinical Progression
+Among patients who developed severe disease, the medium time to dyspnea from the onset of illness or symptoms ranged from 5 to 8 days, the median time to acute respiratory distress syndrome (ARDS) from the onset of illness or symptoms ranged from 8 to 12 days, and the median time to ICU admission from the onset of illness or symptoms ranged from 10 to 12 days.5,6,10,11 Clinicians should be aware of the potential for some patients to rapidly deteriorate one week after illness onset. Among all hospitalized patients, a range of 26% to 32% of patients were admitted to the ICU.6,8,11 Among all patients, a range of 3% to 17% developed ARDS compared to a range of 20% to 42% for hospitalized patients and 67% to 85% for patients admitted to the ICU.1,4-6,8,11 Mortality among patients admitted to the ICU ranges from 39% to 72% depending on the study and characteristics of patient population.5,8,10,11 The median length of hospitalization among survivors was 10 to 13 days.1,6,8
+Risk Factors for Severe Illness
+Age is a strong risk factor for severe illness, complications, and death.1,6,8,14,36-40 Among >44,000 confirmed cases of COVID-19 in China, the case fatality rate was highest among older persons: ≥80 years, 14.8%; 70–79 years, 8.0%; 60–69 years, 3.6%; 50–59 years, 1.3%; 40–49 years, 0.4%; <40 years, 0.2%.36,41 In early U.S. epidemiologic data, case fatality was highest in persons aged ≥85 years (range 10%–27%), followed by those aged 65-84 years (3%–11%), aged 55-64 years (1%–3%), and aged <55 years (<1%).37
+Patients in China with no reported underlying medical conditions had an overall case fatality of 0.9%. Case fatality was higher for patients with comorbidities: 10.5% for those with cardiovascular disease, 7.3% for those with diabetes, and approximately 6% for those with chronic respiratory disease, or cancer.1,6,14,36,38,41,42    Prior stroke, diabetes, chronic lung disease, and chronic kidney disease have all been associated with increased illness severity and adverse outcomes. Serious heart conditions, including heart failure, coronary artery disease, congenital heart disease, cardiomyopathies, and pulmonary hypertension, may put people at higher risk for severe illness from COVID-19. People with hypertension may be at an increased risk for severe illness from COVID-19 and should continue to take their medications as prescribed. At this time, people whose only underlying medical condition is hypertension are not considered to be at higher risk for severe illness from COVID-19.43,44
+Accounting for differences in age and prevalence of underlying condition, mortality associated with COVID-19 reported in the United States has been similar to reports from China.26,37,39
+Reinfection
+There are no data concerning the possibility of re-infection with SARS-CoV-2 after recovery from COVID-19. While viral RNA shedding declines with resolution of symptoms, it may continue for days to weeks.34,38,45 However, the detection of RNA during convalescence does not necessarily indicate the presence of viable infectious virus. Clinical infection has been correlated with the detection of IgM and IgG antibodies.46-49 However, definitive data are lacking, and it remains uncertain whether individuals with antibodies are protected against reinfection with SARS-CoV-2, and if so, what concentration of antibodies is needed to confer protection.
+Viral Testing
+Diagnosis of COVID-19 requires detection of SARS-CoV-2 RNA by reverse transcription polymerase chain reaction (RT-PCR). Detection of SARS-CoV-2 viral RNA is better in nasopharynx samples compared to throat samples.34,50 Lower respiratory samples may have better yield than upper respiratory samples.34,50 SARS-CoV-2 RNA has also been detected in stool and blood.15,45,47,51 Detection of SARS-CoV-2 RNA in blood may be a marker of severe illness.52 Viral RNA shedding may persist over longer periods among older persons and those who had severe illness requiring hospitalization (median range of viral shedding among hospitalized patients 12–20 days).34,38,45,46,53
+Infection with both SARS-CoV-2 and with other respiratory viruses has been reported, and detection of another respiratory pathogen does not rule out COVID-19.54
+For more information about testing and specimen collection, handling and storage, visit Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19) and Frequently Asked Questions on COVID-19 Testing at Laboratories.
+Laboratory and Radiographic Findings
+Laboratory Findings
+Lymphopenia is the most common laboratory finding in COVID-19, and is found in as many as 83% of hospitalized patients.1,5 Lymphopenia, neutrophilia, elevated serum alanine aminotransferase and aspartate aminotransferase levels, elevated lactate dehydrogenase, high CRP, and high ferritin levels may be associated with greater illness severity.1,5,6,8,38,55 Elevated D-dimer and lymphopenia have been associated with mortality.8,38 Procalcitonin is typically normal on admission, but may increase among those admitted to an ICU.4-6 Patients with critical illness had high plasma levels of inflammatory makers, suggesting potential immune dysregulation.5,56
+Radiographic Findings
+Chest radiographs of patients with COVID-19 typically demonstrate bilateral air-space consolidation, though patients may have unremarkable chest radiographs early in the disease.1,5,57 Chest CT images from patients with COVID-19 typically demonstrate bilateral, peripheral ground glass opacities.4,8,36,58-67 Because this chest CT imaging pattern is non-specific and overlaps with other infections, the diagnostic value of chest CT imaging for COVID-19 may be low and dependent upon radiographic interpretation.59,68 One study found that 56% of patients who presented within two days of diagnosis had a normal CT.60 Conversely, other studies have identified chest CT abnormalities in patients prior to the detection of SARS-CoV-2 RNA.58,69 Given the variability in chest imaging findings, chest radiograph or CT alone is not recommended for the diagnosis of COVID-19. The American College of Radiology also does not recommend CT for screening, or as a first-line test for diagnosis of COVID-19. (See American College of Radiology Recommendationsexternal icon).
+Clinical Management and Treatment
+The National Institutes of Health published guidelines on prophylaxis use, testing, and management of patients with COVID-19. For more information, please visit National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelinesexternal icon. The recommendations were based on scientific evidence and expert opinion and will be updated as more data become available.
+Mild to Moderate Disease
+Patients with a mild clinical presentation (absence of viral pneumonia and hypoxia) may not initially require hospitalization, and many patients will be able to manage their illness at home. The decision to monitor a patient in the inpatient or outpatient setting should be made on a case-by-case basis. This decision will depend on the clinical presentation, requirement for supportive care, potential risk factors for severe disease, and the ability of the patient to self-isolate at home. Patients with risk factors for severe illness (see People Who Are at Higher Risk for Severe Illness) should be monitored closely given the possible risk of progression to severe illness, especially in the second week after symptom onset.5,6,14,38
+For information regarding infection prevention and control recommendations, please see Interim Infection Prevention and Control Recommendations for Patients with Confirmed Coronavirus Disease 2019 (COVID-19) or Persons Under Investigation for COVID-19 in Healthcare Settings.
+Severe Disease
+Some patients with COVID-19 will have severe disease requiring hospitalization for management. Inpatient management revolves around the supportive management of the most common complications of severe COVID-19: pneumonia, hypoxemic respiratory failure/ARDS, sepsis and septic shock, cardiomyopathy and arrhythmia, acute kidney injury, and complications from prolonged hospitalization, including secondary bacterial infections, thromboembolism, gastrointestinal bleeding, and critical illness polyneuropathy/myopathy.1,4-6,14,36,38,70-73
+More information can be found at National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelinesexternal icon and Healthcare Professionals: Frequently Asked Questions and Answers. Additional resources and guidance documents on the treatment and management of COVID-19, including inpatient management of critically ill patients, are provided below.
+Hypercoagulability and COVID-19
+Some patients with COVID-19 may develop signs of a hypercoagulable state and be at increased risk for venous and arterial thrombosis of large and small vessels.74,75  Laboratory abnormalities commonly observed among hospitalized patients with COVID-19-associated coagulopathy include:
+Mild thrombocytopenia
+Increased D-dimer levels
+Increased fibrin degradation products
+Prolonged prothrombin time
+Elevated D-dimer levels have been strongly associated with greater risk of death.74,76-79
+There are several reports of hospitalized patients with thrombotic complications, most frequently deep venous thrombosis and pulmonary embolism.80-82 Other reported manifestations include:
+Microvascular thrombosis of the toes
+Clotting of catheters
+Myocardial injury with ST-segment elevation
+Large vessel strokes83-86
+The pathogenesis for COVID-19-associated hypercoagulability remains unknown. However, hypoxia and systemic inflammation secondary to COVID-19 may lead to high levels of inflammatory cytokines and activation of the coagulation pathway.
+There are limited data available to inform clinical management around prophylaxis or treatment of venous thromboembolism in COVID-19 patients.
+Several national professional associations provide resources for up-to-date information concerning COVID-19-associated hypercoagulability, including management of anticoagulation. This is a rapidly evolving topic, with new information released often.
+More information on hypercoagulability and COVID-19 is available from the American Society of Hematology external iconand National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelines – Antithrombotic Therapy in Patients with COVID-19external icon.
+Pediatric Management
+Illness among pediatric patients with COVID-19 is typically milder than among adults. Most children present with symptoms of upper respiratory infection. However, severe outcomes have been reported in children, including deaths. Data suggest that infants (<12 months of age) may be at higher risk for severe illness from COVID-19 compared with older children.16 CDC and partners are also investigating reports of multisystem inflammatory syndrome in children (MIS-C) associated with COVID-19.
+For expanded guidance on the management of children with COVID-19 and associated complications, see Evaluation and Management Considerations for Neonates At Risk for COVID-19, Information for Pediatric Healthcare Providers, and the Surviving Sepsis Campaign International Guidelines for the Management of Septic Shock and Sepsis-Associated Organ Dysfunction in Childrenexternal icon.
+Investigational Therapeutics
+The National Institutes of Health have published interim guidelines for the medical management of COVID-19external icon which include information on therapeutic options for COVID-19 currently under investigation. No U.S. Food and Drug Administration (FDA)-approved drugs have demonstrated safety and efficacy in randomized controlled trials when used to treat patients with COVID-19, although FDA has granted an Emergency Use Authorization for the use of remdesivirexternal icon to treat severe cases. Use of investigational therapies for treatment of COVID-19 should ideally be done in the context of enrollment in randomized controlled trials, so that beneficial drugs can be identified. For the latest information, see Information for Clinicians on Therapeutic Options for COVID-19 Patients. For information on registered trials in the United States, see ClinicalTrials.govexternal icon.
+Discontinuation of Transmission-Based Precautions or Home Isolation
+Patients who have clinically recovered and are able to discharge from the hospital, but who have not been cleared from their Transmission-Based Precautions, may continue isolation at their place of residence until cleared. For recommendations on discontinuation of Transmission-Based Precautions or home isolation for patients who have recovered from COVID-19, please see:
+Interim Guidance for Discontinuation of Transmission-Based Precautions and Disposition of Hospitalized Patients with COVID-19
+Interim Guidance for Discontinuation of In-Home Isolation for Patients with COVID-19
+Discontinuation of In-Home Isolation for Immunocompromised Persons with COVID-19.
+CDC Resources
+Healthcare Professionals: Frequently Asked Questions and Answers
+Information for Pediatric Healthcare Providers
+Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19)
+Frequently Asked Questions on COVID-19 Testing at Laboratories
+Infection Control Guidance for Healthcare Professionals about COVID-19
+Interim Infection Prevention and Control Recommendations for Patients with Suspected or Confirmed Coronavirus Disease 2019 (COVID-19) or in Healthcare Settings
+Evaluation and Management Considerations for Neonates At Risk for COVID-19
+COVIDView: A Weekly Surveillance Summary of U.S. COVID-19 Activity
+Additional resources
+World Health Organization. Interim Guidance on Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspectedexternal icon
+Surviving Sepsis Campaign: Guidelines on the Management of Critically Ill Adults with Coronavirus Disease 2019 (COVID-19)pdf iconexternal icon
+Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016external icon
+Surviving Sepsis Campaign International Guidelines for the Management of Septic Shock and Sepsis-Associated Organ Dysfunction in Childrenexternal icon
+Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of Americaexternal icon
+ACR Recommendations for the use of Chest Radiography and Computed Tomography (CT) for Suspected COVID-19 Infectionexternal icon
+National Institutes of Health: Coronavirus Disease 2019 (COVID-19) Treatment Guidelinesexternal icon
+Infectious Diseases Society of America Guidelines on the Treatment and Management of Patients with COVID-19 Infectionexternal icon
+Guan WJ, Ni ZY, Hu Y, et al. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med 2020;382:1708-20.
+Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020;382:1199-207.
+Lauer SA, Grantz KH, Bi Q, et al. The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Ann Intern Med 2020.
+Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020;395:507-13.
+Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020;395:497-506.
+Wang D, Hu B, Hu C, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA 2020.
+Xu XW, Wu XX, Jiang XG, et al. Clinical findings in a group of patients infected with the 2019 novel coronavirus (SARS-Cov-2) outside of Wuhan, China: retrospective case series. BMJ 2020;368:m606.
+Wu C, Chen X, Cai Y, et al. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med 2020.
+Pan L, Mu M, Yang P, et al. Clinical Characteristics of COVID-19 Patients With Digestive Symptoms in Hubei, China: A Descriptive, Cross-Sectional, Multicenter Study. Am J Gastroenterol 2020.
+Zhou F, Yu T, Du R, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet 2020.
+Yang X, Yu Y, Xu J, et al. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med 2020.
+Giacomelli A, Pezzati L, Conti F, et al. Self-reported olfactory and taste disorders in SARS-CoV-2 patients: a cross-sectional study. Clin Infect Dis 2020.
+Cai J, Xu J, Lin D, et al. A Case Series of children with 2019 novel coronavirus infection: clinical and epidemiological features. Clin Infect Dis 2020.
+Dong Y, Mo X, Hu Y, et al. Epidemiology of COVID-19 Among Children in China. Pediatrics 2020.
+Liu W, Zhang Q, Chen J, et al. Detection of Covid-19 in Children in Early January 2020 in Wuhan, China. N Engl J Med 2020;382:1370-1.
+Lu X, Zhang L, Du H, et al. SARS-CoV-2 Infection in Children. N Engl J Med 2020;382:1663-5.
+Wei M, Yuan J, Liu Y, Fu T, Yu X, Zhang ZJ. Novel Coronavirus Infection in Hospitalized Infants Under 1 Year of Age in China. JAMA 2020.
+Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020;395:514-23.
+Hu Z, Song C, Xu C, et al. Clinical characteristics of 24 asymptomatic infections with COVID-19 screened among close contacts in Nanjing, China. Sci China Life Sci 2020;63:706-11.
+Wang Y, Liu Y, Liu L, Wang X, Luo N, Ling L. Clinical outcome of 55 asymptomatic cases at the time of hospital admission infected with SARS-Coronavirus-2 in Shenzhen, China. J Infect Dis 2020.
+Pan X, Chen D, Xia Y, et al. Asymptomatic cases in a family cluster with SARS-CoV-2 infection. Lancet Infect Dis 2020;20:410-1.
+Bai Y, Yao L, Wei T, et al. Presumed Asymptomatic Carrier Transmission of COVID-19. JAMA 2020.
+Kam KQ, Yung CF, Cui L, et al. A Well Infant with Coronavirus Disease 2019 (COVID-19) with High Viral Load. Clin Infect Dis 2020.
+McMichael TM, Clark S, Pogosjans S, et al. COVID-19 in a Long-Term Care Facility – King County, Washington, February 27-March 9, 2020. MMWR Morb Mortal Wkly Rep 2020;69:339-42.
+Kimball A, Hatfield KM, Arons M, et al. Asymptomatic and Presymptomatic SARS-CoV-2 Infections in Residents of a Long-Term Care Skilled Nursing Facility – King County, Washington, March 2020. MMWR Morb Mortal Wkly Rep 2020;69:377-81.
+Roxby AC, Greninger AL, Hatfield KM, et al. Detection of SARS-CoV-2 Among Residents and Staff Members of an Independent and Assisted Living Community for Older Adults – Seattle, Washington, 2020. MMWR Morb Mortal Wkly Rep 2020;69:416-8.
+Mizumoto K, Kagaya K, Zarebski A, Chowell G. Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020. Euro Surveill 2020;25.
+Hoehl S, Rabenau H, Berger A, et al. Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China. N Engl J Med 2020;382:1278-80.
+Wei WE, Li Z, Chiew CJ, Yong SE, Toh MP, Lee VJ. Presymptomatic Transmission of SARS-CoV-2 – Singapore, January 23-March 16, 2020. MMWR Morb Mortal Wkly Rep 2020;69:411-5.
+Tong ZD, Tang A, Li KF, et al. Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020. Emerg Infect Dis 2020;26:1052-4.
+Qian G, Yang N, Ma AHY, et al. A COVID-19 Transmission within a family cluster by presymptomatic infectors in China. Clin Infect Dis 2020.
+Rothe C, Schunk M, Sothmann P, et al. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J Med 2020;382:970-1.
+Zou L, Ruan F, Huang M, et al. SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients. N Engl J Med 2020;382:1177-9.
+Young BE, Ong SWX, Kalimuddin S, et al. Epidemiologic Features and Clinical Course of Patients Infected With SARS-CoV-2 in Singapore. i 2020.
+Liu Y, Yan LM, Wan L, et al. Viral dynamics in mild and severe cases of COVID-19. Lancet Infect Dis 2020.
+To KK, Tsang OT, Leung WS, et al. Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study. Lancet Infect Dis 2020.
+Li R, Pei S, Chen B, et al. Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV-2). Science 2020;368:489-93.
+Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 Cases From the Chinese Center for Disease Control and Prevention. JAMA 2020.
+Team CC-R. Severe Outcomes Among Patients with Coronavirus Disease 2019 (COVID-19) – United States, February 12-March 16, 2020. MMWR Morb Mortal Wkly Rep 2020;69:343-6.
+Arentz M, Yim E, Klaff L, et al. Characteristics and Outcomes of 21 Critically Ill Patients With COVID-19 in Washington State. JAMA 2020.
+Livingston E, Bucher K. Coronavirus Disease 2019 (COVID-19) in Italy. JAMA 2020.
+Novel Coronavirus Pneumonia Emergency Response Epidemiology T. [The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China]. Zhonghua Liu Xing Bing Xue Za Zhi 2020;41:145-51.
+Team CC-R. Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 – United States, February 12-March 28, 2020. MMWR Morb Mortal Wkly Rep 2020;69:382-6.
+Zhang W, Du RH, Li B, et al. Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes. Emerg Microbes Infect 2020;9:386-9.
+Zhao J, Yuan Q, Wang H, et al. Antibody responses to SARS-CoV-2 in patients of novel coronavirus disease 2019. Clin Infect Dis 2020.
+Guo L, Ren L, Yang S, et al. Profiling Early Humoral Response to Diagnose Novel Coronavirus Disease (COVID-19). Clin Infect Dis 2020.
+Wang W, Xu Y, Gao R, et al. Detection of SARS-CoV-2 in Different Types of Clinical Specimens. JAMA 2020.
+Wu Y, Guo C, Tang L, et al. Prolonged presence of SARS-CoV-2 viral RNA in faecal samples. Lancet Gastroenterol Hepatol 2020;5:434-5.
+Chen W, Lan Y, Yuan X, et al. Detectable 2019-nCoV viral RNA in blood is a strong indicator for the further clinical severity. Emerg Microbes Infect 2020;9:469-73.
+Ding Q, Lu P, Fan Y, Xia Y, Liu M. The clinical characteristics of pneumonia patients coinfected with 2019 novel coronavirus and influenza virus in Wuhan, China. J Med Virol 2020.
+Zhang C, Shi L, Wang FS. Liver injury in COVID-19: management and challenges. Lancet Gastroenterol Hepatol 2020;5:428-30.
+Qin C, Zhou L, Hu Z, et al. Dysregulation of immune response in patients with COVID-19 in Wuhan, China. Clin Infect Dis 2020.
+Shi H, Han X, Jiang N, et al. Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis 2020.
+Shi H, Han X, Jiang N, et al. Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis 2020;20:425-34.
+Ai T, Yang Z, Hou H, et al. Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases. Radiology 2020:200642.
+Bernheim A, Mei X, Huang M, et al. Chest CT Findings in Coronavirus Disease-19 (COVID-19): Relationship to Duration of Infection. Radiology 2020:200463.
+Lei J, Li J, Li X, Qi X. CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia. Radiology 2020;295:18.
+Shi H, Han X, Zheng C. Evolution of CT Manifestations in a Patient Recovered from 2019 Novel Coronavirus (2019-nCoV) Pneumonia in Wuhan, China. Radiology 2020;295:20.
+Wang Y, Dong C, Hu Y, et al. Temporal Changes of CT Findings in 90 Patients with COVID-19 Pneumonia: A Longitudinal Study. Radiology 2020:200843.
+Xu X, Yu C, Qu J, et al. Imaging and clinical features of patients with 2019 novel coronavirus SARS-CoV-2. Eur J Nucl Med Mol Imaging 2020;47:1275-80.
+Yang W, Cao Q, Qin L, et al. Clinical characteristics and imaging manifestations of the 2019 novel coronavirus disease (COVID-19):A multi-center study in Wenzhou city, Zhejiang, China. J Infect 2020;80:388-93.
+Zhao W, Zhong Z, Xie X, Yu Q, Liu J. Relation Between Chest CT Findings and Clinical Conditions of Coronavirus Disease (COVID-19) Pneumonia: A Multicenter Study. AJR Am J Roentgenol 2020;214:1072-7.
+Pan F, Ye T, Sun P, et al. Time Course of Lung Changes On Chest CT During Recovery From 2019 Novel Coronavirus (COVID-19) Pneumonia. Radiology 2020:200370.
+Bai HX, Hsieh B, Xiong Z, et al. Performance of radiologists in differentiating COVID-19 from viral pneumonia on chest CT. Radiology 2020:200823.
+Xie X, Zhong Z, Zhao W, Zheng C, Wang F, Liu J. Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing. Radiology 2020:200343.
+Guo T, Fan Y, Chen M, et al. Cardiovascular Implications of Fatal Outcomes of Patients With Coronavirus Disease 2019 (COVID-19). JAMA Cardiol 2020.
+Inciardi RM, Lupi L, Zaccone G, et al. Cardiac Involvement in a Patient With Coronavirus Disease 2019 (COVID-19). JAMA Cardiol 2020.
+Shi S, Qin M, Shen B, et al. Association of Cardiac Injury With Mortality in Hospitalized Patients With COVID-19 in Wuhan, China. JAMA Cardiol 2020.
+Tang N, Bai H, Chen X, Gong J, Li D, Sun Z. Anticoagulant treatment is associated with decreased mortality in severe coronavirus disease 2019 patients with coagulopathy. J Thromb Haemost 2020.
+Bikdeli, B; Madhavan, M; Jimenez,D et al. COVID-19 and Thrombotic or Thromboembolic Disease: Implications for Prevention, Antithrombotic Therapy, and Follow-up. Journal of American College of Cardiology. April 2020 , S0735-1097(20)35008-7 https://doi.org/10.1016/j.jacc.2020.04.031external icon
+Cannegieter, S; Klok, FA. COVID-19 associated coagulopathy and thromboembolic disease: Commentary on an interim expert guidance. Research and Practice in Thrombosis and Haemostasis, April 2020.  https://doi.org/10.1002/rth2.12350external icon
+Lippi G, Plebani M, Michael Henry B. Thrombocytopenia is associated with severe coronavirus disease 2019 (COVID-19) infections: A meta-analysis. Clinica Chimica Acta.2020 Mar 13;506:145-148. DOI:10.1016/j.cca.2020.03.022
+Lippi G, Favaloro EJ. D-dimer is associated with severity of coronavirus disease 2019 (COVID-19): a pooled analysis. Thrombosis and Haemostasis In press. DOI 10.1055/s-0040-1709650
+Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia. J Thromb Haemost Feb 2020. https://doi.org/10.1111/jth.14768
+American Venous Forum. Considerations in prophylaxis and treatment of VTE in COVID-19 Patients. 2020. Accessed April 2020 at https://www.veinforum.org/covid-19/external icon
+Klok, FA; Kruip, MJHA; van der Meer NJM et al. Incidence of thrombotic complications in critically ill ICU patients with COVID-19. Thrombosis Research, April 2020. In Press https://doi.org/10.1016/j.thromres.2020.04.013external icon
+Helms, J; Tacquard, C; Severac, F et al.  High risk of thrombosis in patients in severe SARS-CoV-2 infection: a multicenter prospective cohort study. Intensive Care Medicine, April 2020. In Press. DOI: 10.1007/s00134-020-06062-x
+Grillet, F; Behr, J; Calame, H et al.  Acute Pulmonary Embolism Associated with COVID-19 Pneumonia Detected by Pulmonary CT Angiography. Radiology. Published Online: Apr 23 2020 https://doi.org/10.1148/radiol.2020201544external icon
+Oxley, T; Mocco, J; Majidi,S et al. Large-Vessel Stroke as a Presenting Feature of Covid-19 in the Young. New England Journal of Medicine. April 2020. DOI: 10.1056/NEJMc2009787
+Li, Y; Wang, M; Zhou, Y et al.  Acute Cerebrovascular Disease Following COVID-19: A Single Center, Retrospective, Observational Study (3/3/2020). Available at SSRN: https://ssrn.com/abstract=3550025external icon
+Margo,C; Mulvey, J; Berlin, D et al. Complement associated microvascular injury and thrombosis in the pathogenesis of severe COVID-19 infection: A report of five cases. Translational Research. April 2020 S1931-5244(20)30070-0. https://doi.org/10.1016/j.trsl.2020.04.007external icon
+Bangalore, S; Sharma, A; Slotwiner, A et al. ST-Segment Elevation in Patients with COVID-19-A Case Series. New England Journal of Medicine. April 17, 2020 DOI: 10.1056/NEJMc2009020
+National Institutes of Health. Covid-19 Treatment Guidelines. Accessed April 28, 2020 at: https://www.covid19treatmentguidelines.nih.gov/introduction/external icon
+Top of Page

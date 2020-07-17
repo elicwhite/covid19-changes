@@ -1,5 +1,5 @@
 Overview of Testing for SARS-CoV-2
-Updated July 2, 2020
+Updated July 17, 2020
 Print
 Facebook
 Twitter
@@ -9,7 +9,9 @@ Syndicate
 Minus
 Related Pages
 Note:  This document is intended to provide guidance on the appropriate use of testing and does not dictate the determination of payment decisions or insurance coverage of such testing for people residing in the United States, except as may be otherwise referenced (or prescribed) by another entity or federal or state agency.
-Summary of ChangesRevisions were made on July 2, 2020, to:
+Summary of ChangesRevisions made on July 17, 2020
+May consider test-based strategy for people who are severely immunocompromised who have been sick for more than 20 days.
+Revisions were made on July 2, 2020, to:
 Added screening to possible testing types
 Removed examples – please refer to setting specific guidance
 This document provides a summary of considerations and current Centers for Disease Control and Prevention (CDC) recommendations regarding SARS-CoV-2 testing strategy. The CDC recommendations for SARS-CoV-2 testing have been developed based on what is currently known about COVID-19 and are subject to change as additional information becomes available.
@@ -40,7 +42,8 @@ Certain settings can experience rapid spread of SARS-CoV-2. This is particularly
 Local, territorial, tribal, and state health departments can help with informed decision-making about testing at these or other settings. Before testing large numbers of asymptomatic individuals without known or suspected exposure, facility leadership should have a plan in place for how they will modify operations based on test results.
 Approaches for early identification of asymptomatic individuals include, initial testing of everyone in the setting, periodic (e.g., weekly) testing of everyone in the setting, and testing of new or returning entrants into the setting.
 Recommended testing to determine resolution of infection with SARS-CoV-2
-A test-based strategy, which requires serial tests and improvement of symptoms, can be used, as an alternative to a symptom-based or time-based strategy, to determine when a person with SARS-CoV-2 infection no longer requires isolation or work exclusion.  This strategy could be considered in three situations:
+A test-based strategy, which requires serial tests and improvement of symptoms, could be considered for discontinuing Transmission-based Precautions or allowing HCP to return to work earlier than the symptom-based strategy.  However, in most cases, the test-based strategy results in prolonged isolation of patients or work exclusion of HCP who continue to shed detectable SARS-CoV-2 RNA but are no longer infectious.  A test-based strategy could also be considered for some individuals (e.g., those who are severely immunocompromised) in consultation with local infectious diseases experts if concerns exist for the individual being infectious for more than 20 days. In all other circumstances, the symptom-based strategy should be used to determine when to discontinue Transmission-Based Precautions or when HCP can return to work.
+This strategy is described in the following documents:
 Discontinuation of Transmission-Based Precautions and Disposition of Patients with COVID-19 in Healthcare Settings
 Discontinuation of Isolation for Persons with COVID -19 Not in Healthcare Settings
 Assessing Criteria for Return to Work for Healthcare Personnel with Suspected or Confirmed COVID-19

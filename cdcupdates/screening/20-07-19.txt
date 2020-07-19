@@ -1,0 +1,52 @@
+Overview of Testing for SARS-CoV-2
+Updated July 17, 2020
+Print
+Facebook
+Twitter
+LinkedIn
+Email
+Syndicate
+Minus
+Related Pages
+Note:  This document is intended to provide guidance on the appropriate use of testing and does not dictate the determination of payment decisions or insurance coverage of such testing for people residing in the United States, except as may be otherwise referenced (or prescribed) by another entity or federal or state agency.
+Summary of ChangesRevisions made on July 17, 2020
+May consider test-based strategy for people who are severely immunocompromised who have been sick for more than 20 days.
+Revisions were made on July 2, 2020, to:
+Added screening to possible testing types
+Removed examples – please refer to setting specific guidance
+This document provides a summary of considerations and current Centers for Disease Control and Prevention (CDC) recommendations regarding SARS-CoV-2 testing strategy. The CDC recommendations for SARS-CoV-2 testing have been developed based on what is currently known about COVID-19 and are subject to change as additional information becomes available.
+Recommendations for Viral Testing, Specimen Collection, and Reporting
+Authorized assays for viral testing include those that detect SARS-CoV-2 nucleic acid or antigen. Viral (nucleic acid or antigen) tests check samples from the respiratory system (such as nasal swabs) and determine whether an infection with SARS-CoV-2, the virus that causes COVID-19, is present. Viral tests are recommended to diagnose acute infection. Some tests are point-of-care tests, meaning results may be available at the testing site in less than an hour. Other tests must be sent to a laboratory to analyze, a process that may take 1-2 days once received by the lab. Testing the same individual more than once in a 24-hour period is not recommended.
+For more information on testing for COVID-19 see the Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens and Biosafety FAQs for handling and processing specimens from possible cases.
+Recommendations for Antibody Testing
+CDC does not currently recommend using antibody testing as the sole basis for diagnosis of acute infection, and antibody tests are not authorized by FDA for such diagnostic purposes. In certain situations, serologic assays may be used to support clinical assessment of persons who present late in their illnesses when used in conjunction with viral detection tests.  In addition, if a person is suspected to have post-infectious syndrome (e.g., Multisystem Inflammatory Syndrome in Children) caused by SARS-CoV-2 infection, serologic assays may be used.
+Serologic assays for SARS-CoV-2, now broadly available, can play an important role in understanding the transmission dynamic of the virus in the general population and identifying groups at higher risk for infection. Unlike viral direct detection methods, such as nucleic acid amplification or antigen detection tests that can detect acutely infected persons, antibody tests help determine whether the individual being tested was previously infected—even if that person never showed symptoms.
+Categories for SARS-CoV-2 Testing
+This document describes five populations for which SARS-CoV-2 testing with viral tests (i.e., nucleic acid or antigen tests) is appropriate:
+Individuals with signs or symptoms consistent with COVID-19
+Asymptomatic individuals with recent known or suspected exposure to SARS-CoV-2 to control transmission
+Asymptomatic individuals without known or suspected exposure to SARS-CoV-2 for early identification in special settings
+Individuals being tested to determine resolution of infection (i.e., test-based strategy for Discontinuation of Transmission-based Precautions, HCP Return to Work, and Discontinuation of Home Isolation)
+Individuals being tested for purposes of public health surveillance for SARS-CoV-2
+Generally, viral testing for SARS-CoV-2 is considered to be diagnostic when conducted among individuals with symptoms consistent with COVID-19 or among asymptomatic individuals with known or suspected recent exposure to SARS-CoV-2 to control transmission, or to determine resolution of infection. Viral testing is screening when conducted among asymptomatic individuals without known or suspected exposure to SARS-CoV-2 for early identification, and surveillance when conducted among asymptomatic individuals to detect transmission hot spots or characterize disease trends.
+Recommended testing for individuals with signs or symptoms consistent with COVID-19
+CDC recommends using authorized nucleic acid or antigen detection assaysexternal icon that have received an FDA EUA to test persons with symptoms when there is a concern of potential COVID-19. Tests should be used in accordance with the authorized labeling; providers should be familiar with the tests’ performance characteristics and limitations.
+Clinicians should use their judgment to determine if a patient has signs or symptoms compatible with COVID-19 and whether the patient should be tested. Most patients with confirmed COVID-19 have developed fever and/or symptoms of acute respiratory illness (e.g., cough) but some infected patients may present with other symptoms (e.g., altered smell or taste) as well. Clinicians are encouraged to consider testing for other causes of respiratory illness, for example influenza, in addition to testing for SARS-CoV-2 depending on patient age, season, or clinical setting; detection of one respiratory pathogen (e.g., influenza) does not exclude the potential for co-infection with SARS-CoV-2. Because symptoms and presentations may be different in children, consider referencing the CDC guidelines for COVID-19 in neonates and for Multisystem Inflammatory Syndrome in Children (MIS-C).
+The severity of symptomatic illness due to infection with SARS-CoV-2 may vary from person to person. Among persons with extensive and close contact to vulnerable populations (e.g., healthcare personnel [HCP]), even mild signs and symptoms (e.g., sore throat) of a possible SARS-CoV-2 infection should prompt consideration for testing. Additional information is available in CDC’s Interim Guidance on Testing Healthcare Personnel for SARS-CoV-2.
+Recommended testing for asymptomatic individuals with known or suspected exposure to SARS-CoV-2 to control transmission
+Testing is recommended for all close contactspdf icon of persons with SARS-CoV-2 infection.  Because of the potential for asymptomatic and pre-symptomatic transmission, it is important that contacts of individuals with SARS-CoV-2 infection be quickly identified and tested.
+In areas where testing is limited, CDC has established a testing hierarchy; refer to the Interim Guidance on Developing a COVID-19 Case Investigation and Contact Tracing Planpdf icon for more information.
+In some settings, broader testing, beyond close contacts, is recommended as a part of a strategy to control transmission of SARS-CoV-2.  This includes high-risk settings that have potential for rapid and widespread dissemination of SARS-CoV-2 or in which populations at risk for severe disease could become exposed.  Expanded testing might include testing of individuals on the same unit or shift as someone with SARS-CoV-2 infection, or even testing all individuals within a shared setting (e.g., facility-wide testing).
+Recommended testing for asymptomatic individuals without known or suspected SARS-CoV-2 exposure for early identification in special settings
+Certain settings can experience rapid spread of SARS-CoV-2. This is particularly true for settings with vulnerable populations in close quarters for extended periods of time.
+Local, territorial, tribal, and state health departments can help with informed decision-making about testing at these or other settings. Before testing large numbers of asymptomatic individuals without known or suspected exposure, facility leadership should have a plan in place for how they will modify operations based on test results.
+Approaches for early identification of asymptomatic individuals include, initial testing of everyone in the setting, periodic (e.g., weekly) testing of everyone in the setting, and testing of new or returning entrants into the setting.
+Recommended testing to determine resolution of infection with SARS-CoV-2
+A test-based strategy, which requires serial tests and improvement of symptoms, could be considered for discontinuing Transmission-based Precautions or allowing HCP to return to work earlier than the symptom-based strategy.  However, in most cases, the test-based strategy results in prolonged isolation of patients or work exclusion of HCP who continue to shed detectable SARS-CoV-2 RNA but are no longer infectious.  A test-based strategy could also be considered for some individuals (e.g., those who are severely immunocompromised) in consultation with local infectious diseases experts if concerns exist for the individual being infectious for more than 20 days. In all other circumstances, the symptom-based strategy should be used to determine when to discontinue Transmission-Based Precautions or when HCP can return to work.
+This strategy is described in the following documents:
+Discontinuation of Transmission-Based Precautions and Disposition of Patients with COVID-19 in Healthcare Settings
+Discontinuation of Isolation for Persons with COVID -19 Not in Healthcare Settings
+Assessing Criteria for Return to Work for Healthcare Personnel with Suspected or Confirmed COVID-19
+Public health surveillance for SARS-CoV-2
+Testing is a fundamental part of the United States SARS-CoV-2 Surveillance Plan, which uses multiple surveillance systems and epidemiology networks to monitor the progression and impact of SARS-CoV-2 spread in the United States.
+Tests are used in community, outpatient, and hospital-based surveillance systems to identify cases of SARS-CoV-2 infection. These data help identify areas of ongoing circulation, determine trends in disease by location, provide insight into the impact of the disease over time and by location, and inform disease forecasts.

@@ -10,7 +10,7 @@ Minus
 Related Pages
 Note:  This document is intended to provide guidance on the appropriate use of testing and does not dictate the determination of payment decisions or insurance coverage of such testing for people residing in the United States, except as may be otherwise referenced (or prescribed) by another entity or federal or state agency.
 Summary of ChangesRevisions made on July 17, 2020
-May consider test-based strategy for people who are severely immunocompromised who have been sick for more than 20 days.
+Except for rare situations, a test-based strategy is no longer recommended to determine when an individual with SARS-CoV-2 infection is no longer infectious (e.g., to discontinue Transmission-Based Precautions or home isolation)
 Revisions were made on July 2, 2020, to:
 Added screening to possible testing types
 Removed examples – please refer to setting specific guidance

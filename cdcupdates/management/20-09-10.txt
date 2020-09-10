@@ -1,5 +1,5 @@
 Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus Disease (COVID-19)
-Updated June 30, 2020
+Updated Sept. 10, 2020
 Print
 Facebook
 Twitter
@@ -8,7 +8,9 @@ Email
 Syndicate
 Minus
 Related Pages
-Summary of Recent ChangesRevisions were made on June 20, 2020, to reflect the following:
+Summary of Recent ChangesRevisions were made on September 10, 2020, to reflect the following:
+Updated content to Reinfection
+Revisions were made on June 20, 2020, to reflect the following:
 Updated content to Clinical Presentation
 Refer to People Who Are at Increased Risk for Severe Illness
 New information about Reinfection
@@ -63,7 +65,7 @@ Age is a strong risk factor for severe illness, complications, and death.1,6,8,1
 Patients in China with no reported underlying medical conditions had an overall case fatality of 0.9%. Case fatality was higher for patients with comorbidities: 10.5% for those with cardiovascular disease, 7.3% for those with diabetes, and approximately 6% for those with chronic respiratory disease, or cancer.1,6,14,36,38,41,42    Prior stroke, diabetes, chronic lung disease, and chronic kidney disease have all been associated with increased illness severity and adverse outcomes. Serious heart conditions, including heart failure, coronary artery disease, congenital heart disease, cardiomyopathies, and pulmonary hypertension, may put people at higher risk for severe illness from COVID-19. People with hypertension may be at an increased risk for severe illness from COVID-19 and should continue to take their medications as prescribed. At this time, people whose only underlying medical condition is hypertension are not considered to be at higher risk for severe illness from COVID-19.43,44
 Accounting for differences in age and prevalence of underlying condition, mortality associated with COVID-19 reported in the United States has been similar to reports from China.26,37,39
 Reinfection
-There are no data concerning the possibility of re-infection with SARS-CoV-2 after recovery from COVID-19. While viral RNA shedding declines with resolution of symptoms, it may continue for days to weeks.34,38,45 However, the detection of RNA during convalescence does not necessarily indicate the presence of viable infectious virus. Clinical infection has been correlated with the detection of IgM and IgG antibodies.46-49 However, definitive data are lacking, and it remains uncertain whether individuals with antibodies are protected against reinfection with SARS-CoV-2, and if so, what concentration of antibodies is needed to confer protection.
+There are limited data about reinfection with SARS-CoV-2 after recovery from COVID-19.​84, 85 While viral RNA shedding declines with resolution of symptoms, it may continue for days to weeks.34,38,45 However, the detection of RNA during convalescence does not necessarily indicate the presence of viable infectious virus. Clinical infection has been correlated with the detection of IgM and IgG antibodies.46-49 However, definitive data are lacking, and it remains uncertain whether individuals with antibodies are protected against reinfection with SARS-CoV-2, and if so, what concentration of antibodies is needed to confer protection.
 Viral Testing
 Diagnosis of COVID-19 requires detection of SARS-CoV-2 RNA by reverse transcription polymerase chain reaction (RT-PCR). Detection of SARS-CoV-2 viral RNA is better in nasopharynx samples compared to throat samples.34,50 Lower respiratory samples may have better yield than upper respiratory samples.34,50 SARS-CoV-2 RNA has also been detected in stool and blood.15,45,47,51 Detection of SARS-CoV-2 RNA in blood may be a marker of severe illness.52 Viral RNA shedding may persist over longer periods among older persons and those who had severe illness requiring hospitalization (median range of viral shedding among hospitalized patients 12–20 days).34,38,45,46,53
 Infection with both SARS-CoV-2 and with other respiratory viruses has been reported, and detection of another respiratory pathogen does not rule out COVID-19.54
@@ -207,4 +209,6 @@ Li, Y; Wang, M; Zhou, Y et al.  Acute Cerebrovascular Disease Following COVI
 Margo,C; Mulvey, J; Berlin, D et al. Complement associated microvascular injury and thrombosis in the pathogenesis of severe COVID-19 infection: A report of five cases. Translational Research. April 2020 S1931-5244(20)30070-0. https://doi.org/10.1016/j.trsl.2020.04.007external icon
 Bangalore, S; Sharma, A; Slotwiner, A et al. ST-Segment Elevation in Patients with COVID-19-A Case Series. New England Journal of Medicine. April 17, 2020 DOI: 10.1056/NEJMc2009020
 National Institutes of Health. Covid-19 Treatment Guidelines. Accessed April 28, 2020 at: https://www.covid19treatmentguidelines.nih.gov/introduction/external icon
+To KK, Hung IF, Ip JD, et al. COVID-19 re-infection by a phylogenetically distinct SARS-coronavirus-2 strain confirmed by whole genome sequencing. Clin Infect Dis (August 25, 2020), ciaa1275, https://doi.org/10.1093/cid/ciaa1275external icon.
+​Tillett R, Sevinsky J, Hartley P, et al. Genomic Evidence for a Case of Reinfection with SARS-CoV-2 (August 27, 2020). Available at SSRN: https://ssrn.com/abstract=3680955external icon or http://dx.doi.org/10.2139/ssrn.3680955external icon
 Top of Page

@@ -1,5 +1,5 @@
 Overview of Testing for SARS-CoV-2 (COVID-19)Overview of Testing for SARS-CoV-2 (COVID-19)
-Updated Sept. 18, 2020
+Updated Oct. 21, 2020
 Print
 Facebook
 Twitter
@@ -38,7 +38,7 @@ If you test positive, you do not need to repeat a test for at least 3 months.
 You do not need a follow-up negative test to return to work or school, as long as
 You did not require hospitalization, AND
 It has been at least at least 10 days after symptom onset and resolution of fever for at least 24 hours, without the use of fever-reducing medications, and with improvement of other symptoms.
-If you have been in close contact, such as within 6 feet of a person with documented SARS-CoV-2 infection for at least 15 minutes and do not have symptoms.
+If you have been in close contact (less than 6 feet for a total of 15 minutes or more) with documented SARS-CoV-2 infection and do not have symptoms.​
 You need a test. Please consult with your healthcare provider or public health official. Testing is recommended for all close contacts of persons with SARS-CoV-2 infection. Because of the potential for asymptomatic and pre-symptomatic transmission, it is important that contacts of individuals with SARS-CoV-2 infection be quickly identified and tested. Pending test results, you should self-quarantine/isolate at home and stay separated from household members to the extent possible and use a separate bedroom and bathroom, if available.
 A single negative test does not mean you will remain negative at any time point after that test.
 Even if you have a negative test, you should still self-isolate for 14 days.

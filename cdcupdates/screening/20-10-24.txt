@@ -9,7 +9,10 @@ Syndicate
 Minus
 Related Pages
 Note: This document is intended to provide guidance on the appropriate use of testing for SARS-CoV-2 in light of additional testing capacity throughout the country and does not address decisions regarding payment for or insurance coverage of such testing.
-Summary of ChangesClarifications made on September 18, 2020
+Summary of ChangesRevisions made on October 21, 2020
+Added links to the updated close contact definition.
+Updated language to align with updated definition and to align with sitewide changes
+Clarifications made on September 18, 2020
 Due to the significance of asymptomatic and pre-symptomatic transmission, this guidance further reinforces the need to test asymptomatic persons, including close contacts of a person with documented SARS-CoV-2 infection.
 Revisions made on August 24, 2020
 Diagnostic testing categories have been edited to focus on testing considerations and actions to be taken by individuals undergoing testing

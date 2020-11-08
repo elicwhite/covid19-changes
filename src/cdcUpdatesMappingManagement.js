@@ -259,4 +259,5 @@ export default {
   '20-11-05': raw('../cdcupdates/management/20-11-05.txt'),
   '20-11-06': raw('../cdcupdates/management/20-11-06.txt'),
   '20-11-07': raw('../cdcupdates/management/20-11-07.txt'),
+  '20-11-08': raw('../cdcupdates/management/20-11-08.txt'),
 };

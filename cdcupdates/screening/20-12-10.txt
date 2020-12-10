@@ -8,18 +8,12 @@ Syndicate
 Minus
 Related Pages
 Note: This document is intended to provide guidance on the appropriate use of testing for SARS-CoV-2 in light of additional testing capacity throughout the country and does not address decisions regarding payment for or insurance coverage of such testing.
-Summary of ChangesRevisions made on October 21, 2020
+Summary of Recent Changes
+Updates as of October 21, 2020
+As of October 21, 2020
 Added links to the updated close contact definition.
 Updated language to align with updated definition and to align with sitewide changes
-Clarifications made on September 18, 2020
-Due to the significance of asymptomatic and pre-symptomatic transmission, this guidance further reinforces the need to test asymptomatic persons, including close contacts of a person with documented SARS-CoV-2 infection.
-Revisions made on August 24, 2020
-Diagnostic testing categories have been edited to focus on testing considerations and actions to be taken by individuals undergoing testing
-Revisions made on July 17, 2020
-Except for rare situations, a test-based strategy is no longer recommended to determine when an individual with a SARS-CoV-2 infection is no longer infectious (i.e., to discontinue Transmission-Based Precautions or home isolation)
-Revisions made on July 2, 2020
-Added screening to possible testing types
-Removed examples – please refer to setting specific guidance
+View Previous Updates
 This document provides a summary of considerations and current Centers for Disease Control and Prevention (CDC) recommendations regarding SARS-CoV-2 testing strategy.  The CDC recommendations for SARS-CoV-2 testing have been developed based on what is currently known about COVID-19 and are subject to change as additional information becomes available.
 Viral Testing
 Authorized assays for viral testing include those that detect SARS-CoV-2 nucleic acid or antigen. Viral (nucleic acid or antigen) tests check samples from the respiratory system (such as nasal or oral swabs or saliva) to determine whether an infection with SARS-CoV-2, the virus that causes COVID-19, is present. Viral tests are recommended to diagnose acute infection of both symptomatic and asymptomatic individuals, to guide contact tracing, treatment options, and isolation requirements Some tests are point-of-care tests, meaning results may be available at the testing site in less than an hour. Other tests must be sent to a laboratory, a process that may take at least 1-2 days.
@@ -80,3 +74,15 @@ In areas where there are a small number of new cases and limited spread, your pu
 If there is significant spread of the virus in your community, your public health department may request significant numbers of asymptomatic “healthy people” to be tested in order to help stop the spread of the virus.
 Certain settings can experience rapid spread of SARS-CoV-2. This is particularly true for settings with people at increased risk of severe illness in close quarters for extended periods of time.
 Approaches for early identification of infected individuals include, initial testing of everyone in the setting, periodic (e.g., weekly) testing of everyone in the setting, and testing of new or returning entrants into the setting.
+Previous Updates
+Updates from Previous Content
+As of September 18, 2020
+Due to the significance of asymptomatic and pre-symptomatic transmission, this guidance further reinforces the need to test asymptomatic persons, including close contacts of a person with documented SARS-CoV-2 infection.
+As of August 24, 2020
+Diagnostic testing categories have been edited to focus on testing considerations and actions to be taken by individuals undergoing testing
+As of July 17, 2020
+Except for rare situations, a test-based strategy is no longer recommended to determine when an individual with a SARS-CoV-2 infection is no longer infectious (i.e., to discontinue Transmission-Based Precautions or home isolation)
+As of July 2, 2020
+Added screening to possible testing types
+Removed examples – please refer to setting specific guidance
+Top of Page

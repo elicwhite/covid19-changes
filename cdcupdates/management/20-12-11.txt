@@ -8,32 +8,15 @@ Syndicate
 Minus
 Related Pages
 Influenza and SARS-CoV-2When SARS-CoV-2 and influenza viruses are co-circulating, clinicians should consider both viruses, as well as co-infection, in patients with acute respiratory illness symptoms because of similar signs and symptoms. Testing and treatment guidance in priority groups is available. For more information on influenza and Covid-19 see the NIH Treatment Guidelinesexternal icon.
-MoreSummary of Recent ChangesRevisions were made on November 3, 2020, to reflect the following:
+MoreSummary of Recent Changes
+Updates as of November 3, 2020
+As of November 3, 2020
 New information for Laboratory and Radiographic Findings
 New information for Pediatric Considerations
 Revisions for clarity and significant updates to footnotes throughout
 Influenza alert box
 Information on FDA approval of remdesivir
-Revisions were made on October 27, 2020, to reflect the following:
-Updated content to Reinfection
-Revisions were made on September 10, 2020, to reflect the following:
-Updated content to Reinfection
-Revisions were made on June 20, 2020, to reflect the following:
-Updated content to Clinical Presentation
-Refer to People Who Are at Increased Risk for Severe Illness
-New information about Reinfection
-New information about Therapeutics
-Minor revisions for clarity and updates to footnotes throughout
-Revisions were made on May 29, 2020, to reflect the following:
-Refer to updated symptoms of Coronavirus
-Revisions were made on May 25, 2020, to reflect the following:
-Refer to new multisystem inflammatory syndrome in children (MIS-C) guidance for healthcare providers
-Revisions were made on May 20, 2020, to reflect the following:
-Refer to new guidance for Evaluation and Management Considerations for Neonates At Risk for COVID-19
-Revisions were made on May 12, 2020, to reflect the following:
-New information about COVID-19-Associated Hypercoagulability
-Updated content and resources to include new NIH Treatment Guidelines
-Minor revisions for clarity
+View Previous Updates
 On This Page
 Clinical PresentationClinical CourseLaboratory and Radiographic FindingsClinical Management and TreatmentDiscontinuation of Transmission-Based Precautions or Home Isolation
 This document provides guidance on caring for patients infected with SARS-CoV-2, the virus that causes COVID-19. The National Institutes of Health (NIH) have published guidelines for the clinical management of COVID-19external icon prepared by the COVID-19 Treatment Guidelines Panel. The recommendations are based on scientific evidence and expert opinion and are regularly updated as more data become available.
@@ -122,6 +105,29 @@ Discontinuation of Transmission-Based Precautions or Home Isolation
 Patients who have clinically recovered and are able to discharge from the hospital, but who have not been cleared from their Transmission-Based Precautions, can continue isolation at their place of residence until cleared. For recommendations on discontinuation of Transmission-Based Precautions or home isolation for patients who have recovered from COVID-19, see:
 Interim Guidance for Discontinuation of Transmission-Based Precautions and Disposition of Hospitalized Patients with COVID-19
 Interim Guidance for Discontinuation of Isolation for Persons with COVID-19 Not in Healthcare Settings
+Previous Updates
+Updates from Previous Content
+As of October 27, 2020
+Updated content to Reinfection
+As of September 10, 2020
+Updated content to Reinfection
+As of June 20, 2020, to reflect the following:
+Updated content to Clinical Presentation
+Refer to People Who Are at Increased Risk for Severe Illness
+New information about Reinfection
+New information about Therapeutics
+Minor revisions for clarity and updates to footnotes throughout
+As of May 29, 2020
+Refer to updated symptoms of Coronavirus
+As of May 25, 2020
+Refer to new multisystem inflammatory syndrome in children (MIS-C) guidance for healthcare providers
+As of May 20, 2020
+Refer to new guidance for Evaluation and Management Considerations for Neonates At Risk for COVID-19
+As of May 12, 2020
+New information about COVID-19-Associated Hypercoagulability
+Updated content and resources to include new NIH Treatment Guidelines
+Minor revisions for clarity
+Top of Page
 CDC Resources
 Healthcare Professionals: Frequently Asked Questions and Answers
 Information for Pediatric Healthcare Providers

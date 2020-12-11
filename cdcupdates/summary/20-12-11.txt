@@ -1,5 +1,5 @@
 COVIDView: A Weekly Surveillance Summary of U.S. COVID-19 Activity
-Updated Dec. 4, 2020
+Updated Dec. 11, 2020
 Print
 Facebook
 Twitter
@@ -7,50 +7,47 @@ LinkedIn
 Syndicate
 Minus
 Related Pages
-Download Weekly Summary pdf icon[896 KB, 10 pages]
-Key Updates for Week 48, ending November 28, 2020Nationally, surveillance indicators tracking levels of SARS-CoV-2 virus circulation and associated illnesses have been increasing since September. The percentage of deaths due to pneumonia, influenza and COVID-19 (PIC) increased during October and through mid-November. Both COVID-19-associated hospitalizations and PIC mortality for the most recent weeks are expected to increase as more data are received.
+Download Weekly Summary pdf icon[889 KB, 11 pages]
+Key Updates for Week 49, ending December 5, 2020Nationally, surveillance indicators tracking levels of SARS-CoV-2 circulation and associated illnesses have been increasing since September; however, the percentage of emergency department (ED) visits for COVID-like illness (CLI) decreased slightly during week 49. The percentage of deaths due to pneumonia, influenza and COVID-19 (PIC) has been increasing since October. Both COVID-19-associated hospitalizations and PIC mortality for the most recent weeks are expected to increase as more data are received.
 Download Chart Data excel icon[XLS – 2 KB]
-Virus: Public Health, Commercial and Clinical LaboratoriesNationally, the overall percentage of respiratory specimens testing positive for SARS-CoV-2, the virus causing COVID-19, increased from 10.7% during week 47 to 11.7% during week 48. Percent positivity increased among all age groups. Regionally, the percentages of respiratory specimens testing positive for SARS-CoV-2 increased in nine of the ten HHS regions.
-Mild/Moderate Illness: Outpatient and Emergency Department VisitsNationally, the overall percentage of visits to outpatient providers or emergency departments (EDs) for influenza-like illness (ILI) and COVID-like illness (CLI) has been increasing since mid-September; CLI and ILI remained stable (change of ≤0.1%) during week 48 compared with week 47. Four of ten surveillance regions reported an increase in at least one indicator of mild/moderate illness.
-Severe Disease: Hospitalizations and DeathsThe overall weekly hospitalization rate is at its highest point since the beginning of the pandemic, with steep increases in adults aged 65 years and older. Based on death certificate data, the percentage of deaths attributed to PIC for week 48 was 12.8% and, while declining compared with week 47 (18.6%), remains above the epidemic threshold. The weekly percentages of deaths due to PIC increased for seven weeks from early October through mid-November and are expected to increase for the most recent weeks as additional data are reported. Hospitalization rates for the most recent week are also expected to increase as additional data are reported.
+Virus: Public Health, Commercial and Clinical LaboratoriesNationally, the overall percentage of respiratory specimens testing positive for SARS-CoV-2, the virus causing COVID-19, increased from 12.1% during week 48 to 13.3% during week 49. Percent positivity increased among all age groups. Regionally, the percentages of respiratory specimens testing positive for SARS-CoV-2 increased in nine of the ten Health and Human Services (HHS) regionsexternal icon.
+Mild/Moderate Illness: Outpatient and Emergency Department VisitsNationally, the overall percentage of visits to outpatient providers or emergency departments (EDs) for influenza-like illness (ILI) and COVID-like illness (CLI) shows an increasing trend since mid-September; however, CLI decreased slightly during week 49 compared with week 48. Six of ten surveillance regions also reported a decrease in at least one indicator of mild/moderate illness this week; one region reported an increase.
+Severe Disease: Hospitalizations and DeathsWithin the past month, all age groups have reached their highest weekly hospitalization rate since the start of the pandemic. Based on death certificate data, the percentage of deaths attributed to PIC for week 49 was 14.3% and remains above the epidemic threshold. The weekly percentages of deaths due to PIC increased for seven weeks from early October through mid-November and are expected to increase for the most recent weeks as additional data are reported. Hospitalization rates for the most recent week are also expected to increase as additional data are reported.
 All data are preliminary and may change as more reports are received. A description of the surveillance systems summarized in COVIDView, including methodology and detailed descriptions of each data component, is available on the surveillance methods page.
 Key Points
-Nationally, the surveillance indicators included in COVIDView have been showing increases in SARS-CoV-2 virus circulation and associated illnesses and deaths in recent months.
-The percentage of specimens testing positive for SARS-CoV-2 has been increasing since September. While a slight decrease was reported during week 47 compared with week 46, percent positivity has increased among all age groups in week 48 compared with week 47.
-The percentages of visits to EDs or outpatient providers for ILI and CLI, and COVID-19-associated hospitalization rates have been increasing since September.
-The percentage of deaths due to PIC has been increasing since the beginning of October. The percentages for 46 and 47  now exceed the percentage of deaths due to PIC observed during the summer peak. Data for the most recent week currently shows a decline, but that is likely to change as additional death certificates are processed.
-At least one indicator used to monitor COVID-19 activity is increasing in nine of ten HHS regions, and many regions are reporting increases in multiple indicators.
-The percentages of specimens testing positive for SARS-CoV-2 increased in nine of ten regions – Regions 2 (New Jersey/New York/Puerto Rico), 3 (Mid-Atlantic), 4 (Southeast), 5 (Midwest), 6 (South Central), 7 (Central), 8 (Mountain), 9 (South West/Coast), and 10 (Pacific Northwest).
-The percentages of visits for ILI, CLI or both increased in four of ten regions – Regions 2 (New Jersey/New York/Puerto Rico), 3 (Mid-Atlantic), 4 (Southeast), and 9 (South West/Coast).
-The overall cumulative COVID-19-associated hospitalization rate through the week ending November 28, 2020, was 262.8 hospitalizations per 100,000 population.
-The overall weekly hospitalization rate is at its highest point since the beginning of the pandemic, with steep increases in adults aged 65 years and older. All COVID-NET sites have reported increasing hospitalization rates in recent weeks. Rates for the most recent weeks are expected to increase as additional admissions occurring during those weeks are reported.
-The rates for Hispanic or Latino persons, non-Hispanic American Indian or Alaska Native persons, and non-Hispanic Black persons were approximately 3.8, 3.7, and 3.4 times the rate among non-Hispanic White persons, respectively.
-These surveillance systems aim to provide the most complete data available. Estimates from previous weeks are subject to change as data are updated with the most complete data available.
-U.S. Virologic SurveillanceBased on data reported to CDC by public health laboratories and a subset of clinical and commercial laboratories in the United States, 83,949,946 specimens were tested for SARS-CoV-2 using a molecular assay since March 1, 2020. The percentages of specimens testing positive for SARS-CoV-2 each week, based on week of specimen collection, are summarized below.
-Nationally, during week 48, of 3,005,511 specimens  tested for SARS-CoV-2 for diagnostic purposes,   350,378 (11.7%) were positive. This is an increase compared with week 47, during which 10.7% of specimens tested were positive. The percentages of specimens testing positive increased among all age groups.
+Nationally, the surveillance indicators included in COVIDView have been showing increases in SARS-CoV-2 circulation and associated illnesses and deaths in recent months.
+The percentage of specimens testing positive for SARS-CoV-2, the percentages of visits to EDs or outpatient providers for ILI and CLI, and hospitalization rates have been increasing since September. However, a slight decrease was reported in percentage of visits for CLI during week 49 compared to week 48.
+The percentage of deaths due to PIC has been increasing since the beginning of October and has exceeded the percentage of deaths due to PIC observed during the summer peak. Data for the most recent week currently show a decline, but that is likely to change as additional death certificates are processed.
+At least one indicator used to monitor COVID-19 activity is increasing in all ten HHS regions and in seven regions (Regions 3 [Mid-Atlantic], 5 [Midwest], 6 [South Central], 7 [Central], 8 [Mountain], 9 [South West/Coast], and 10 [Pacific Northwest]) at least one indicator is at the highest level since the start of the pandemic.
+The overall cumulative COVID-19-associated hospitalization rate through the week ending December 5, 2020, was 278.7 hospitalizations per 100,000 population.
+Within the past month, all age groups have reached their highest weekly hospitalization rate since the start of the pandemic. Rates for the most recent weeks are expected to increase as additional admissions occurring during those weeks are reported.
+The rates for Hispanic or Latino persons, non-Hispanic American Indian or Alaska Native persons, and non-Hispanic Black persons were approximately 3.8, 3.7, and 3.3 times the rate among non-Hispanic White persons, respectively.
+Estimates from previous weeks are subject to change as data are updated with the most complete data available.
+U.S. Virologic SurveillanceBased on data reported to CDC by public health laboratories and a subset of clinical and commercial laboratories in the United States, 87,861,662 specimens were tested for SARS-CoV-2 using a molecular assay since March 1, 2020. The percentage of specimens testing positive for SARS-CoV-2 each week, based on week of specimen collection, are summarized below.
+Nationally, during week 49, of 3,490,096 specimens tested for SARS-CoV-2 for diagnostic purposes, 462,922 (13.3%) were positive. This is an increase compared with week 48, during which 12.1% of specimens tested were positive. The percentage of specimens testing positive increased among all age groups.
 *Note: Different laboratory types came on board with testing during different weeks. This graph includes public health laboratory data beginning in week 10, clinical laboratory data beginning in week 11 and commercial laboratory data beginning in week 14.
 View Data Table
-The percentages of specimens testing positive for SARS-CoV-2 increased in nine of ten HHS regionsexternal icon – Regions 2 (New Jersey/New York/Puerto Rico), 3 (Mid-Atlantic), 4 (Southeast), 5 (Midwest), 6 (South Central), 7 (Central), 8 (Mountain), 9 (South West/Coast), and 10 (Pacific Northwest). The regions with the highest percent positivity during week 48 were in the central part of the country, Regions 5 (Midwest, 14.8%), 6 (South Central, 15.2%), 7 (Central, 19.4%) and 8 (Mountain, 15.6%).
+The percentage of specimens testing positive for SARS-CoV-2 decreased in one region (Region 7 [Central]) during week 49 compared with week 48; the remaining nine regions reported an increase in percentage of specimens testing positive. The regions with the highest percent positivity during week 49 were in the central part of the country, Regions 5 (Midwest, 15.8%), 6 (South Central, 15.8%), 7 (Central, 18.8%), and 8 (Mountain, 16.6%).
 Additional virologic surveillance information: Surveillance Methods
 Outpatient/Emergency Department IllnessTwo syndromic surveillance systems, the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) and the National Syndromic Surveillance Project (NSSP), are being used to monitor trends in outpatient and emergency department (ED) visits that may be associated with COVID-19 illness. Each system monitors activity in a slightly different set of providers/facilities and uses a slightly different set of symptoms that may be associated with SARS-CoV-2 virus infection. ILINet provides information about visits to outpatient providers or emergency departments for influenza-like illness (ILI; fever plus cough and/or sore throat) and NSSP provides information about visits to EDs for ILI and COVID-like illness (CLI; fever plus cough and/or shortness of breath or difficulty breathing). Some EDs contribute ILI data to both ILINet and NSSP. Both systems are currently being affected by changes in health care seeking behavior, including increased use of telemedicine and increased social distancing. These changes affect the numbers of people seeking care in the outpatient and ED settings and their reasons for doing so. Syndromic data, including CLI and ILI, should be interpreted with caution and should be evaluated in combination with other sources of surveillance data, especially laboratory testing results, to obtain a complete and accurate picture of respiratory illness.
-Nationally, the overall percentages of visits to outpatient providers or EDs for ILI and CLI have been increasing since mid-September, with the greatest increase occurring for the percentage of visits for CLI. During week 48, the percentages of ED visits captured in NSSP for CLI and ILI were 6.0% and 1.4%, respectively, and both remained stable (change of ≤0.1%) compared with week 47. In ILINet, 1.6% of visits reported were for ILI, remaining stable (change of ≤0.1%) compared with week 47 and below the national baseline (2.4% for October 2019 through September 2020; 2.6% since October 2020) for the 33rd consecutive week. This level of ILI is lower than is typical for ILINet during this time of year.
+Nationally, the overall percentages of visits to outpatient providers or EDs for ILI and CLI have shown increasing trends since mid-September, with the greatest increase occurring for CLI visits. During week 49, the percentages of ED visits captured in NSSP for CLI and ILI were 6.1% and 1.3%, respectively. This represents a decline in CLI compared with week 48 and a stable (change of ≤0.1%) level of ILI. In ILINet, 1.6% of visits reported during week 49 were for ILI, also remaining stable (change of ≤0.1%) compared with week 48 and below the national baseline (2.4% for October 2019 through September 2020; 2.6% since October 2020) for the 34th consecutive week. This level of ILI is lower than is typical for ILINet during this time of year.
 resize iconView LargerClosedownload iconDownload Image[GIF]
 View Data Table
-The percentage of visits for ILI reported in ILINet during week 48 remained stable (change of ≤0.1%) compared with week 47 for all age groups (0–4 years, 5–24 years, 25–49 years, 50–64 years, 65 years and older). All age groups have experienced an increasing percentage of visits for ILI since September.
+The percentage of visits for ILI reported in ILINet during week 49 remained stable (change of ≤0.1%) compared with week 48 for all age groups (0–4 years, 5–24 years, 25–49 years, 50–64 years, 65 years and older). All age groups have experienced an increasing percentage of visits for ILI since September.
 resize iconView LargerClosedownload iconDownload Image[GIF]
 View Data Table
-On a regional levelexternal icon, four regions (Regions 2 [New Jersey/New York/Puerto Rico], 3 [Mid-Atlantic], 4 [Southeast], 9 [South West/Coast]) reported an increase in at least one indicator of mild to moderate illness (CLI and/or ILI) during week 48 compared with week 47, and two of these regions (Region 3 [Mid-Atlantic] and 9 [South West/Coast]) reported an increase in all indicators. Five regions (Regions 5 [Midwest], 6 [South Central], 7[Central], 8 [Mountain] and 10 [Pacific Northwest) reported a decrease in at least one indicator of mild to moderate illness (CLI and/or ILI)  Region 1 (Northeast) reported a stable (change of ≤0.1%) level of CLI and ILI during week 48 compared with week 47. The percentage of visits for ILI to ILINet providers remained below the region-specific baseline in all regions.
+On a regional levelexternal icon, one region (Region 2 [New Jersey/New York/Puerto Rico]) reported an increase in two indicators of mild to moderate illness (CLI and/or ILI) during week 49 compared with week 48. Six regions (Regions 4 [Southeast], 5 [Midwest], 6 [South Central], 7[Central], 8 [Mountain], and 10 [Pacific Northwest) reported a decrease in at least one indicator of mild to moderate illness (CLI and/or ILI) and three regions (Regions 1 [(Northeast)], 3 [Mid-Atlantic], and 9 [South West/Coast]) reported a stable (change of ≤0.1%) level of CLI and ILI during week 49 compared with week 48. The percentage of visits for ILI to ILINet providers remained below the region-specific baseline in all regions.
 ILI Activity Levels
-Data collected in ILINet are used to produce a measure of ILI activity for all 50 states, Puerto Rico, the U.S. Virgin Islands, the District of Columbia, New York City and for each core-based statistical area (CBSA) where at least one provider is located. The mean reported percentage of visits due to ILI for the current week is compared with the mean reported during non-influenza weeks, and the activity levels correspond to the number of standard deviations below, at, or above the mean.
-The number of jurisdictions at each activity level during week 48 and the previous week are summarized in the table below.
+Data collected in ILINet are used to produce a measure of ILI activity for all 50 states, Puerto Rico, the U.S. Virgin Islands, the District of Columbia, New York City and for each core-based statistical area (CBSA) where at least one provider is located. The mean reported percentage of visits due to ILI for the current week is compared with the mean reported during non-influenza weeks, and the activity levels correspond to the number of standard deviations below, at, or above the mean.
+The number of jurisdictions at each activity level during week 49 and the previous week are summarized in the table below.
 ILI Activity Levels
 Activity Level
 Number of Jurisdictions
 Number of CBSAs
+Week 49 (Week ending Dec. 5, 2020)
 Week 48 (Week ending Nov. 28, 2020)
-Week 47 (Week ending Nov. 21, 2020)
+Week 49 (Week ending Dec. 5, 2020)
 Week 48 (Week ending Nov. 28, 2020)
-Week 47 (Week ending Nov. 21, 2020)
 Very High
 0
 0
@@ -59,38 +56,39 @@ Very High
 High
 0
 0
+4
 3
-5
 Moderate
 0
 0
-14
-16
+13
+15
 Low
-5
-2
-56
-40
-Minimal
-47
+4
+4
 53
-511
-551
+60
+Minimal
+49
+50
+547
+543
 Insufficient Data
-3
-0
-345
-317
+2
+1
+312
+308
 *Note: Data collected in ILINet may disproportionally represent certain populations within a state and may not accurately depict the full picture of respiratory disease activity for the whole state. Differences in the data presented here by CDC and independently by some state health departments likely represent differing levels of data completeness with data presented by the state likely being the more complete.
 Additional information about medically attended outpatient and emergency department visits for ILI and CLI: Surveillance Methods
 HospitalizationsThe COVID-19-Associated Hospitalization Surveillance Network (COVID-NET) conducts population-based surveillance for laboratory-confirmed COVID-19-associated hospitalizations in select counties participating in the Emerging Infections Program (EIP) and the Influenza Hospitalization Surveillance Project (IHSP).
-A total of 85,678 laboratory-confirmed COVID-19-associated hospitalizations were reported by sites between March 1, 2020, and November 28, 2020. The overall cumulative hospitalization rate was 262.8 per 100,000 population. The overall weekly hospitalization rate is at its highest point since the beginning of the pandemic, with steep increases in adults aged 65 years and older. All COVID-NET sites have reported increasing hospitalization rates in recent weeks. The hospitalization rates for the most recent week are expected to increase as additional data are reported in future weeks.
+A total of 90,874 laboratory-confirmed COVID-19-associated hospitalizations were reported by sites between March 1, 2020, and December 5, 2020. The overall cumulative hospitalization rate was 278.7 per 100,000 population. Within the past month, all age groups have reached their highest weekly hospitalization rate since the start of the pandemic. The hospitalization rates for the most recent weeks are expected to increase as additional data are reported in future weeks.
 resize iconView LargerClosedownload iconDownload Image[GIF]
-Among the 85,678 laboratory-confirmed COVID-19-associated hospitalizations, 82,640 (96.5%) had information on race and ethnicity, while collection of race and ethnicity was still pending for 3,038 (3.5%) cases. When examining overall age-adjusted rates by race and ethnicity, the rates for Hispanic or Latino persons, non-Hispanic American Indian or Alaska Native persons, and non-Hispanic Black persons were approximately 3.8, 3.7, and 3.4 times the rate among non-Hispanic White persons, respectively.
-When examining age-stratified crude hospitalization rates by race and ethnicity, compared with non-Hispanic White persons in the same age group, the highest crude hospitalization rate ratios for each age group were as follows: 5.3 times higher among Hispanic or Latino persons aged 0–17 years; 6.7 times higher among non-Hispanic American Indian or Alaska Native persons aged 18–49 years; 4.7 times higher among Hispanic or Latino persons aged 50–64 years; and 2.7 times higher among non-Hispanic Black persons aged ≥65 years.
+1Additional hospitalization rate data by age group are available.
+Among the 90,874 laboratory-confirmed COVID-19-associated hospitalizations, 87,303 (96.1%) had information on race and ethnicity, while collection of race and ethnicity was still pending for 3,571 (3.9%) cases. When examining overall age-adjusted rates by race and ethnicity, the rates for Hispanic or Latino persons, non-Hispanic American Indian or Alaska Native persons, and non-Hispanic Black persons were approximately 3.8, 3.7, and 3.3 times the rate among non-Hispanic White persons, respectively.
+When examining age-stratified crude hospitalization rates by race and ethnicity, compared with non-Hispanic White persons in the same age group, crude hospitalization rates were 5.1 times higher among Hispanic or Latino persons aged 0–17 years; 6.7 times higher among non-Hispanic American Indian or Alaska Native persons aged 18–49 years; 4.7 times higher among non-Hispanic American Indian or Alaska Native persons aged 50–64 years; and 2.6 times higher among non-Hispanic Black persons aged ≥65 years.
 Hospitalization rates per 100,000 population
 by age and race and ethnicity — COVID-NET,
-March 1, 2020–November 28, 2020
+March 1, 2020–December 5, 2020
 Age Category
 Non-Hispanic
 American Indian or Alaska Native
@@ -109,66 +107,66 @@ Rate Ratio2,3
 Rate1
 Rate Ratio2,3
 0—17 years
-21.4
-3.1
-26.3
-3.8
-36.9
-5.3
-11.1
+25.3
+3.4
+27.3
+3.7
+37.6
+5.1
+11.9
 1.6
-7.0
+7.4
 1.0
 18—49 years
-399.9
+424.3
 6.7
-259.9
-4.4
-381.5
-6.4
-84.3
+268.6
+4.3
+398.7
+6.3
+88.2
 1.4
-59.3
+63.1
 1.0
 50—64 years
-869.4
-4.6
-725.2
-3.9
-876.4
+935.8
 4.7
-244.3
+755.3
+3.8
+920.3
+4.6
+259.0
 1.3
-187.0
+198.6
 1.0
 65+ years
-1148.2
-2.2
-1430.8
-2.7
-1279.9
+1,211.3
+2.1
+1,479.6
+2.6
+1,379.5
 2.4
-492.7
+528.4
 0.9
-525.2
+565.3
 1.0
 Overall rate4 (age-adjusted)
-521.0
+554.2
 3.7
-475.5
-3.4
-533.7
+492.7
+3.3
+564.6
 3.8
-158.8
+168.8
 1.1
-140.0
+149.9
 1.0
 1COVID-19-associated hospitalization rates by race and ethnicity are calculated using COVID-NET hospitalizations with known race and ethnicity for the numerator and NCHS bridged-race population estimates for the denominator.
 2 For each age category, rate ratios are the ratios between crude hospitalization rates within each racial and ethnic group and the crude hospitalization rate among non-Hispanic White persons in the same age category.
 3 The highest rate ratio in each age category is presented in bold.
 4 Overall rates are adjusted to account for differences in age distributions within race and ethnicity strata in the COVID-NET catchment area; the age strata used for the adjustment include 0–17, 18–49, 50–64, 65-74, 75-84 and 85+ years.
 Non-Hispanic White persons and non-Hispanic Black persons represented the highest proportions of hospitalizations reported to COVID-NET, followed by Hispanic or Latino, non-Hispanic Asian or Pacific Islander, and non-Hispanic American Indian or Alaska Native persons. However, some racial and ethnic groups are disproportionately represented among hospitalizations compared with the overall population of the catchment area. Prevalence ratios were highest among non-Hispanic American Indian or Alaska Native persons, followed by non-Hispanic Black persons and Hispanic or Latino persons.
-Comparison of proportions of COVID-19-associated hospitalizations by race and ethnicity, COVID-NET, March 1–November 28, 2020
+Comparison of proportions of COVID-19-associated hospitalizations by race and ethnicity, COVID-NET, March 1–December 5, 2020
 Non-Hispanic American Indian or Alaska Native
 Non-Hispanic Black
 Hispanic or Latino
@@ -176,10 +174,10 @@ Non-Hispanic Asian or Pacific Islander
 Non-Hispanic White
 Proportion of COVID-NET hospitalizations1
 1.2%
-28.8%
-21.9%
+28.2%
+21.8%
 5.1%
-37.5%
+38.0%
 Proportion of population in COVID-NET catchment area
 0.7%
 17.9%
@@ -189,17 +187,16 @@ Proportion of population in COVID-NET catchment area
 Prevalence ratios2
 1.7
 1.6
-1.6
+1.5
 0.6
 0.6
-1Persons of multiple races (0.3%) or unknown race and ethnicity (5.2%) are not represented in the table but are included as part of the denominator.
+1Persons of multiple races (0.3%) or unknown race and ethnicity (5.3%) are not represented in the table but are included as part of the denominator.
 2 Prevalence ratio is calculated as the ratio of the proportion of COVID-NET hospitalizations over the proportion of population in COVID-NET catchment area.
-For underlying medical conditions, data were restricted to cases reported during March 1–May 31, 2020, due to delays in reporting. During this time frame, sampling was conducted among hospitalized adults; therefore, weighted percentages are reported. No sampling was conducted among hospitalized children. Among 8,442 sampled adults hospitalized during March 1–May 31 with information on underlying medical conditions, 90.6% had at least one reported underlying medical condition. The most reported underlying medical conditions were hypertension (58.9%), obesity (46.2%), metabolic disease (42.8%), and cardiovascular disease (34.2%). Among 265 children hospitalized during March 1–May 31 with information on underlying conditions, 50.9% had at least one reported underlying medical condition. The most reported underlying medical conditions were obesity (43.2%), asthma (13.2%), and neurologic disease (12.8%).
-Additional data on demographics, signs and symptoms at admission, underlying conditions, interventions, outcomes, and discharge diagnoses, stratified by age, sex, and race and ethnicity, are available.
+For underlying medical conditions, data were restricted to cases reported during March 1–May 31, 2020, due to delays in reporting. During this time frame, sampling was conducted among hospitalized adults; therefore, weighted percentages are reported. No sampling was conducted among hospitalized children. Among 8,437 sampled adults hospitalized during March 1–May 31 with information on underlying medical conditions, 90.7% had at least one reported underlying medical condition. The most reported underlying medical conditions were hypertension (58.9%), obesity (46.1%), metabolic disease (42.9%), and cardiovascular disease (34.2%). Among 266 children hospitalized during March 1–May 31 with information on underlying conditions, 51.1% had at least one reported underlying medical condition. The most reported underlying medical conditions were obesity (42.9%), asthma (13.5%), and neurologic disease (13.2%).
 Additional hospitalization surveillance information:
 Surveillance Methods  | Additional rate data  |  Additional demographic and clinical data
-Mortality SurveillanceThe National Center for Health Statistics (NCHS) collects death certificate data from vital statistics offices for all deaths occurring in the United States. Based on death certificate data available on December 3, 2020, the percentage of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) for week 48 was 12.8% and, while it declined compared with the percentage during week 47 (18.6%), it remains above the epidemic threshold of 6.4%. Among the 2,094 PIC deaths reported for week 48, 1,397 had COVID-19 listed as an underlying or contributing cause of death on the death certificate and three listed influenza, indicating that the current increase in PIC mortality is due primarily to COVID-19 and not influenza.
-The weekly percentage of deaths due to PIC declined from a second peak at the end of July through mid- September, remained stable from the week ending September 19 through the week ending October 3, and increased for seven weeks from early October through mid-November to a level that is higher than the July peak. Data for the most recent week currently shows a decline, but percentages for recent weeks will likely increase as more death certificates are processed. Weekly mortality surveillance data include a combination of machine-coded and manually coded causes of death collected from death certificates. The percentage of deaths due to PIC is higher among manually coded records than more rapidly available machine-coded records. Due to the additional time needed for manual coding, the initially reported PIC percentages may be lower than percentages calculated from final data.
+Mortality SurveillanceThe National Center for Health Statistics (NCHS) collects death certificate data from vital statistics offices for all deaths occurring in the United States. Based on death certificate data available on December 10, 2020, the percentage of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) for week 49 was 14.3% and, while it declined compared with the percentage during week 48 (19.6%), it remains above the epidemic threshold of 6.5% and is expected to increase as more death certificates are processed. Among the 3,052 PIC deaths reported for week 49, 2,113 had COVID-19 listed as an underlying or contributing cause of death on the death certificate and five listed influenza, indicating that the current increase in PIC mortality is due primarily to COVID-19 and not influenza.
+The weekly percentage of deaths due to PIC declined from a second peak at the end of July through mid- September, remained stable from the week ending September 19 through the week ending October 3, and increased for seven weeks from early October through mid-November to a level that is higher than the July peak. Data for the most recent two weeks currently show a decline, but percentages for recent weeks will likely increase as more death certificates are processed. Weekly mortality surveillance data include a combination of machine-coded and manually coded causes of death collected from death certificates. The percentage of deaths due to PIC is higher among manually coded records than more rapidly available machine-coded records. Due to the additional time needed for manual coding, the initially reported PIC percentages may be lower than percentages calculated from final data.
 resize iconView LargerClosedownload iconDownload Image[GIF]
 *Data during recent weeks are incomplete because of the lag in time between when the death occurred and when the death certificate is completed, submitted to NCHS and processed for reporting purposes. It is possible that a death certificate includes both influenza and COVID as a cause of death; therefore, the number of influenza and COVID coded deaths may not be mutually exclusive.
 View Data Table

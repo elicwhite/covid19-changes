@@ -299,4 +299,5 @@ export default {
   '20-12-14': raw('../cdcupdates/screening/20-12-14.txt'),
   '20-12-15': raw('../cdcupdates/screening/20-12-15.txt'),
   '20-12-16': raw('../cdcupdates/screening/20-12-16.txt'),
+  '20-12-17': raw('../cdcupdates/screening/20-12-17.txt'),
 };

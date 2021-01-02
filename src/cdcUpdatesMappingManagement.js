@@ -5,6 +5,7 @@ import raw from 'raw.macro';
 
 export default {
   '20-01-01': raw('../cdcupdates/management/20-01-01.txt'),
+  '20-01-02': raw('../cdcupdates/management/20-01-02.txt'),
   '20-02-12': raw('../cdcupdates/management/20-02-12.txt'),
   '20-02-26': raw('../cdcupdates/management/20-02-26.txt'),
   '20-02-29': raw('../cdcupdates/management/20-02-29.txt'),

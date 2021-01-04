@@ -16,11 +16,11 @@ Severe Disease: Hospitalizations and DeathsIn early December, the overall weekly
 All data are preliminary and may change as more reports are received. A description of the surveillance systems summarized in COVIDView, including methodology and detailed descriptions of each data component, is available on the surveillance methods page.
 Key Points
 Nationally, surveillance indicators tracking levels of SARS-CoV-2 circulation and associated illnesses declined or remained stable during week 52 compared with week 51; however, there were regional differences.
-Five regions (Regions 2 [New Jersey/New York/Puerto Rico], 3 [Mid-Atlantic], 4 [Southeast], 6 [South Central] and 7 [Central]) reported an increase in percentage of specimens testing positive for SARS-CoV-2 during week 52 compared with week 51.
+Five regions (Regions 2 [New Jersey/New York/Puerto Rico], 3 [Mid-Atlantic], 4 [Southeast], 6 [South Central] and 7 [Central]) reported an increase in percentage of specimens testing positive for SARS-CoV-2 duriong week 52 compared with week 51.
 Three regions (Regions 2 [New Jersey/New York/Puerto Rico], 4 [Southeast] and 6 [South Central]) reported an increase in at least one indicator of mild/moderate respiratory illness during week 52 compared with week 51. These three regions and Region 9 [South/West Central] have also reported an increasing trend in the percentage of visits for CLI and/or ILI since October. The remaining six regions have reported a stable or declining trend in the percentage of visits for CLI and ILI.
 The overall cumulative COVID-19-associated hospitalization rate through the week ending December 26, 2020, was 326.7 hospitalizations per 100,000 population.
-The overall weekly hospitalization rate reached its highest point at 16.9 per 100,000 during the week ending December 5, 2020 (Week 49) and remains elevated. Rates in recent weeks have declined but these rates are likely to change as additional data are reported.
-The cumulative age-adjusted hospitalization rate for Hispanic or Latino persons, non-Hispanic American Indian or Alaska Native persons and non-Hispanic Black persons were approximately 3.6, 3.5 and 3.1 times those of non-Hispanic White persons, respectively.
+Overall weekly hospitalization rates reached their highest point at 16.9 per 100,000 during week ending December 5, 2020 (MMWR Week 49) and remain elevated. Rates in recent weeks have declined but these rates are likely to change as additional data are reported.
+The cumulative age-adjusted hospitalization rate for both Hispanic or Latino persons and non-Hispanic American Indian or Alaska Native persons was 3.5 times that of non-Hispanic White persons, and the rate for non-Hispanic Black persons was approximately 3.1 times that of non-Hispanic White persons.
 The percentage of deaths due to PIC has been increasing since the beginning of October and has exceeded the percentage of deaths due to PIC observed during the summer peak.
 Data for the most recent three weeks currently show a decline, but that is likely to change as additional death certificates are processed. Due to the large number of deaths reported in recent weeks and the holidays, the change in recent weeks may be larger than usual.
 Estimates from previous weeks are subject to change as data are updated with the most complete data available.
@@ -85,7 +85,7 @@ HospitalizationsThe COVID-19-Associated Hospitalization Surveillance Network (CO
 A total of 106,532 laboratory-confirmed COVID-19-associated hospitalizations were reported by sites between March 1, 2020 and December 26, 2020. The overall cumulative hospitalization rate was 326.7 per 100,000 population. The overall weekly hospitalization rate reached its highest point at 16.9 per 100,000 during the week ending December 5, 2020 (Week 49) and remains elevated. Rates in recent weeks have declined but these rates are likely to change as additional data are reported for those weeks.
 resize iconView LargerClosedownload iconDownload Image[GIF]
 1Additional hospitalization rate data by age group are available.
-Among the 106,532 laboratory-confirmed COVID-19-associated hospitalizations, 103,104 (96.8%) had information on race and ethnicity, while collection of race and ethnicity was still pending for 3,428 (3.2%) cases. When examining overall cumulative age-adjusted rates by race and ethnicity, the rate for Hispanic or Latino persons, non-Hispanic American Indian or Alaska Native persons and non-Hispanic Black persons were approximately 3.6, 3.5 and 3.1 times those of non-Hispanic White persons, respectively.
+Among the 106,532 laboratory-confirmed COVID-19-associated hospitalizations, 103,104 (96.8%) had information on race and ethnicity, while collection of race and ethnicity was still pending for 3,428 (3.2%) cases. When examining overall cumulative age-adjusted rates by race and ethnicity, the rate for both Hispanic or Latino persons and non-Hispanic American Indian or Alaska Native persons was 3.5 times that of non-Hispanic White persons, and the rate for non-Hispanic Black persons was approximately 3.1 times that of non-Hispanic White persons.
 When examining age-stratified crude hospitalization rates by race and ethnicity, compared with non-Hispanic White persons in the same age group, crude hospitalization rates were 4.7 times higher among Hispanic or Latino persons aged 0–17 years; 6.2 times higher among non-Hispanic American Indian or Alaska Native or Latino persons aged 18–49 years; 4.4 times higher among non-Hispanic American Indian or Alaska Native persons aged 50–64 years; and 2.4 times higher among non-Hispanic Black persons aged ≥ 65 years.
 Hospitalization rates per 100,000 population
 by age and race and ethnicity — COVID-NET,
@@ -157,7 +157,7 @@ Overall rate4 (age-adjusted)
 563.7
 3.1
 644.2
-3.6
+3.5
 202.5
 1.1
 183.6

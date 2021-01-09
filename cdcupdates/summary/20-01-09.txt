@@ -1,0 +1,211 @@
+COVIDView: A Weekly Surveillance Summary of U.S. COVID-19 Activity
+Updated Jan. 8, 2021
+Print
+Facebook
+Twitter
+LinkedIn
+Syndicate
+Minus
+Related Pages
+Download Weekly Summary pdf icon[926 KB, 10 pages]
+Key Updates for Week 53, ending January 2, 2021Nationally, the percentage of respiratory specimens testing positive for SARS-CoV-2 increased during the week ending January 2, 2021. Surveillance indicators for SARS-CoV-2 associated illnesses, hospitalizations and deaths show declining trends in recent weeks; however, these declining trends should be interpreted with caution since they are likely affected by reporting delays during the holidays and are expected to increase as more data are received.
+Download Chart Data excel icon[CSV – 2 KB]
+Virus: Public Health, Commercial and Clinical LaboratoriesNationally, the overall percentage of respiratory specimens testing positive for SARS-CoV-2, the virus causing COVID-19, increased from 12.9% during week 52 to 15.0% during week 53. Percent positivity increased among all ages. The percentage of respiratory specimens testing positive for SARS-CoV-2 increased in all ten Health and Human Services (HHS) regionsexternal icon.
+Mild/Moderate Illness: Outpatient and Emergency Department VisitsNationally, the percentage of visits to outpatient providers or emergency departments (EDs) decreased (COVID-like illness [CLI]) or remained stable (change of ≤0.1%; influenza-like illness [ILI]) during week 53 compared with week 52. Two of ten surveillance regions reported an increase in at least one indicator of mild/moderate illness (CLI/ILI) this week while the remaining regions reported a stable or declining level of mild/moderate illness.
+Severe Disease: Hospitalizations and DeathsIn early December, the overall weekly hospitalization rate reached its highest point since the beginning of the pandemic and remains elevated. Although reported rates in recent weeks have declined, these rates are likely to increase as additional data are reported. Based on death certificate data, the percentage of deaths attributed to pneumonia, influenza or COVID-19 (PIC) for week 53 was 14.5% and it remains above the epidemic threshold. Longer delays in reporting of hospitalization and mortality data may occur due to the holidays.
+All data are preliminary and may change as more reports are received. A description of the surveillance systems summarized in COVIDView, including methodology and detailed descriptions of each data component, is available on the surveillance methods page.
+Key Points
+Holidays during weeks 52 and 53 and increases in the number of COVID-19 illnesses have affected data reporting and health care seeking behavior in multiple ways; therefore, data from recent weeks should be interpreted with caution and they may change more than usual as additional data for those weeks are received.
+Nationally, the overall percentage of respiratory specimens testing positive for SARS-CoV-2 increased during week 53 (15.0%) compared with week 52 (12.9%). Percent positivity increased in all ten HHS surveillance regions. For regions 6 (South Central) and 9 (South/West Central), percent positivity has been increasing for three or more weeks, while nationally and in the remaining eight regions, there has been a one or two week increase in percent positivity.
+Surveillance indicators of mild to moderate illness declined or remained stable during week 53 compared to week 52 nationally; however, there were regional differences.
+Two regions (Region 4 [Southeast] and Region 6 [South Central]) reported an increase in at least one indicator of mild to moderate illness (CLI and/or ILI) during week 53 compared with week 52. The remaining eight regions reported a stable (change of ≤0.1%) or decreasing level of mild to moderate illness.
+Four regions (Region 2 [New Jersey/New York/Puerto Rico], Region 4 [Southeast], Region 6 [South Central], and Region 9 [South/West Central]) have reported a general increasing trend in at least one indicator of mild to moderate illness during November and December.
+The overall cumulative COVID-19-associated hospitalization rate through the week ending January 2, 2021, was 343.4 hospitalizations per 100,000 population.
+Overall weekly hospitalization rates reached their highest point at 17.2 per 100,000 during the week ending December 5, 2020 (MMWR Week 49) and they remain elevated. Although reported rates in recent weeks have declined, these rates are likely to increase as additional data are reported. Longer delays in data reporting may occur due to the holidays.
+When examining age-adjusted hospitalization rates by race and ethnicity, compared with non-Hispanic White persons, hospitalization rates were 3.4 times higher among Hispanic or Latino persons; 3.3 times higher among Non-Hispanic American Indian or Alaska Native persons; and 3.0 times higher among non-Hispanic Black persons.
+The percentage of deaths due to PIC increased from the beginning of October through early December, when it exceeded the percentage of deaths due to PIC observed during the summer peak.
+Data for the past four weeks show a declining trend in the percentage of deaths due to PIC but that is likely to change as additional death certificates are processed.
+Due to the large number of deaths reported in recent weeks and the holidays, the change in recent weeks may be larger than usual.
+Estimates from previous weeks are subject to change as data are updated with the most complete data available.
+U.S. Virologic SurveillanceBased on data reported to CDC by public health laboratories and a subset of clinical and commercial laboratories in the United States, 101,369,233 specimens were tested for SARS-CoV-2 using a molecular assay since March 1, 2020. The percentage of specimens testing positive for SARS-CoV-2 each week, based on week of specimen collection, are summarized below.
+Nationally, during week 53, of 2,633,993 specimens tested for SARS-CoV-2 for diagnostic purposes, 394,667 (15.0%) were positive. This is an increase compared with week 52, during which 12.9% of specimens tested were positive. The percentage of specimens testing positive increased among all age groups.
+*Note: Different laboratory types came on board with testing during different weeks. This graph includes public health laboratory data beginning in week 10, clinical laboratory data beginning in week 11, and commercial laboratory data beginning in week 14.
+View Data Table
+The percentage of specimens testing positive for SARS-CoV-2 increased in all ten HHS regions during week 53 compared with week 52.
+Additional virologic surveillance information: Surveillance Methods
+Outpatient/Emergency Department IllnessTwo syndromic surveillance systems, the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) and the National Syndromic Surveillance Project (NSSP), are being used to monitor trends in outpatient and emergency department (ED) visits that may be associated with COVID-19 illness. Each system monitors activity in a slightly different set of providers/facilities and uses a slightly different set of symptoms that may be associated with SARS-CoV-2 virus infection. ILINet provides information about visits to outpatient providers or emergency departments for influenza-like illness (ILI; fever plus cough and/or sore throat) and NSSP provides information about visits to EDs for ILI and COVID-like illness (CLI; fever plus cough and/or shortness of breath or difficulty breathing). Some EDs contribute ILI data to both ILINet and NSSP. Both systems are currently being affected by changes in health care seeking behavior, including increased use of telemedicine and increased social distancing. These changes affect the numbers of people seeking care in the outpatient and ED settings and their reasons for doing so. Syndromic data, including CLI and ILI, should be interpreted with caution and should be evaluated in combination with other sources of surveillance data, especially laboratory testing results, to obtain a complete and accurate picture of respiratory illness.
+Nationally, the overall percentages of visits to outpatient providers or EDs for ILI remained stable (change of ≤0.1%) and decreased for CLI during week 53 compared with week 52. During week 53, the percentages of ED visits captured in NSSP for CLI and ILI were 7.1% and 1.3%, respectively. In ILINet, 1.6% of visits reported during week 53 were for ILI, also remaining stable (change of ≤0.1%) compared with week 52 and below the national baseline (2.4% for October 2019 through September 2020; 2.6% since October 2020) for the 38th consecutive week. This level of ILI is lower than is typical for ILINet during this time of year.
+resize iconView LargerClosedownload iconDownload Image[GIF]
+View Data Table
+The percentages of visits for ILI reported in ILINet in week 53 increased for two age groups (0–4 years and 50–64 years) compared with week 52. In the remaining age groups (5–24 years, 25–49 years, and 65 years and older), these percentages remained stable (change of ≤0.1%).
+resize iconView LargerClosedownload iconDownload Image[GIF]
+View Data Table
+On a regional levelexternal icon, two regions (Region 4 [Southeast] and Region 6 [South Central]) reported an increase in at least one indicator of mild to moderate illness (CLI and/or ILI) during week 53 compared with week 52. The remaining eight regions reported a stable (change of ≤0.1%) or decreasing level of mild to moderate illness during week 53 compared with week 52. While Regions 2 (New Jersey/New York/Puerto Rico) and 9 (South/West Central) had a stable (change of ≤0.1%) or declining level of CLI and ILI in week 53 compared with week 52, these regions, along with Regions 4 and 6, have reported an increasing trend in at least one of these indicators during November and December. The percentage of visits for ILI to ILINet providers during week 53 remained below the region-specific baseline in all regions.
+ILI Activity Levels
+Data collected in ILINet are used to produce a measure of ILI activity for all 50 states, Puerto Rico, the U.S. Virgin Islands, the District of Columbia, New York City and for each core-based statistical area (CBSA) where at least one provider is located. The mean reported percentage of visits due to ILI for the current week is compared with the mean reported during non-influenza weeks, and the activity levels correspond to the number of standard deviations below, at, or above the mean.
+The number of jurisdictions at each activity level during week 53 and the previous week are summarized in the table below.
+ILI Activity Levels
+Activity Level
+Number of Jurisdictions
+Number of CBSAs
+Week 53 (Week ending  Jan. 2, 2021)
+Week 52 (Week ending Dec. 26, 2020)
+Week 53 (Week ending  Jan. 2, 2021)
+Week 52 (Week ending Dec. 26, 2020)
+Very High
+0
+0
+0
+0
+High
+0
+0
+4
+3
+Moderate
+0
+0
+14
+11
+Low
+6
+2
+52
+49
+Minimal
+48
+51
+531
+561
+Insufficient Data
+1
+2
+328
+305
+*Note: Data collected in ILINet may disproportionally represent certain populations within a state and may not accurately depict the full picture of respiratory disease activity for the whole state. Differences in the data presented here by CDC and independently by some state health departments likely represent differing levels of data completeness with data presented by the state likely being the more complete.
+Additional information about medically attended outpatient and emergency department visits for ILI and CLI: Surveillance Methods
+HospitalizationsThe COVID-19-Associated Hospitalization Surveillance Network (COVID-NET) conducts population-based surveillance for laboratory-confirmed COVID-19-associated hospitalizations in select counties participating in the Emerging Infections Program (EIP) and the Influenza Hospitalization Surveillance Project (IHSP).
+A total of 111,960 laboratory-confirmed COVID-19-associated hospitalizations were reported by sites between March 1, 2020, and January 2, 2021. The overall cumulative hospitalization rate was 343.4 per 100,000 population. Overall weekly hospitalization rates reached their highest point at 17.2 per 100,000 during week ending December 5, 2020 (MMWR Week 49) and they remain elevated. Although reported rates in recent weeks have declined, these rates are likely to increase as additional data are reported. Longer delays in data reporting may occur due to the holidays.
+resize iconView LargerClosedownload iconDownload Image[GIF]
+1Additional hospitalization rate data by age group are available.
+Among the 111,960 laboratory-confirmed COVID-19-associated hospitalizations, 109,500 (97.8%) had information on race and ethnicity, while collection of race and ethnicity was still pending for 2,460 (2.2%) cases. When examining age-adjusted hospitalization rates by race and ethnicity, compared with non-Hispanic White persons, hospitalization rates were 3.4 times higher among Hispanic or Latino persons; 3.3 times higher among Non-Hispanic American Indian or Alaska Native persons; and 3.0 times higher among non-Hispanic Black persons.
+When examining age-stratified crude hospitalization rates by race and ethnicity, compared with non-Hispanic White persons in the same age group, hospitalization rates were 4.6 times higher among Hispanic or Latino persons aged 0–17 years; 6.0 times higher among Non-Hispanic American Indian or Alaska Native persons aged 18–49 years; 4.2 times higher among Hispanic or Latino persons aged 50–64 years; and 2.4 times higher among non-Hispanic Black persons aged ≥ 65 years.
+Hospitalization rates per 100,000 population
+by age and race and ethnicity — COVID-NET,
+March 1, 2020-January 2, 2021
+Age Category
+Non-Hispanic
+American Indian or Alaska Native
+Non-Hispanic Black
+Hispanic or Latino
+Non-Hispanic Asian or Pacific Islander
+Non-Hispanic White
+Rate1
+Rate Ratio2,3
+Rate1
+Rate Ratio2,3
+Rate1
+Rate Ratio2,3
+Rate1
+Rate Ratio2,3
+Rate1
+Rate Ratio2,3
+0—17 years
+29.2
+3.0
+33.3
+3.5
+44.2
+4.6
+14.1
+1.5
+9.6
+1.0
+18—49 years
+484.8
+6.0
+321.4
+4.0
+455.0
+5.7
+106.5
+1.3
+80.4
+1.0
+50—64 years
+1063.4
+4.1
+916.1
+3.6
+1077.6
+4.2
+320.5
+1.2
+257.2
+1.0
+65+ years
+1564.5
+2.1
+1813.1
+2.4
+1715.4
+2.3
+695.5
+0.9
+760.7
+1.0
+Overall rate4 (age-adjusted)
+660.1
+3.3
+598.4
+3.0
+670.8
+3.4
+213.7
+1.1
+197.7
+1.0
+1COVID-19-associated hospitalization rates by race and ethnicity are calculated using COVID-NET hospitalizations with known race and ethnicity for the numerator and NCHS bridged-race population estimates for the denominator.
+2 For each age category, rate ratios are the ratios between crude hospitalization rates within each racial and ethnic group and the crude hospitalization rate among non-Hispanic White persons in the same age category.
+3 The highest rate ratio in each age category is presented in bold.
+4 Overall rates are adjusted to account for differences in age distributions within race and ethnicity strata in the COVID-NET catchment area; the age strata used for the adjustment include 0–17, 18–49, 50–64, 65-74, 75-84 and 85+ years.
+Non-Hispanic White persons and non-Hispanic Black persons represented the highest proportions of hospitalizations reported to COVID-NET, followed by Hispanic or Latino, non-Hispanic Asian or Pacific Islander, and non-Hispanic American Indian or Alaska Native persons. However, some racial and ethnic groups are disproportionately represented among hospitalizations compared with the overall population of the catchment area. Prevalence ratios were highest among non-Hispanic American Indian or Alaska Native persons, followed by non-Hispanic Black persons and Hispanic or Latino persons.
+Comparison of proportions of COVID-19-associated hospitalizations by race and ethnicity, COVID-NET,March 1, 2020–January 2, 2021
+Non-Hispanic American Indian or Alaska Native
+Non-Hispanic Black
+Hispanic or Latino
+Non-Hispanic Asian or Pacific Islander
+Non-Hispanic White
+Proportion of COVID-NET hospitalizations1
+1.2%
+27.3%
+20.4%
+5.1%
+40.1%
+Proportion of population in COVID-NET catchment area
+0.7%
+17.9%
+14.1%
+8.9%
+58.5%
+Prevalence ratios2
+1.7
+1.5
+1.4
+0.6
+0.7
+1Persons of multiple races (0.3%) or unknown race and ethnicity (5.6%) are not represented in the table but are included as part of the denominator.
+2 Prevalence ratio is calculated as the ratio of the proportion of COVID-NET hospitalizations over the proportion of population in COVID-NET catchment area.
+For underlying medical conditions, data were restricted to cases reported during March 1–September 30, 2020, due to delays in reporting. During this time frame, sampling was conducted among hospitalized adults; therefore, weighted percentages are reported. No sampling was conducted among hospitalized children. Among 8,465 sampled adults hospitalized during March 1–September 30 with information on underlying medical conditions, 89.9% had at least one reported underlying medical condition. The most reported underlying medical conditions were hypertension (56.0%), obesity (48.2%), metabolic disease (42.0%), and cardiovascular disease (32.7%). Among 823 children hospitalized during March 1–September 30 with information on underlying conditions, 51.8% had at least one reported underlying medical condition. The most reported underlying medical conditions were obesity (38.5%), neurologic disease (12.8%), and asthma (10.9%).
+Additional data on demographics, signs and symptoms at admission, underlying medical conditions, interventions, outcomes, and discharge diagnoses, stratified by age, sex, and race and ethnicity, are available.
+Additional hospitalization surveillance information:
+Surveillance Methods  | Additional rate data  |  Additional demographic and clinical data
+Mortality SurveillanceThe National Center for Health Statistics (NCHS) collects death certificate data from vital statistics offices for all deaths occurring in the United States. Based on death certificate data available on January 7, 2021, the percentage of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) increased during week 53 (14.5%) as compared with the percentage during week 52 (13.8%), remains above the epidemic threshold of 6.9% and is expected to increase as more death certificates are processed. Among the 2,150 PIC deaths reported for week 53, 1,496 had COVID-19 listed as an underlying or contributing cause of death on the death certificate and two listed influenza, indicating that the recent increase in PIC mortality is due primarily to COVID-19 and not influenza.
+The weekly percentage of deaths due to PIC has been increasing since early October to a level that is higher than the July peak. Data for the past four weeks show a declining trend in the percentage of deaths due to PIC, but that is likely to change as additional death certificates are processed. Weekly mortality surveillance data include a combination of machine-coded and manually coded causes of death collected from death certificates. The percentage of deaths due to PIC is higher among manually coded records than more rapidly available machine-coded records. Because of additional time needed for manual coding, the initially reported PIC percentages may be lower than percentages calculated from final data. Additionally, due to the large number of deaths reported in recent weeks and the holidays, the delay in availability of manually coded records may be longer than usual and the change in data during recent weeks may be larger than usual.
+resize iconView LargerClosedownload iconDownload Image[GIF]
+*Data during recent weeks are incomplete because of the lag in time between when the death occurred and when the death certificate is completed, submitted to NCHS and processed for reporting purposes. It is possible that a death certificate includes both influenza and COVID as a cause of death; therefore, the number of influenza and COVID coded deaths may not be mutually exclusive.
+View Data Table
+Additional NCHS mortality surveillance information: Surveillance Methods  | Provisional Death Counts for COVID-19
+More Information
+Purpose and Methods
+Past Weekly Reports

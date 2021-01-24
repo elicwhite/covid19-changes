@@ -1,38 +1,209 @@
-2019 Novel Coronavirus (2019-nCoV), Wuhan, China
+COVIDView: A Weekly Surveillance Summary of U.S. COVID-19 Activity
+Updated Jan. 22, 2021
+Print
 Minus
 Related Pages
-This is an emerging, rapidly evolving situation and CDC will provide updated information as it becomes available, in addition to updated guidance.
-Updated January 23, 2020
-Situation Summary
-CDC is closely monitoring an outbreak of respiratory illness caused by a novel (new) coronavirus (termed “2019-nCoV”) that was first detected in Wuhan City, Hubei Province, China and which continues to expand. Chinese health officials have reported hundreds of infections with 2019-nCoV in China, including outside of Hubei Province. Infections with 2019-nCoV also are being reported in a growing number of countries internationally, including the United States, where the first 2019-nCoV infection was detected in a traveler returning from Wuhan on January 21, 2020.
-Chinese health authorities were the first to post the full genome of the 2019-nCoV in GenBankexternal icon, the NIH genetic sequence database, and in the Global Initiative on Sharing All Influenza Data (GISAIDexternal icon) portal, an action which has facilitated detection of this virus.
-Coronaviruses are a large family of viruses, some causing illness in people and others that circulate among animals, including camels, cats and bats. Rarely, animal coronaviruses can evolve and infect people and then spread between people such as has been seen with MERS and SARS.
-When person-to-person spread has occurred with MERS and SARS, it is thought to have happened via respiratory droplets produced when an infected person coughs or sneezes, similar to how influenza and other respiratory pathogens spread. Spread of MERS and SARS between people has generally occurred between close contacts. Past MERS and SARS outbreaks have been complex, requiring comprehensive public health responses.
-Early on, many of the patients in the outbreak in Wuhan, China reportedly had some link to a large seafood and animal market, suggesting animal-to-person spread. However, a growing number of patients reportedly have not had exposure to animal markets, suggesting person-to-person spread is occurring. At this time, it’s unclear how easily or sustainably this virus is spreading between people.
-Both MERS and SARS have been known to cause severe illness in people. The situation with regard to 2019-nCoV is still unclear. While severe illness, including illness resulting in a number of deaths has been reported in China, other patients have had milder illness and been discharged.
-There are ongoing investigations to learn more. This is a rapidly evolving situation and information will be updated as it becomes available.
-On This Page
-Situation SummaryRisk AssessmentWhat to ExpectCDC ResponseOther Available Resources
-View larger image
-Risk Assessment
-Outbreaks of novel virus infections among people are always of public health concern. The risk from these outbreaks depends on characteristics of the virus, including whether and how well it spreads between people, the severity of resulting illness, and the medical or other measures available to control the impact of the virus (for example, vaccine or treatment medications).
-Investigations are ongoing to learn more, but person-to-person spread of 2019-nCoV is occurring. It’s important to note that person-to-person spread can happen on a continuum. Some viruses are highly contagious (like measles), while other viruses are less so. It’s not clear yet how easily 2019-nCoV spreads from person-to-person. It’s important to know this in order to better assess the risk posed by this virus. While CDC considers this is a very serious public health threat, based on current information, the immediate health risk from 2019-nCoV to the general American public is considered low at this time. Nevertheless, CDC is taking proactive preparedness precautions.
-What to Expect
-More cases are likely to be identified in the coming days, including more cases in the United States. Given what has occurred previously with MERS and SARS, it’s likely that some person-to-person spread will continue to occur.
-CDC Response
-CDC is closely monitoring this situation and is working with WHO.
-CDC established a 2019-nCoV Incident Management Structure on January 7, 2020. On January 21, 2020, CDC activated its Emergency Response System to better provide ongoing support to the 2019-nCoV response.
-On January 23, 2020, CDC again raised its travel alert for the coronavirus outbreak. The travel notice for Wuhan City was raised from Level 2: Practice Enhanced Precautions to Level 3: Avoid Nonessential Travel. CDC also issued a Level 1: Practice Usual Precautions for the rest of China.
-CDC also is conducting entry screening of passengers on direct and connecting flights from Wuhan, China to five major airports: Atlanta (ATL), Chicago (ORD), Los Angeles, (LAX) New York city (JFK), and San Francisco (SFO).
-CDC issued an updated interim Health Alert Notice (HAN) Advisory to inform state and local health departments and health care providers about this outbreak on January 17, 2020.
-A CDC team has been deployed to support the ongoing investigation in the state of Washington in response to the first reported case of 2019-nCoV in the United States, including potentially tracing close contacts to determine if anyone else has become ill.
-CDC has developed a real time Reverse Transcription-Polymerase Chain Reaction (rRT-PCR) test that can diagnose 2019-nCoV. Currently, testing for this virus must take place at CDC, but in the coming days and weeks, CDC will share these tests with domestic and international partners through the agency’s International Reagent Resourceexternal icon.
-CDC also is sequencing the entire genome of the virus from the first reported case in the United States and plans to upload the sequence to GenBank and GISAID when completed.
-CDC also is growing the virus in cell culture, which is necessary for further studies, including for additional genetic characterization.
-Other Available Resources
-The following resources are available with information on 2019-nCoV
-CDC Travelers’ Health: Novel Coronavirus in China
-CDC  Health Alert Network Advisory Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV) in Wuhan, China
-CDC Health Alert Network Advisory information for state and local health departments and health care providers
-CDC Information on Coronaviruses
-World Health Organization, Coronavirusexternal icon
+Download Weekly Summary pdf icon[962 KB, 10 Pages]
+Key Updates for Week 2, ending January 16, 2021Nationally, surveillance indicators tracking levels of SARS-CoV-2 circulation, associated illnesses, hospitalizations, and deaths remain elevated but decreased during the week ending January 16, 2021. Recent declines in all indicators should be interpreted with caution as reporting delays increased due to the holidays and a rise in the number of COVID-19 illnesses. Downward trends may change as more data are received.  Both COVID-19-associated hospitalizations and pneumonia, influenza and COVID-19 (PIC) mortality for the most recent weeks are expected to increase as more data are received.
+Download Chart Data excel icon[CSV – 2 KB]
+Virus: Public Health, Commercial and Clinical LaboratoriesNationally, the overall percentage of respiratory specimens testing positive for SARS-CoV-2, the virus causing COVID-19, decreased from 14.7% during week 1 to 11.9% during week 2. Percent positivity decreased among all age groups and in all ten Health and Human Services (HHS) regionsexternal icon.
+Mild/Moderate Illness: Outpatient and Emergency Department VisitsNationally, the percentage of visits to outpatient providers or emergency departments (EDs) decreased for COVID-like illness (CLI) and influenza-like illness (ILI) during week 2 compared with week 1. Nine of ten surveillance regions reported a decrease in at least one indicator of mild/moderate illness (CLI/ILI) this week, while one region reported a stable (change of ≤0.1%) level of mild/moderate illness.
+Severe Disease: Hospitalizations and DeathsThe overall weekly hospitalization rate remains elevated. While the rate reached its highest point during the week ending December 12, 2020 (Week 50) at 17.8 per 100,000, rates in recent weeks are likely to increase as additional data are reported.  Based on death certificate data, the percentage of deaths attributed to pneumonia, influenza or COVID-19 (PIC) for week 2 was 14.7%, and it remains above the epidemic threshold. Longer delays in reporting of hospitalization and mortality data may occur due to the holidays and the large number of COVID-19 illnesses occurring in recent weeks.
+All data are preliminary and may change as more reports are received. A description of the surveillance systems summarized in COVIDView, including methodology and detailed descriptions of each data component, is available on the surveillance methods page.
+Key Points
+The holidays during weeks 52, 53, and 2 and increases in the number of COVID-19 illnesses have affected data reporting and health care seeking behavior in multiple ways; therefore, data from recent weeks should be interpreted with caution because they may change more than usual as additional data for those weeks are received.
+Nationally, the overall percentage of respiratory specimens testing positive for SARS-CoV-2 decreased during week 2 (11.9%) compared with week 1 (14.7%). Percent positivity decreased in all ten HHS surveillance regions and among all age groups.
+For nine of ten HHS regions (Region 2 [New Jersey/New York/Puerto Rico], 3 [Mid-Atlantic], 4 [Southeast], 5 [Midwest], 6 [South Central], 7 [Central], 8 [Mountain], 9 [South/West Central] and 10 [Pacific Northwest]), percent positivity decreased over the past two weeks.
+Percent positivity in Region 1 [New England] is showing a one week decline.
+Surveillance indicators of mild to moderate illness at the national level declined for both CLI and ILI during week 2 compared to week 1 but had shown increasing trends from late September 2020 through early January 2021.
+All ten HHS regions reported a decrease in at least one indicator of mild to moderate illness (CLI and/or ILI) during week 2 compared with week 1, and six HHS regions (Regions 1 [New England], 5 [Midwest], 6 [South Central], 7 [Central], 8 [Mountain] and 10 [Pacific Northwest]) have reported a decreasing trend in all three indicators for at least two weeks.
+The overall cumulative COVID-19-associated hospitalization rate through the week ending January 16, 2021, was 380.3 hospitalizations per 100,000 population.
+The overall weekly hospitalization rate remains elevated and above earlier peaks in the pandemic. While the rate reached its highest point during the week ending December 12, 2020 (Week 50) at 17.8 per 100,000, rates in recent weeks are likely to increase as additional data are reported.
+When examining age-adjusted hospitalization rates by race and ethnicity, compared with non-Hispanic White persons, hospitalization rates were 3.2 times higher among Hispanic or Latino persons and Non-Hispanic American Indian or Alaska Native persons, and 2.9 times higher among non-Hispanic Black persons.
+The percentage of deaths due to PIC increased from the beginning of October through early December (28.0%), exceeding the percentage of deaths due to PIC observed during both April and August peaks, when percentage of deaths due to PIC reached 27.7% and 17.2%, respectively.
+Nationally, the trend in the weekly percentage of deaths due to PIC has decreased since mid-December and is expected to increase for these weeks as additional death certificates are processed.
+Due to the large number of deaths reported in recent weeks and during the holidays, the change may be larger than usual.
+U.S. Virologic SurveillanceBased on data reported to CDC by public health laboratories and a subset of clinical and commercial laboratories in the United States, 108,634,448 specimens were tested for SARS-CoV-2 using a molecular assay since March 1, 2020. The percentage of specimens testing positive for SARS-CoV-2 each week, based on week of specimen collection, are summarized below.
+Nationally, 346,341 (11.9%) of 2,922,707 specimens tested for SARS-CoV-2 for diagnostic purposes were positive during week 2. This is a decrease compared with week 1, during which 14.7% of specimens tested were positive. The percentage of specimens testing positive decreased among all age groups.
+*Note: Different laboratory types came on board with testing during different weeks. This graph includes public health laboratory data beginning in week 10, clinical laboratory data beginning in week 11, and commercial laboratory data beginning in week 14.
+View Data Table
+During week 2 compared with week 1, the percentage of specimens testing positive for SARS-CoV-2 decreased in all HHS regions.
+Additional virologic surveillance information: Surveillance Methods
+Outpatient/Emergency Department IllnessTwo syndromic surveillance systems, the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) and the National Syndromic Surveillance Program (NSSP), are being used to monitor trends in outpatient and emergency department (ED) visits that may be associated with COVID-19 illness. Each system monitors activity in a slightly different set of providers/facilities and uses a slightly different set of symptoms that may be associated with SARS-CoV-2 virus infection. ILINet provides information about visits to outpatient providers or emergency departments for influenza-like illness (ILI: fever plus cough and/or sore throat) and NSSP provides information about visits to EDs for ILI and COVID-like illness (CLI: fever plus cough and/or shortness of breath or difficulty breathing). Some EDs contribute ILI data to both ILINet and NSSP. Both systems are currently being affected by changes in health care seeking behavior, including increased use of telemedicine and increased social distancing. These changes affect the numbers of people seeking care in the outpatient and ED settings. Syndromic data, including CLI and ILI, should be interpreted with caution and should be evaluated in combination with other sources of surveillance data, especially laboratory testing results, to obtain a complete and accurate picture of respiratory illness.
+Nationally, the overall percentages of visits to outpatient providers or EDs decreased for ILI and CLI during week 2 compared with week 1. During week 2, the percentages of ED visits captured in NSSP for CLI and ILI were 6.8% and 1.1%, respectively. In ILINet, 1.4% of visits reported during week 2 were for ILI, which is also a decrease compared with week 1 and below the national baseline for the 40th consecutive week. This level of ILI is lower than is typical for ILINet during this time of year.
+resize iconView LargerClosedownload iconDownload Image[GIF]
+View Data Table
+The percentages of visits for ILI reported in ILINet in week 2 increased for one age group (0–4 years) and decreased or remained stable (change of ≤0.1%) for the remaining age groups (5–24 years, 25–49 years, 50–64 years, and 65 years and older) compared with week 1.
+resize iconView LargerClosedownload iconDownload Image[GIF]
+View Data Table
+On a regional levelexternal icon, nine regions (Regions 1 [New England], 3 [Mid-Atlantic], 4 [Southeast], 5 [Midwest], 6 [South Central], 7 [Central], 8 [Mountain], 9 [South/West Coast], and 10 [Pacific Northwest]) reported a decrease in at least one indicator of mild to moderate illness (CLI and/or ILI) during week 2 compared with week 1. The remaining region (Region 2 [New Jersey/New York/Puerto Rico]) reported a stable (change of ≤0.1%) level of mild to moderate illness during week 2 compared with week 1; however, five of these regions (Regions 1 [New England], 2 [New Jersey/New York/Puerto Rico], 3 [Mid-Atlantic], 4 [Southeast] and 9 [South/West Coast]) have reported an increasing trend in at least one of these indicators during recent weeks.
+ILI Activity Levels
+Data collected in ILINet are used to produce a measure of ILI activity for all 50 states, Puerto Rico, the U.S. Virgin Islands, the District of Columbia, New York City and for each core-based statistical area (CBSA) where at least one provider is located. The mean reported percentage of visits due to ILI for the current week is compared with the mean reported during non-influenza weeks, and the activity levels correspond to the number of standard deviations below, at, or above the mean.
+The number of jurisdictions at each activity level during week 2 and the previous week are summarized in the table below.
+ILI Activity Levels
+Activity Level
+Number of Jurisdictions
+Number of CBSAs
+Week 2 (Week ending  Jan. 16, 2021)
+Week 1 (Week ending  Jan. 9, 2021)
+Week 2 (Week ending  Jan. 16, 2021)
+Week 1 (Week ending  Jan. 9, 2021)
+Very High
+0
+0
+1
+2
+High
+0
+0
+2
+2
+Moderate
+0
+0
+5
+12
+Low
+1
+3
+30
+50
+Minimal
+53
+51
+565
+560
+Insufficient Data
+1
+1
+326
+303
+*Note: Data collected in ILINet may disproportionally represent certain populations within a state and may not accurately depict the full picture of respiratory disease activity for the whole state. Differences in the data presented here by CDC and independently by some state health departments likely represent differing levels of data completeness with data presented by the state likely being the more complete.
+Additional information about medically attended outpatient and emergency department visits for ILI and CLI: Surveillance Methods
+HospitalizationsThe COVID-19-Associated Hospitalization Surveillance Network (COVID-NET) conducts population-based surveillance for laboratory-confirmed COVID-19-associated hospitalizations in select counties participating in the Emerging Infections Program (EIP) and the Influenza Hospitalization Surveillance Project (IHSP).
+A total of 124,006 laboratory-confirmed COVID-19-associated hospitalizations were reported by sites between March 1, 2020, and January 16, 2021. The overall cumulative hospitalization rate was 380.3 per 100,000 population.  The overall weekly hospitalization rate remains elevated and higher than earlier peaks in the pandemic. While the rate reached its highest point during the week ending December 12, 2020 (Week 50) at 17.8 per 100,000, rates in recent weeks are likely to increase as additional data are reported.
+resize iconView LargerClosedownload iconDownload Image[GIF]
+1Additional hospitalization rate data by age group are available.
+Among the 124,006 laboratory-confirmed COVID-19-associated hospitalizations, 121,689 (98.1%) had information on race and ethnicity, while collection of race and ethnicity was still pending for 2,317 (1.9%) cases. When examining age-adjusted hospitalization rates by race and ethnicity, compared with non-Hispanic White persons, hospitalization rates were 3.2 times higher among Hispanic or Latino persons and Non-Hispanic American Indian or Alaska Native persons, and 2.9 times higher among non-Hispanic Black persons.
+When examining age-stratified crude hospitalization rates by race and ethnicity, compared with non-Hispanic White persons in the same age group, crude hospitalization rates were 4.2 times higher among Hispanic or Latino persons aged 0–17 years; 5.7 times higher among non-Hispanic American Indian or Alaska Native persons aged 18–49 years; 4.0 times higher among non-Hispanic American Indian or Alaska Native persons and Hispanic or Latino persons aged 50–64 years; and 2.3 times higher among non-Hispanic Black persons aged ≥ 65 years.
+Hospitalization rates per 100,000 population
+by age and race and ethnicity –  COVID-NET,
+March 1, 2020-January 16, 2021
+Age Category
+Non-Hispanic
+American Indian or Alaska Native
+Non-Hispanic Black
+Hispanic or Latino
+Non-Hispanic Asian or Pacific Islander
+Non-Hispanic White
+Rate1
+Rate Ratio2,3
+Rate1
+Rate Ratio2,3
+Rate1
+Rate Ratio2,3
+Rate1
+Rate Ratio2,3
+Rate1
+Rate Ratio2,3
+0—17 years
+29.2
+2.6
+36.8
+3.3
+46.8
+4.2
+15.9
+1.4
+11.1
+1.0
+18—49 years
+516.0
+5.7
+348.5
+3.9
+485.8
+5.4
+116.7
+1.3
+89.8
+1.0
+50—64 years
+1164.5
+4.0
+1007.8
+3.5
+1161.2
+4.0
+360.0
+1.2
+289.9
+1.0
+65+ years
+1715.9
+2.0
+2009.1
+2.3
+1889.2
+2.2
+777.8
+0.9
+870.9
+1.0
+Overall rate4 (age-adjusted)
+716.4
+3.2
+658.3
+2.9
+726.9
+3.2
+238.2
+1.1
+224.4
+1.0
+1 COVID-19-associated hospitalization rates by race and ethnicity are calculated using COVID-NET hospitalizations with known race and ethnicity for the numerator and NCHS bridged-race population estimates for the denominator.
+2 For each age category, rate ratios are the ratios between crude hospitalization rates within each racial and ethnic group and the crude hospitalization rate among non-Hispanic White persons in the same age category.
+3 The highest rate ratio in each age category is presented in bold.
+4 Overall rates are adjusted to account for differences in age distributions within race and ethnicity strata in the COVID-NET catchment area; the age strata used for the adjustment include 0–17, 18–49, 50–64, 65-74, 75-84 and 85+ years.
+Non-Hispanic White persons and non-Hispanic Black persons represented the highest proportions of hospitalizations reported to COVID-NET, followed by Hispanic or Latino, non-Hispanic Asian or Pacific Islander, and non-Hispanic American Indian or Alaska Native persons. However, some racial and ethnic groups are disproportionately represented among hospitalizations compared with the overall population of the catchment area. Prevalence ratios were highest among non-Hispanic American Indian or Alaska Native persons, followed by non-Hispanic Black persons and Hispanic or Latino persons.
+Comparison of proportions of COVID-19-associated hospitalizations
+by race and ethnicity, COVID-NET,
+March 1, 2020–January 16, 2021
+Non-Hispanic American Indian or Alaska Native
+Non-Hispanic Black
+Hispanic or Latino
+Non-Hispanic Asian or Pacific Islander
+Non-Hispanic White
+Proportion of COVID-NET hospitalizations1
+1.1%
+27.0%
+19.8%
+5.1%
+41.0%
+Proportion of population in COVID-NET catchment area
+0.7%
+17.9%
+14.1%
+8.9%
+58.5%
+Prevalence ratios2
+1.6
+1.5
+1.4
+0.6
+0.7
+1Persons of multiple races (0.3%) or unknown race and ethnicity (5.6%) are not represented in the table but are included as part of the denominator.
+2 Prevalence ratio is calculated as the ratio of the proportion of COVID-NET hospitalizations over the proportion of population in COVID-NET catchment area.
+For underlying medical conditions, data were restricted to cases reported during March 1–October 31, 2020, due to delays in reporting. During this time frame, sampling was conducted among hospitalized adults; therefore, weighted percentages are reported. No sampling was conducted among hospitalized children. Among 15,979 sampled adults hospitalized during March 1–October 31 with information on underlying medical conditions, 90.6% had at least one reported underlying medical condition. The most reported underlying medical conditions were hypertension (55.8%), obesity (48.5%), metabolic disease (41.2%), and cardiovascular disease (32.5%). Among 985 children hospitalized during March 1–October 31 with information on underlying conditions, 52.0% had at least one reported underlying medical condition. The most reported underlying medical conditions were obesity (37.5%), neurologic disease (13.3%), and asthma (11.3%).
+Additional data on demographics, signs and symptoms at admission, underlying medical conditions, interventions, outcomes, and discharge diagnoses, stratified by age, sex, and race and ethnicity, are available.
+Additional hospitalization surveillance information:
+Surveillance Methods  | Additional rate data  |  Additional demographic and clinical data
+Mortality SurveillanceThe National Center for Health Statistics (NCHS) collects death certificate data from vital statistics offices for all deaths occurring in the United States. Based on death certificate data available on January 21, 2021, the percentage of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) during week 2 was 14.7%, remains above the epidemic threshold of 7.0% and is expected to increase as more death certificates are processed. Among the 2,799 PIC deaths reported for week 2, 1,988 had COVID-19 listed as an underlying or contributing cause of death on the death certificate and four listed influenza, indicating that the recent increase in PIC mortality is due primarily to COVID-19 and not influenza.
+The weekly percentage of deaths due to PIC reached the highest point in the pandemic during the week ending December 12 (28.0%). Data for the past five weeks show a declining trend in the percentage of deaths due to PIC compared to the December peak, but that is expected to change as additional death certificates are processed. Weekly mortality surveillance data include a combination of machine coded and manually coded causes of death collected from death certificates. The percentage of deaths due to PIC is higher among manually coded records than more rapidly available machine coded records. Because of additional time needed for manual coding, the initially reported PIC percentages are likely to increase as more data are received and processed. The lag in availability of manually coded data increased during the holiday weeks at the end of 2020, and because of the large numbers of deaths reported during recent weeks, the delay in availability of manually coded data continues to increase. Weeks for which the largest changes in the percentage of deaths due to PIC are expected are highlighted in gray in the figure below and should be interpreted with caution.
+resize iconView LargerClosedownload iconDownload Image[GIF]
+*Data during recent weeks are incomplete because of the lag in time between when the death occurred and when the death certificate is completed, submitted to NCHS and processed for reporting purposes. It is possible that a death certificate includes both influenza and COVID as a cause of death; therefore, the number of influenza and COVID coded deaths may not be mutually exclusive.
+View Data Table
+Additional NCHS mortality surveillance information: Surveillance Methods  | Provisional Death Counts for COVID-19
+More Information
+Purpose and Methods
+Past Weekly Reports

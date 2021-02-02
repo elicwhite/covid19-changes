@@ -36,6 +36,7 @@ export default {
   '20-01-30': raw('../cdcupdates/management/20-01-30.txt'),
   '20-01-31': raw('../cdcupdates/management/20-01-31.txt'),
   '20-02-01': raw('../cdcupdates/management/20-02-01.txt'),
+  '20-02-02': raw('../cdcupdates/management/20-02-02.txt'),
   '20-02-12': raw('../cdcupdates/management/20-02-12.txt'),
   '20-02-26': raw('../cdcupdates/management/20-02-26.txt'),
   '20-02-29': raw('../cdcupdates/management/20-02-29.txt'),

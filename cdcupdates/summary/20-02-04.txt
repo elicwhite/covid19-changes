@@ -3,6 +3,7 @@ Updated Jan. 29, 2021
 Print
 Minus
 Related Pages
+Starting Friday, February 12, 2021, COVIDView will be replaced with the COVID Data Tracker Weekly Review. This new webpage and newsletter will highlight key data from CDC’s COVID Data Tracker, narrative interpretations of the data, and visualizations from the week. The new Weekly Review will also summarize important trends in the pandemic and bring together CDC data and reporting in a centralized location. It represents the extensive data that CDC uses to track the pandemic on a daily basis and will incorporate additional data sources in the future. Sign up to have the COVID Data Tracker Weekly Review delivered to your inbox every week.
 Download Weekly Summary pdf icon[897 KB, 11 Pages]
 Key Updates for Week 3, ending January 23, 2021Nationally, surveillance indicators tracking levels of SARS-CoV-2 circulation, associated illnesses, and hospitalizations remain elevated but show decreasing trends in recent weeks. However, recent declines in these indicators should be interpreted with caution as reporting delays increased due to the holidays and a rise in the number of COVID-19 illnesses. Both COVID-19-associated hospitalizations and pneumonia, influenza and COVID-19 (PIC) mortality for the most recent weeks are expected to increase as more data are received.
 Download Chart Data excel icon[CSV – 2 KB]

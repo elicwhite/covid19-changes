@@ -1,4 +1,4 @@
-COVIDView: A Weekly Surveillance Summary of U.S. COVID-19 Activity
+COVID Data Tracker Weekly Review
 Updated Feb. 12, 2021
 Print
 Minus
@@ -59,7 +59,7 @@ High
 -14.4%
 Change in 7-Day Average
 Daily Trends in Number of New COVID-19 Hospital Admissions in the United States Reported to CDC
-External Link Iconexternal iconMore data.external icon  Data for most recent week are affected by incomplete reporting (grey shaded area).
+More data.external icon  Data for most recent week are affected by incomplete reporting (grey shaded area).
 resize iconView Larger
 Close
 More data.external icon  Data for most recent week are affected by incomplete reporting (grey shaded area).

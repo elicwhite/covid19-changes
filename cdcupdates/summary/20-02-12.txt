@@ -1,209 +1,120 @@
 COVIDView: A Weekly Surveillance Summary of U.S. COVID-19 Activity
-Updated Feb. 5, 2021
+Updated Feb. 12, 2021
 Print
 Minus
 Related Pages
-Starting Friday, February 12, 2021, COVIDView will be replaced with the COVID Data Tracker Weekly Review. This new webpage and newsletter will highlight key data from CDC’s COVID Data Tracker, narrative interpretations of the data, and visualizations from the week. The new Weekly Review will also summarize important trends in the pandemic and bring together CDC data and reporting in a centralized location. It represents the extensive data that CDC uses to track the pandemic on a daily basis and will incorporate additional data sources in the future. Sign up to have the COVID Data Tracker Weekly Review delivered to your inbox every week.
-Download Weekly Summary pdf icon[981 KB, 11 Pages]
-Key Updates for Week 4, ending January 30, 2021Nationally, surveillance indicators tracking levels of SARS-CoV-2 circulation, associated illnesses, hospitalizations, and deaths remain elevated but show decreasing trends in recent weeks. Both COVID-19-associated hospitalizations and pneumonia, influenza, and COVID-19 (PIC) mortality for the most recent weeks may increase as more data are received.
-Download Chart Data excel icon[CSV – 2 KB]
-Virus: Public Health, Commercial and Clinical LaboratoriesNationally, the overall percentage of respiratory specimens testing positive for SARS-CoV-2, the virus causing COVID-19, decreased from 11.2% during week 3 to 9.7% during week 4. Percent positivity decreased in all ten Health and Human Services (HHS) regionsexternal icon and decreased among all age groups.
-Mild/Moderate Illness: Outpatient and Emergency Department VisitsNationally, the percentage of visits to outpatient providers or emergency departments (EDs) for COVID-like illness (CLI) and influenza-like illness (ILI) decreased during week 4 compared with week 3. All ten HHS regions reported a decrease in at least one indicator of mild/moderate illness.
-Severe Disease: Hospitalizations and DeathsFor the past three months, the overall weekly hospitalization rate has remained in an elevated plateau above earlier peaks in the pandemic. Rates in recent weeks are likely to increase as additional data are reported. Based on death certificate data, the percentage of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) for week 4 was 28.4%, and it remains above the epidemic threshold.
-All data are preliminary and may change as more reports are received. A description of the surveillance systems summarized in COVIDView, including methodology and detailed descriptions of each data component, is available on the surveillance methods page.
-Key Points
-Nationally, the overall percentage of respiratory specimens testing positive for SARS-CoV-2 decreased during week 4 (9.7%) compared with week 3 (11.2 %). The percent positivity has declined nationally over the past four weeks since the week ending January 2, 2021 (15.4%).
-Percent positivity decreased among all age groups in all ten HHS regions.
-For nine of ten HHS regions, (Regions 2 [New Jersey/New York/Puerto Rico], 3 [Mid-Atlantic], 4 [Southeast], 5 [Midwest], 6 [South Central], 7 [Central], 8 [Mountain], 9 [South/West Central], and 10 [Pacific Northwest]), percent positivity decreased over the past four weeks.
-Percent positivity in Region 1 [New England] is showing a 3 week decline.
-Surveillance indicators of mild to moderate illness at the national level declined or remained stable (<0.1% change) during recent weeks. CLI decreased during the past three weeks after increasing from late September 2020 through early January 2021. ILI increased from October through December, and has shown a decreasing trend during January.
-All ten HHS regions reported a decrease in at least one indicator of mild to moderate illness (CLI and/or ILI) during week 4 compared with week 3 and have a reported an overall decreasing trend in all three indicators of mild to moderate illness during the past several weeks.
-The overall cumulative COVID-19-associated hospitalization rate through the week ending January 30, 2021 was 417.2 hospitalizations per 100,000 population.
-For the past three months, the overall weekly hospitalization rate has remained in an elevated plateau above earlier peaks in the pandemic. Rates in recent weeks are likely to increase as additional data are reported.
-When examining age-adjusted hospitalization rates by race and ethnicity, compared with non-Hispanic White persons, cumulative hospitalization rates were 3.6 times higher among non-Hispanic American Indian or Alaska Native persons, 3.2 times higher among Hispanic or Latino persons, and 2.9 times higher among non-Hispanic Black persons.
-The percentage of deaths due to PIC increased from the beginning of October through the week ending January 9, 2021 (32.7%). Mortality attributed to PIC exceeded the percentage of deaths due to PIC observed at any other point during the pandemic for nine consecutive weeks from early December through the week ending January 30, 2021.
-Nationally, the weekly percentage of deaths due to PIC decreased from week 3 (31.0%) to week 4 (28.4%) and has been decreasing since the first week of January. Data from recent weeks may change as additional data are received.
-U.S. Virologic SurveillanceBased on data reported to CDC by public health laboratories and a subset of clinical and commercial laboratories in the United States, 114,175,816 specimens were tested for SARS-CoV-2 using a molecular assay since March 1, 2020. The percentage of specimens testing positive for SARS-CoV-2 each week, based on week of specimen collection, are summarized below.
-Nationally, 230,277 (9.7%) of 2,375,248 specimens tested for SARS-CoV-2 for diagnostic purposes were positive during week 4. This is a decrease compared with week 3, during which 11.2% of specimens tested were positive. The percentage of specimens testing positive decreased among all age groups.
-*Note: Different laboratory types came on board with testing during different weeks. This graph includes public health laboratory data beginning in week 10, clinical laboratory data beginning in week 11, and commercial laboratory data beginning in week 14.
-View Data Table
-During week 4 compared with week 3, the percentage of specimens testing positive for SARS-CoV-2 decreased in all HHS regions.
-Additional virologic surveillance information: Surveillance Methods
-Outpatient/Emergency Department IllnessTwo syndromic surveillance systems, the U.S. Outpatient Influenza-like Illness Surveillance Network (ILINet) and the National Syndromic Surveillance Program (NSSP), are being used to monitor trends in outpatient and emergency department (ED) visits that may be associated with COVID-19 illness. Each system monitors activity in a slightly different set of providers/facilities and uses a slightly different set of symptoms that may be associated with SARS-CoV-2 virus infection. ILINet provides information about visits to outpatient providers or emergency departments for influenza-like illness (ILI: fever plus cough and/or sore throat) and NSSP provides information about visits to EDs for ILI and COVID-like illness (CLI: fever plus cough and/or shortness of breath or difficulty breathing). Some EDs contribute ILI data to both ILINet and NSSP. Both systems currently are being affected by changes in health care seeking behavior, including increased use of telemedicine and increased social distancing. These changes affect the numbers of people seeking care in the outpatient and ED settings. Syndromic data, including CLI and ILI, should be interpreted with caution and should be evaluated in combination with other sources of surveillance data, especially laboratory testing results, to obtain a complete and accurate picture of respiratory illness.
-Nationally, the overall percentages of visits to EDs decreased for CLI and remained stable (change ≤0.1%) for ILI during week 4 compared with week 3. During week 4, the percentages of ED visits captured in NSSP for CLI and ILI were 5.1% and 1.0%, respectively. In ILINet, 1.1% of visits to outpatient providers or EDs reported during week 4 were for ILI, decreasing compared with week 3 and below the national baseline for the 42nd consecutive week. This level of ILI is lower than is typical for ILINet during this time of year.
-resize iconView LargerClosedownload iconDownload Image[GIF]
-View Data Table
-The percentages of visits for ILI reported in ILINet in week 4 remained stable (change of ≤0.1%) for all age groups (0–4 years, 5–24 years, 25–49 years, 50–64 years, and 65 years and older) compared with week 3. However, during the past three weeks there has been a slightly increasing trend among those 0–4 years and a slightly decreasing trend among the remaining age groups.
-resize iconView LargerClosedownload iconDownload Image[GIF]
-View Data Table
-On a regional levelexternal icon, during week 4 compared with week 3, all ten regions reported a decreasing level of CLI and a stable (change of ≤0.1%) or decreasing level of ILI.
-ILI Activity Levels
-Data collected in ILINet are used to produce a measure of ILI activity for all 50 states, Puerto Rico, the U.S. Virgin Islands, the District of Columbia, New York City, and for each core-based statistical area (CBSA) where at least one provider is located. The mean reported percentage of visits due to ILI for the current week is compared with the mean reported during non-influenza weeks, and the activity levels correspond to the number of standard deviations below, at, or above the mean.
-The number of jurisdictions at each activity level during week 4 and the previous week are summarized in the table below.
-ILI Activity Levels
-Activity Level
-Number of Jurisdictions
-Number of CBSAs
-Week 4 (Week ending  Jan. 30, 2021)
-Week 3 (Week ending  Jan. 23, 2021)
-Week 4 (Week ending  Jan. 30, 2021)
-Week 3 (Week ending  Jan. 23, 2021)
-Very High
-0
-0
-0
-0
+Subscribe to the Weekly ReviewInterpretative Summary for February 12, 2021
+“Better, but not good enough”
+Don’t let your guard (or mask) down. COVID-19 cases, hospitalizations, and deaths continue to trend downward. But even with that progress, the daily numbers of new cases and deaths remain much higher than the first two peaks of the pandemic in the spring and summer of 2020.
+The COVID-19 pandemic has crossed the one-year mark. About 27 million cases and about 470,000 deaths have been reported to CDC since the first case was identified in the United States on January 20, 2020. The numbers of COVID-19 cases, hospitalizations, and deaths vary substantially below the national level, and to help explain these differences future versions of COVID Data Tracker Weekly Review will present surveillance trends at the regional, state, or county levels. A national milestone in vaccinations was reached this week on February 11 with about 34.7 million people receiving at least one dose of vaccine, which is 10.5% of the U.S. population. This is terrific progress.
+CDC’s goal is to get the pandemic under control as quickly as possible, both to save lives and to help people get back to the many important things they need and want to do. The emergence of variants, such as B.1.1.7, reminds us that we all need to re-double our efforts to prevent the spread of COVID-19. It is more important than ever that we all wear well-fitting masks, stay at least 6 feet apart from people we don’t live with, avoid crowds and poorly ventilated spaces, and wash our hands often. These practices done well by all of us, together with the continued effort to vaccinate more people, can help end this pandemic.
+Reported CasesCompared with a national peak of 314,093 cases reported to CDC on January 8, 2021, the daily number of cases has declined by 69%. The current 23% decrease in the 7-day average number of daily cases reported also provides an encouraging sign of recent progress. Even with these declines, however, the 97,309 cases reported on February 11 remains higher than what was seen during either of the first two peaks in the pandemic.
+97,309
+New Cases Reported
+104,217
+Current 7-Day Average
+27,127,858
+Total Cases Reported
+134,524
+Prior 7-Day Average
+314,093
 High
-0
-0
-2
-3
-Moderate
-0
-0
+-22.5%
+Change in 7-Day Average
+Daily Trends in COVID-19 Cases in the United States Reported to CDC
+7-Day moving average
+More data.
+resize iconView Larger
+Close
+More data.
+download iconDownload Image[JPG]
+More Case DataVaccinationsThe U.S. COVID-19 Vaccination Program began December 14. As of February 11, 2021, 46.4 million vaccine doses have been administered. Overall, about 34.7 million people have received at least one dose of vaccine, which is 10.5% of the U.S. population, and about 11.2 million people have received two doses of vaccine, which is 3.4% of the U.S. population. As of February 11, the 7-day average number of administered vaccine doses reported to CDC per day was 1.6 million, which was a 24% acceleration from the previous week.
+46,390,270
+Vaccines Administered
+46,390,270
+Vaccines Administered
+34,732,964
+People who received 1 or more doses
+11,188,782
+People who received 2 doses
+Daily Change in Number of COVID-19 Vaccinations in the United States Reported to CDC
+7-Day moving average
+More data.
+resize iconView Larger
+Close
+More data.
+download iconDownload Image[JPG]
+More Vaccination Data
+New Hospital AdmissionsThe numbers of new hospital admissions of patients with confirmed  COVID-19 have decreased from the national peak of 18,081 admissions on January 5, 2021 to 8,957 admissions on February 9 (a 50% decrease). The average number of daily admissions fell by 14% over the past week.
+8,957
+New Admissions
+9,279
+Current 7-Day Average
+1,690,996
+Total New Admissions
+10,845
+Prior 7-Day Average
+18,081
+High
+-14.4%
+Change in 7-Day Average
+Daily Trends in Number of New COVID-19 Hospital Admissions in the United States Reported to CDC
+External Link Iconexternal iconMore data.external icon  Data for most recent week are affected by incomplete reporting (grey shaded area).
+resize iconView Larger
+Close
+More data.external icon  Data for most recent week are affected by incomplete reporting (grey shaded area).
+download iconDownload Image[PNG]
+More Hospital Dataexternal icon
+DeathsNationally, the number of COVID-19 deaths peaked on February 4, 2021 at 5,189 deaths reported. Though the 3,645 deaths reported on February 11 is substantially lower (30% decrease), the current change in the 7-day average number of deaths was negligible (1.4% decrease). Daily mortality remains higher than in previous waves of the pandemic.
+3,645
+New Deaths Reported
+3,013
+Current 7-Day Average
+470,110
+Total Deaths Reported
+3,056
+Prior 7-Day Average
+5,189
+High
+-1.4%
+Change in 7-Day Average
+Daily Trends in Number of COVID-19 Deaths in the United States Reported to CDC
+7-Day moving average
+More data.
+resize iconView Larger
+Close
+More data.
+download iconDownload Image[JPG]
+More Death Data
+SARS-CoV-2 VariantsThree SARS-CoV-2 (the virus that causes COVID-19) variants of concern have been detected in the United States: B.1.1.7, B.1.351, and P.1. A total of 981 B.1.1.7 variant cases have been detected in 37 states, which is a 61% increase in the number of B.1.1.7 cases reported by CDC compared with the previous week (611 cases). Thirteen cases with B.1.351 in five states and three cases with P.1 in two other states have also been detected in the United States. CDC and partners are increasing the numbers of specimens sequenced in laboratories around the country. Studies to determine whether variants cause more severe illness or are likely to evade immunity are underway. For technical description, see https://www.cdc.gov/coronavirus/2019-ncov/variants/index.html.
+Variant
+Reported Cases in US
+Number of States with ≥1 Case Reported
+Variant
+B.1.1.7
+Reported Cases in US
+981
+Number of States with ≥1 Case Reported
+37
+Variant
+B.1.351
+Reported Cases in US
+13
+Number of States with ≥1 Case Reported
 5
-4
-Low
-0
-1
-19
-22
-Minimal
-54
-53
-587
-602
-Insufficient Data
-1
-1
-316
-298
-*Note: Data collected in ILINet may disproportionally represent certain populations within a state and may not accurately depict the full picture of respiratory disease activity for the whole state. Differences in the data presented here by CDC and independently by some state health departments likely represent differing levels of data completeness with data presented by the state likely being the more complete.
-Additional information about medically attended outpatient and emergency department visits for ILI and CLI: Surveillance Methods
-HospitalizationsThe COVID-19-Associated Hospitalization Surveillance Network (COVID-NET) conducts population-based surveillance for laboratory-confirmed COVID-19-associated hospitalizations in select counties participating in the Emerging Infections Program (EIP) and the Influenza Hospitalization Surveillance Project (IHSP).
-A total of 136,007 laboratory-confirmed COVID-19-associated hospitalizations were reported by sites between March 1, 2020, and January 30, 2021. The overall cumulative hospitalization rate was 417.2 per 100,000 population. For the past three months, since the week ending November 7, 2020 (MMWR Week 45), the overall weekly hospitalization rate has remained in an elevated plateau above earlier peaks in the pandemic. The hospitalization rates for the most recent week are expected to be higher as additional data are reported in future weeks.
-resize iconView LargerClosedownload iconDownload Image[GIF]
-1Additional hospitalization rate data by age group are available.
-Among the 136,007 laboratory-confirmed COVID-19-associated hospitalizations, 132,932 (97.7%) had information on race and ethnicity, while collection of race and ethnicity was still pending for 3,075 (2.3%) cases. When examining age-adjusted hospitalization rates by race and ethnicity, compared with non-Hispanic White persons, hospitalization rates were 3.6 times higher among non-Hispanic American Indian or Alaska Native persons, 3.2 times higher among Hispanic or Latino persons, and 2.9 times higher among non-Hispanic Black persons.
-When examining age-stratified crude hospitalization rates by race and ethnicity, compared with non-Hispanic White persons in the same age group, crude hospitalization rates were 4.0 times higher among Hispanic or Latino persons aged 0–17 years,6.5 times higher among Non-Hispanic American Indian or Alaska Native persons aged 18–49 years,4.6 times higher among non-Hispanic American Indian or Alaska Native persons aged 50–64 years, and 2.3 times higher among non-Hispanic American Indian or Alaska Native and non-Hispanic Black persons aged  >65 years.
-Hospitalization rates per 100,000 population
-by age and race and ethnicity –  COVID-NET,
-March 1, 2020-January 30, 2021
-Age Category
-Non-Hispanic
-American Indian or Alaska Native
-Non-Hispanic Black
-Hispanic or Latino
-Non-Hispanic Asian or Pacific Islander
-Non-Hispanic White
-Rate1
-Rate Ratio2,3
-Rate1
-Rate Ratio2,3
-Rate1
-Rate Ratio2,3
-Rate1
-Rate Ratio2,3
-Rate1
-Rate Ratio2,3
-0—17 years
-37.0
-2.8
-39.9
-3.1
-51.7
-4.0
-17.6
-1.4
-13.0
-1.0
-18—49 years
-638.0
-6.5
-372.7
-3.8
-518.7
-5.3
-123.3
-1.3
-98.5
-1.0
-50—64 years
-1454.2
-4.6
-1080.3
-3.4
-1255.5
-3.9
-390.6
-1.2
-318.5
-1.0
-65+ years
-2208.0
-2.3
-2173.7
-2.3
-2114.2
-2.2
-864.7
-0.9
-960.9
-1.0
-Overall rate4 (age-adjusted)
-901.7
-3.6
-708.4
-2.9
-794.0
-3.2
-260.2
-1.1
-247.3
-1.0
-1 COVID-19-associated hospitalization rates by race and ethnicity are calculated using COVID-NET hospitalizations with known race and ethnicity for the numerator and NCHS bridged-race population estimates for the denominator.
-2 For each age category, rate ratios are the ratios between crude hospitalization rates within each racial and ethnic group and the crude hospitalization rate among non-Hispanic White persons in the same age category.
-3 The highest rate ratio in each age category is presented in bold.
-4 Overall rates are adjusted to account for differences in age distributions within race and ethnicity strata in the COVID-NET catchment area; the age strata used for the adjustment include 0–17, 18–49, 50–64, 65-74, 75-84 and 85+ years.
-Non-Hispanic White persons and non-Hispanic Black persons represented the highest proportions of hospitalizations reported to COVID-NET, followed by Hispanic or Latino, non-Hispanic Asian or Pacific Islander, and non-Hispanic American Indian or Alaska Native persons. However, some racial and ethnic groups are disproportionately represented among hospitalizations compared with the overall population of the catchment area. Prevalence ratios were highest among non-Hispanic American Indian or Alaska Native persons, followed by non-Hispanic Black persons and Hispanic or Latino persons.
-Comparison of proportions of COVID-19-associated hospitalizations
-by race and ethnicity, COVID-NET,
-March 1, 2020–January 30, 2021
-Non-Hispanic American Indian or Alaska Native
-Non-Hispanic Black
-Hispanic or Latino
-Non-Hispanic Asian or Pacific Islander
-Non-Hispanic White
-Proportion of COVID-NET hospitalizations1
-1.3%
-26.6%
-19.6%
-5.1%
-41.4%
-Proportion of population in COVID-NET catchment area
-0.7%
-17.9%
-14.1%
-8.9%
-58.5%
-Prevalence ratios2
-1.9
-1.5
-1.4
-0.6
-0.7
-1Persons of multiple races (0.3%) or unknown race and ethnicity (5.6%) are not represented in the table but are included as part of the denominator.
-2 Prevalence ratio is calculated as the ratio of the proportion of COVID-NET hospitalizations over the proportion of population in COVID-NET catchment area.
-For underlying medical conditions, data were restricted to cases reported during March 1–November 30, 2020, due to delays in reporting. During this time frame, sampling was conducted among hospitalized adults; therefore, weighted percentages are reported. No sampling was conducted among hospitalized children. Among 17,452 sampled adults hospitalized during March 1–November 30 with information on underlying medical conditions, 90.9% had at least one reported underlying medical condition. The most reported underlying medical conditions were hypertension (56.1%), obesity (49.1%), metabolic disease (42.1%), which includes diabetes, and cardiovascular disease (33.2%). Among 1,369 children hospitalized during March 1–November 30, 2020 with information on underlying conditions, 52.7% had at least one reported underlying medical condition. The most reported underlying medical conditions were obesity (37.4%), neurologic disease (12.9%), and asthma (11.7%).
-Additional data on demographics, signs and symptoms at admission, underlying medical conditions, interventions, outcomes, and discharge diagnoses, stratified by age, sex, and race and ethnicity, are available.
-Additional hospitalization surveillance information:
-Surveillance Methods  | Additional rate data  |  Additional demographic and clinical data
-Mortality SurveillanceThe National Center for Health Statistics (NCHS) collects death certificate data from vital statistics offices for all deaths occurring in the United States. Based on death certificate data available on February 4, 2021, the percentage of deaths attributed to pneumonia, influenza, or COVID-19 (PIC) during week 4 was 28.4%; it remains above the epidemic threshold of 7.1%. This percentage is expected to increase as more death certificates are processed. Among the 6,424 PIC deaths reported for week 4, 5,648 had COVID-19 listed as an underlying or contributing cause of death on the death certificate and four listed influenza, indicating that the recent increase in PIC mortality is due primarily to COVID-19 and not influenza.
-The weekly percentage of deaths due to PIC reached the highest point in the pandemic during the week ending January 9, 2021 (32.7%), and exceeded the previous peak (27.7% in April 2020) for nine consecutive weeks through the current week. Data for the past three weeks show a declining trend in the percentage of deaths due to PIC compared to the December peak, but this percentage is expected to change as additional death certificates are processed. Weekly mortality surveillance data include a combination of machine coded and manually coded causes of death collected from death certificates. Prior to week 4 (the week ending January 30, 2021), the percentages of deaths due to (PIC) were higher among manually coded records than more rapidly available machine coded records. Improvements have been made to the machine coding process that allow for more COVID-19 related deaths to be machine coded, and going forward, the percentage of PIC deaths among machine coded and manually coded data are expected to be more similar. The data presented are preliminary and expected to change as more data are received and processed but the amount of change in the percentage of deaths due to PIC should be lower going forward. Weeks for which the largest changes in the percentage of deaths due to PIC may occur are highlighted in gray in the figure below and should be interpreted with caution.
-resize iconView LargerClosedownload iconDownload Image[GIF]
-*Data during recent weeks are incomplete because of the lag in time between when the death occurred and when the death certificate is completed, submitted to NCHS and processed for reporting purposes. It is possible that a death certificate includes both influenza and COVID as a cause of death; therefore, the number of influenza and COVID coded deaths may not be mutually exclusive.
-View Data Table
-Additional NCHS mortality surveillance information: Surveillance Methods  | Provisional Death Counts for COVID-19
-More Information
-Purpose and Methods
-Past Weekly Reports
+Variant
+P.1
+Reported Cases in US
+3
+Number of States with ≥1 Case Reported
+2
+Emerging Variant Cases of B.1.1.7 in the United States
+More data.
+resize iconView Larger
+Close
+More data.
+download iconDownload Image[PNG]
+More Variants Data
+Note on new format: Effective Friday, February 12, 2021, COVIDView has been replaced with this new COVID Data Tracker Weekly Review. This new webpage and newsletter include key visuals from the week and narrative interpretations using data from CDC’s COVID Data Tracker. Additional priority data will be added in future weeks, including race and ethnicity.
+The Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET) is an additional source for hospitalization data collected through a network of over 250 acute-care hospitals in 14 states (~10% of the U.S. population). Detailed data on patient demographics, including race/ethnicity, underlying medical conditions, medical interventions, and clinical outcomes, are collected using a standardized case reporting form.
+Other new data views on CDC’s website include county-specific summaries (under “Your Community” in Data Tracker), vaccination trends (under “Your Community” in Data Tracker), and information on SARS-CoV-2 variants.

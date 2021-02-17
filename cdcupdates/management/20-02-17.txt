@@ -140,7 +140,7 @@ Frequently Asked Questions on COVID-19 Testing at Laboratories
 Infection Control Guidance for Healthcare Professionals about COVID-19
 Interim Infection Prevention and Control Recommendations for Patients with Suspected or Confirmed Coronavirus Disease 2019 (COVID-19) or in Healthcare Settings
 Evaluation and Management Considerations for Neonates At Risk for COVID-19
-COVIDView: A Weekly Surveillance Summary of U.S. COVID-19 Activity
+COVID Data Tracker Weekly Review
 Additional resources
 World Health Organization. Interim Guidance on Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspectedexternal icon
 Surviving Sepsis Campaign: Guidelines on the Management of Critically Ill Adults with Coronavirus Disease 2019 (COVID-19)pdf iconexternal icon

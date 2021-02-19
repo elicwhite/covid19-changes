@@ -1,26 +1,63 @@
 COVID Data Tracker Weekly Review
-Updated Feb. 12, 2021
+Updated Feb. 19, 2021
 Print
 Minus
 Related Pages
-Subscribe to the Weekly ReviewInterpretative Summary for February 12, 2021
-“Better, but not good enough”
-Don’t let your guard (or mask) down. COVID-19 cases, hospitalizations, and deaths continue to trend downward. But even with that progress, the daily numbers of new cases and deaths remain much higher than the first two peaks of the pandemic in the spring and summer of 2020.
-The COVID-19 pandemic has crossed the one-year mark. About 27 million cases and about 470,000 deaths have been reported to CDC since the first case was identified in the United States on January 20, 2020. The numbers of COVID-19 cases, hospitalizations, and deaths vary substantially below the national level, and to help explain these differences future versions of COVID Data Tracker Weekly Review will present surveillance trends at the regional, state, or county levels. A national milestone in vaccinations was reached this week on February 11 with about 34.7 million people receiving at least one dose of vaccine, which is 10.5% of the U.S. population. This is terrific progress.
-CDC’s goal is to get the pandemic under control as quickly as possible, both to save lives and to help people get back to the many important things they need and want to do. The emergence of variants, such as B.1.1.7, reminds us that we all need to re-double our efforts to prevent the spread of COVID-19. It is more important than ever that we all wear well-fitting masks, stay at least 6 feet apart from people we don’t live with, avoid crowds and poorly ventilated spaces, and wash our hands often. These practices done well by all of us, together with the continued effort to vaccinate more people, can help end this pandemic.
-Reported CasesCompared with a national peak of 314,093 cases reported to CDC on January 8, 2021, the daily number of cases has declined by 69%. The current 23% decrease in the 7-day average number of daily cases reported also provides an encouraging sign of recent progress. Even with these declines, however, the 97,309 cases reported on February 11 remains higher than what was seen during either of the first two peaks in the pandemic.
-97,309
+Subscribe to the Weekly Review
+Interpretative Summary for February 19, 2021
+Stop variants by stopping the spread
+Viruses change (or mutate) all the time. While most changes do not affect how the virus behaves, every time a virus makes a copy of itself (or replicates) it has the potential to produce a variant virus that can spread more easily, cause more severe disease, or resist the body’s ability to fight them naturally or with vaccination. The best way to stop new variants from emerging is to stop the virus from spreading within our communities.
+Just as we are working to fight the COVID-19 pandemic, emerging variants are threatening progress. If one of the variants is able to evade the vaccine, our progress will be slowed or potentially reversed. Our window of opportunity to halt the pandemic is now.
+Three SARS-CoV-2 variants in particular have concerned global public health and healthcare leaders to date. This week, CDC published three reports on two of the variants. 1,2,3 Data from two new MMWR reports highlight how these variants present challenges both in the United States and internationally. One report showed that people in Minnesota with no recent travel to the United Kingdom (U.K.) were infected with the B.1.1.7 variant, first detected in the U.K. late last year. Another report found sharp increases in COVID-19 cases in Zambia that corresponded with an increase in infections caused by the variant that recently emerged in South Africa (the B.1.351 variant).
+By the time a variant is detected in a community, it may already be spreading. Proven strategies to prevent spread can limit the impact of these variants. We can stop variants by decreasing cases. Everyone should wear a well-fitting mask and follow CDC’s prevention recommendations.
+SARS-CoV-2 VariantsThree SARS-CoV-2 (the virus that causes COVID-19) variants of concern have been detected in the United States: B.1.1.7, B.1.351, and P.1.
+The B.1.1.7 variant was first detected in the United Kingdom in December 2020 and likely first emerged there in September 2020. Colorado reported the first U.S. case of the B.1.1.7 variant in late December 2020. Since then, B.1.1.7 has been detected in at least 42 jurisdictions. Preliminary data from the United Kingdom suggest that the B.1.1.7 variant spreads more easily and may cause more severe disease than previous variants of SARS-CoV-2.4
+The B.1.351 variant was first detected in the Republic of South Africa in December 2020, and likely first emerged there in October 2020. At least 35 countries, including the United States, have detected COVID-19 cases of infection with the B.1.351 variant. The first detected U.S. cases of infection with the B.1.351 variant occurred in South Carolina and Maryland in late January 2021 and have now been documented in at least 10 jurisdictions. Some data suggest that people previously infected with SARS-CoV-2 may have less immune protection if they are re-infected with the B.1.351 variant.
+The P.1 variant was first detected in Japan in travelers from Brazil in January 2021. Minnesota reported the first U.S. case of infection with the P.1 variant in January 2021 and P.1 has now been identified in Oklahoma, Maryland, and Florida.
+Modeling data have shown that a more contagious variant could lead to more cases, which would worsen the U.S. pandemic and reverse the recent decreases in numbers of new COVID-19 cases reported.5
+A total of 1,523 B.1.1.7 variant cases have been reported in 42 jurisdictions. Twenty-one cases with B.1.351 in 10 jurisdictions and five cases with P.1 in four other states have also been detected in the United States. CDC and partners are increasing the numbers of specimens sequenced in laboratories around the country. The number of variants reported will likely increase as more specimens are sequenced and if the frequency of variants increases. Studies to determine whether variants cause more severe illness or are likely to evade immunity are underway.
+Emerging Variant Cases of B.1.1.7 in the United States
+More data.
+resize iconView Larger
+Close
+More data.
+download iconDownload Image[PNG]
+More Variants Data
+Variant
+Reported Cases in US
+Number of States with ≥1 Case Reported
+Variant
+B.1.1.7
+Reported Cases in US
+1,523
+Number of States with ≥1 Case Reported
+42
+Variant
+B.1.351
+Reported Cases in US
+21
+Number of States with ≥1 Case Reported
+10
+Variant
+P.1
+Reported Cases in US
+5
+Number of States with ≥1 Case Reported
+4
+Reported CasesThere has been a five-week downward trend in cases. The highest 7-day moving average occurred on January 11, 2021 and was 249,048. The current 7-day average is 77,385 cases, which is a 68.9% decline. The 24.5% decrease in the 7-day average number of daily cases reported compared with the prior week also provides an encouraging sign of recent progress. Even with these declines, however, the 69,165 cases reported on February 17 remains higher than what was seen during either of the first two peaks in the pandemic.
+69,165
 New Cases Reported
-104,217
+77,385
 Current 7-Day Average
-27,127,858
+27,669,556
 Total Cases Reported
-134,524
+102,531
 Prior 7-Day Average
-314,093
-High
--22.5%
+314,972
+Peak*
+-24.5%
 Change in 7-Day Average
+*Highest peak for new cases in a single day (Jan. 8, 2021).
 Daily Trends in COVID-19 Cases in the United States Reported to CDC
 7-Day moving average
 More data.
@@ -28,14 +65,35 @@ resize iconView Larger
 Close
 More data.
 download iconDownload Image[JPG]
-More Case DataVaccinationsThe U.S. COVID-19 Vaccination Program began December 14. As of February 11, 2021, 46.4 million vaccine doses have been administered. Overall, about 34.7 million people have received at least one dose of vaccine, which is 10.5% of the U.S. population, and about 11.2 million people have received two doses of vaccine, which is 3.4% of the U.S. population. As of February 11, the 7-day average number of administered vaccine doses reported to CDC per day was 1.6 million, which was a 24% acceleration from the previous week.
-46,390,270
+More Case Data
+TestingPercent positivity continues to decline. The 7-day average of percent positivity from RT-PCR tests is now 5.9%. Six states or territories remain over 10% positivity. The 7-day average test volume for February 5–11, 2021 was 1,221,104, down 16% from 1,452,976 the prior 7 days.
+317,819,568
+Total Tests Reported
+1,221,104
+7-Day Average Test
+317,819,568
+Total Tests Reported
+5.9%
+7-Day Average % Positivity
+1,221,104
+7-Day Average Test
+-15.6%
+Change in 7-Day % Positivity
+COVID-19 Viral (RT-PCR) Laboratory Test 7-day Percent Positivity by State/Territory
+More data.
+resize iconView Larger
+Close
+More data.
+download iconDownload Image[JPG]
+More Testing Dataexternal icon
+VaccinationsThe U.S. COVID-19 Vaccination Program began December 14. As of February 18, 2021, 57.7 million vaccine doses have been administered. Overall, about 41.0 million people have received at least one dose of vaccine, which is 12.4% of the U.S. population, and about 16.2 million people have received two doses of vaccine, which is 4.9% of the U.S. population. As of February 18, the 7-day average number of administered vaccine doses reported to CDC per day was 1.6 million, which was a 1.4% acceleration from the previous week.
+57,737,767
 Vaccines Administered
-46,390,270
+57,737,767
 Vaccines Administered
-34,732,964
+41,021,049
 People who received 1 or more doses
-11,188,782
+16,162,358
 People who received 2 doses
 Daily Change in Number of COVID-19 Vaccinations in the United States Reported to CDC
 7-Day moving average
@@ -45,76 +103,55 @@ Close
 More data.
 download iconDownload Image[JPG]
 More Vaccination Data
-New Hospital AdmissionsThe numbers of new hospital admissions of patients with confirmed  COVID-19 have decreased from the national peak of 18,081 admissions on January 5, 2021 to 8,957 admissions on February 9 (a 50% decrease). The average number of daily admissions fell by 14% over the past week.
-8,957
+New Hospital AdmissionsThe numbers of new hospital admissions of patients with confirmed COVID-19 have decreased from the national peak of 18,006 admissions on January 5, 2021 to 6,841 admissions on February 16 (a 62% decrease). The average number of daily admissions fell by 21.8% compared to the previous week.
+6,841
 New Admissions
-9,279
+7,229
 Current 7-Day Average
-1,690,996
+1,730,332
 Total New Admissions
-10,845
+9,244
 Prior 7-Day Average
-18,081
-High
--14.4%
+18,006
+Peak
+-21.8%
 Change in 7-Day Average
 Daily Trends in Number of New COVID-19 Hospital Admissions in the United States Reported to CDC
 More data.external icon  Data for most recent week are affected by incomplete reporting (grey shaded area).
 resize iconView Larger
 Close
 More data.external icon  Data for most recent week are affected by incomplete reporting (grey shaded area).
-download iconDownload Image[PNG]
+download iconDownload Image[JPG]
 More Hospital Dataexternal icon
-DeathsNationally, the number of COVID-19 deaths peaked on February 4, 2021 at 5,189 deaths reported. Though the 3,645 deaths reported on February 11 is substantially lower (30% decrease), the current change in the 7-day average number of deaths was negligible (1.4% decrease). Daily mortality remains higher than in previous waves of the pandemic.
-3,645
+DeathsNationally, the number of COVID-19 deaths continue to fluctuate. There were 489,067 total COVID-19 deaths reported with 2,601 new deaths reported as of February 17, 2021. The 7-day average number of new deaths decreased by 9% to 2,708** new deaths per day compared to the previous 7-day period.
+2,601
 New Deaths Reported
-3,013
-Current 7-Day Average
-470,110
+2,708
+Current 7-Day Average**
+489,067
 Total Deaths Reported
-3,056
+2,975
 Prior 7-Day Average
-5,189
-High
--1.4%
+5,520
+Peak*
+-9.0%
 Change in 7-Day Average
+* Highest peak for new deaths in a single day (Feb. 12, 2021). Please reference notes below for more detail.
+** The 7-day average number of new deaths is impacted by a historical correction of 1,507 deaths on February 4, 2021 by Indiana, and 3,763 new deaths reported February 12-13, 2021 by Ohio. These reported deaths in Ohio include historical deaths reconciled from November and December. Without these historical corrections, the current 7-day average of new deaths is 2,171.
 Daily Trends in Number of COVID-19 Deaths in the United States Reported to CDC
 7-Day moving average
 More data.
 resize iconView Larger
 Close
 More data.
-download iconDownload Image[JPG]
-More Death Data
-SARS-CoV-2 VariantsThree SARS-CoV-2 (the virus that causes COVID-19) variants of concern have been detected in the United States: B.1.1.7, B.1.351, and P.1. A total of 981 B.1.1.7 variant cases have been detected in 37 states, which is a 61% increase in the number of B.1.1.7 cases reported by CDC compared with the previous week (611 cases). Thirteen cases with B.1.351 in five states and three cases with P.1 in two other states have also been detected in the United States. CDC and partners are increasing the numbers of specimens sequenced in laboratories around the country. Studies to determine whether variants cause more severe illness or are likely to evade immunity are underway. For technical description, see https://www.cdc.gov/coronavirus/2019-ncov/variants/index.html.
-Variant
-Reported Cases in US
-Number of States with ≥1 Case Reported
-Variant
-B.1.1.7
-Reported Cases in US
-981
-Number of States with ≥1 Case Reported
-37
-Variant
-B.1.351
-Reported Cases in US
-13
-Number of States with ≥1 Case Reported
-5
-Variant
-P.1
-Reported Cases in US
-3
-Number of States with ≥1 Case Reported
-2
-Emerging Variant Cases of B.1.1.7 in the United States
-More data.
-resize iconView Larger
-Close
-More data.
 download iconDownload Image[PNG]
-More Variants Data
-Note on new format: Effective Friday, February 12, 2021, COVIDView has been replaced with this new COVID Data Tracker Weekly Review. This new webpage and newsletter include key visuals from the week and narrative interpretations using data from CDC’s COVID Data Tracker. Additional priority data will be added in future weeks, including race and ethnicity.
+More Death Data
+Recent Publications
+Notes from the Field: First identified cases of SARS-CoV-2 variant B.1.1.7 in Minnesota — December 2020–January 2021
+Detection of B.1.351 SARS-CoV-2 Variant Strain — Zambia, December 2020
+SARS-CoV-2 Variants of Concern in the United States: Challenges and Opportunitiesexternal icon
+Horby P, Huntley C, Davies N, et al. NERVTAG note on B.1.1.7 severity. SAGE meeting report. January 21, 2021 pdf icon[81 KB, 9 Pages]external icon.
+Emergence of SARS-CoV-2 B.1.1.7 Lineage — United States, December 29, 2020–January 12, 2021
+NotesNote on new format: Effective Friday, February 12, 2021, COVIDView has been replaced with this new COVID Data Tracker Weekly Review. This new webpage and newsletter include visuals from the week and narrative interpretations using data from CDC’s COVID Data Tracker. Additional priority data will be added in future weeks, including race and ethnicity.
 The Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET) is an additional source for hospitalization data collected through a network of over 250 acute-care hospitals in 14 states (~10% of the U.S. population). Detailed data on patient demographics, including race/ethnicity, underlying medical conditions, medical interventions, and clinical outcomes, are collected using a standardized case reporting form.
 Other new data views on CDC’s website include county-specific summaries (under “Your Community” in Data Tracker), vaccination trends (under “Your Community” in Data Tracker), and information on SARS-CoV-2 variants.

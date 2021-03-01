@@ -1,58 +1,84 @@
-Evaluating and Reporting Persons Under Investigation (PUI)
+Overview of Testing for SARS-CoV-2 (COVID-19)Overview of Testing for SARS-CoV-2 (COVID-19)
+Updated Oct. 21, 2020
+Print
 Minus
 Related Pages
-Summary of Recent ChangesRevisions were made on February 27, 2020, to reflect the following:
-Information updated in the “Criteria to Guide Evaluation of PUI for COVID-19” section.
-Updated February 27, 2020
-Limited information is available to characterize the spectrum of clinical illness associated with coronavirus disease 2019 (COVID-19). No vaccine or specific treatment for COVID-19 is available; care is supportive.
-The CDC clinical criteria for a COVID-19 person under investigation (PUI) have been developed based on what is known about MERS-CoV and SARS-CoV and are subject to change as additional information becomes available.
-Healthcare providers should obtain a detailed travel history for patients being evaluated with fever and acute respiratory illness. CDC guidance for evaluating and reporting a PUI for MERS-CoV remains unchanged.
-CDC health advisory
-Update and Interim Guidance on Outbreak of Coronavirus Disease 2019 (COVID-19)
-CDC continues to closely monitor an outbreak of respiratory illness caused by COVID-19 that was initially detected in Wuhan City, Hubei Province, China. This HAN Update provides a situational update and guidance to state and local health departments and health care providers.
-phone iconContact your local or state health departmentHealthcare providers should immediately notify their localexternal icon or stateexternal icon health department in the event of a PUI for COVID-19.
-Criteria to Guide Evaluation of PUI for COVID-19
-Local health departments, in consultation with clinicians, should determine whether a patient is a PUI for COVID-2019. The CDC clinical criteria for COVID-19 PUIs have been developed based on available information about this novel virus, as well as what is known about Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). These criteria are subject to change as additional information becomes available.
-Clinical features and epidemiologic risk
-Clinical Features
-&
-Epidemiologic Risk
-Fever1 or signs/symptoms of lower respiratory illness (e.g. cough or shortness of breath)
-AND
-Any person, including healthcare workers2, who has had close contact3 with a laboratory-confirmed4 COVID-19 patient within 14 days of symptom onset
-Fever1 and signs/symptoms of a lower respiratory illness (e.g., cough or shortness of breath) requiring hospitalization
-AND
-A history of travel from affected geographic areas5 (see below) within 14 days of symptom onset
-Fever1 with severe acute lower respiratory illness (e.g., pneumonia, ARDS) requiring hospitalization and without alternative explanatory diagnosis (e.g., influenza)6
-AND
-No source of exposure has been identified
-Geographic Areas with Sustained Transmission (Community or Widespread)
-Last updated February 28, 2020
-China (Level 3 Travel Health Notice)
-Iran (Level 3 Travel Health Notice)
-Italy (Level 3 Travel Health Notice)
-Japan (Level 2 Travel Health Notice)
-South Korea (Level 3 Travel Health Notice)
-The criteria are intended to serve as guidance for evaluation. In consultation with public health departments, patients should be evaluated on a case-by-case basis to determine the need for testing. Testing may be considered for deceased persons who would otherwise meet the PUI criteria.
-Recommendations for Reporting, Testing, and Specimen Collection
-Updated February 28, 2020
-Clinicians should immediately implement recommended infection prevention and control practices if a patient is suspected of having COVID-19. They should also notify infection control personnel at their healthcare facility and their state or local health department if a patient is classified as a PUI for COVID-19. State health departments that have identified a PUI or a laboratory-confirmed case should complete a PUI and Case Report form through the processes identified on CDC’s Coronavirus Disease 2019 website. State and local health departments can contact CDC’s Emergency Operations Center (EOC) at 770-488-7100 for assistance with obtaining, storing, and shipping appropriate specimens to CDC for testing, including after hours or on weekends or holidays. Currently, diagnostic testing for COVID-19 is being performed at state public health laboratories and CDC. Testing for other respiratory pathogens should not delay specimen testing for COVID-19.
-For initial diagnostic testing for SARS-CoV-2, CDC recommends collecting and testing upper respiratory tract specimens (nasopharyngeal AND oropharyngeal swabs). CDC also recommends testing lower respiratory tract specimens, if available. For patients who develop a productive cough, sputum should be collected and tested for SARS-CoV-2. The induction of sputum is not recommended. For patients for whom it is clinically indicated (e.g., those receiving invasive mechanical ventilation), a lower respiratory tract aspirate or bronchoalveolar lavage sample should be collected and tested as a lower respiratory tract specimen. Specimens should be collected as soon as possible once a PUI is identified, regardless of the time of symptom onset. See Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from Patients Under Investigation (PUIs) for COVID-19 and Biosafety FAQs for handling and processing specimens from suspected cases and PUIs.
-Footnotes
-1Fever may be subjective or confirmed
-2For healthcare personnel, testing may be considered if there has been exposure to a person with suspected COVID-19 without laboratory confirmation. Because of their often extensive and close contact with vulnerable patients in healthcare settings, even mild signs and symptoms (e.g., sore throat) of COVID-19 should be evaluated among potentially exposed healthcare personnel. Additional information is available in CDC’s Interim U.S. Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with Coronavirus Disease 2019 (COVID-19).
-3Close contact is defined as—
-a) being within approximately 6 feet (2 meters) of a COVID-19 case for a prolonged period of time; close contact can occur while caring for, living with, visiting, or sharing a healthcare waiting area or room with a COVID-19 case
-– or –
-b) having direct contact with infectious secretions of a COVID-19 case (e.g., being coughed on)
-If such contact occurs while not wearing recommended personal protective equipment or PPE (e.g., gowns, gloves, NIOSH-certified disposable N95 respirator, eye protection), criteria for PUI consideration are met.
-Additional information is available in CDC’s updated Interim Infection Prevention and Control Recommendations for Patients with Confirmed COVID-19 or Persons Under Investigation for COVID-19 in Healthcare Settings.
-Data to inform the definition of close contact are limited. Considerations when assessing close contact include the duration of exposure (e.g., longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g., coughing likely increases exposure risk as does exposure to a severely ill patient). Special consideration should be given to healthcare personnel exposed in healthcare settings as described in CDC’s Interim U.S. Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with COVID-19.
-4Documentation of laboratory-confirmation of COVID-19 may not be possible for travelers or persons caring for COVID-19 patients in other countries.
-5Affected areas are defined as geographic regions where sustained community transmission has been identified. Relevant affected areas will be defined as a country with at least a CDC Level 2 Travel Health Notice. See all COVID-19 Travel Health Notices.
-6Category includes single or clusters of patients with severe acute lower respiratory illness (e.g., pneumonia, ARDS) of unknown etiology in which COVID-19 is being considered.
-Additional Resources:
-State health department after-hours contact listexternal icon
-Directory of Local Health Departmentsexternal icon
-World Health Organization (WHO) Coronavirusexternal icon
-WHO guidance on clinical management of severe acute respiratory infection when COVID-19 is suspectedexternal icon
+Note: This document is intended to provide guidance on the appropriate use of testing for SARS-CoV-2 in light of additional testing capacity throughout the country and does not address decisions regarding payment for or insurance coverage of such testing.
+Summary of Recent Changes
+Updates as of October 21, 2020
+As of October 21, 2020
+Added links to the updated close contact definition.
+Updated language to align with updated definition and to align with sitewide changes
+View Previous Updates
+This document provides a summary of considerations and current Centers for Disease Control and Prevention (CDC) recommendations regarding SARS-CoV-2 testing strategy.  The CDC recommendations for SARS-CoV-2 testing have been developed based on what is currently known about COVID-19 and are subject to change as additional information becomes available.
+Viral Testing
+Authorized assays for viral testing include those that detect SARS-CoV-2 nucleic acid or antigen. Viral (nucleic acid or antigen) tests check samples from the respiratory system (such as nasal or oral swabs or saliva) to determine whether an infection with SARS-CoV-2, the virus that causes COVID-19, is present. Viral tests are recommended to diagnose acute infection of both symptomatic and asymptomatic individuals, to guide contact tracing, treatment options, and isolation requirements Some tests are point-of-care tests, meaning results may be available at the testing site in less than an hour. Other tests must be sent to a laboratory, a process that may take at least 1-2 days.
+For more information on testing for SARS-CoV-2 see the Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens and Biosafety FAQs for handling and processing specimens from possible cases.
+Antibody Testing
+FDA has not authorized using antibody tests to diagnose SARS-CoV-2 infection, and CDC does not currently recommend using antibody testing as the sole basis for diagnosis of acute infection. In certain situations, serologic assays may be used to support clinical assessment of persons who present late in their illnesses when used in conjunction with viral detection tests.  In addition, if a person is suspected to have a post-infectious syndrome caused by SARS-CoV-2 infection (e.g., Multisystem Inflammatory Syndrome in Children; MIS-C), serologic assays may be used.
+Serologic assays for SARS-CoV-2 infection, are an important tool for surveillance and epidemiologic studies, such as understanding the transmission dynamic of the virus in the general population. Unlike direct viral detection methods, such as nucleic acid amplification or antigen detection tests that can detect acutely infected persons, antibody tests help determine whether the individual being tested was previously infected—even if that person never showed symptoms.
+CDC Mitigation Protocols
+CDC recommends the following measures to mitigate the spread of the virus and to protect people at increased risk of severe illness:  social distancing, wearing a mask when social distancing is not possible, avoiding crowds, avoiding indoor crowded spaces, and washing or sanitizing hands frequently.
+Considerations for SARS-CoV-2 Diagnostic (Molecular or Antigen) Testing
+If you have symptoms of COVID-19:
+If your symptoms are mild:
+Your healthcare provider (physician, nurse practitioner, pharmacist, etc.) may advise a SARS-CoV-2 test.
+If you test positive for SARS-CoV-2 infection or do not get tested, you should self-isolate for at least 10 days after symptom onset and resolution of fever for at least 24 hours, without the use of fever-reducing medications, and with improvement of other symptoms.
+If you live with a person at increased risk of severe illness (for example an elderly relative or other individuals with underlying conditions), take special precautions in the home to protect that individual according to CDC guidelines.
+If your symptoms worsen while you are isolating, or become moderate/severe, such as shortness of breath or severe fatigue, contact your healthcare provider immediately or seek emergency care.
+If you test positive, you do not need to repeat a test for at least 3 months.
+You do not need a follow-up negative test to return to work or school, as long as
+You did not require hospitalization, AND
+It has been at least at least 10 days after symptom onset and resolution of fever for at least 24 hours, without the use of fever-reducing medications, and with improvement of other symptoms.
+If you have been in close contact (less than 6 feet for a total of 15 minutes or more) with documented SARS-CoV-2 infection and do not have symptoms.​
+You need a test. Please consult with your healthcare provider or public health official. Testing is recommended for all close contacts of persons with SARS-CoV-2 infection. Because of the potential for asymptomatic and pre-symptomatic transmission, it is important that contacts of individuals with SARS-CoV-2 infection be quickly identified and tested. Pending test results, you should self-quarantine/isolate at home and stay separated from household members to the extent possible and use a separate bedroom and bathroom, if available.
+A single negative test does not mean you will remain negative at any time point after that test.
+Even if you have a negative test, you should still self-isolate for 14 days.
+If you cannot self-isolate, or you are a critical infrastructure worker that must work, wear a mask, physically distance, avoid crowds and indoor crowded places, wash your hands frequently, and monitor yourself for symptoms.
+If you live with a person at increased risk of severe illness (for example an elderly person or other individuals with underlying medical conditions), take special precautions in the home to protect that individual according to CDC guidelines.
+Healthcare providers in close contact of a person with documented SARS-CoV-2 infection while using recommended personal protective equipment, do not need to be tested
+If you do not have COVID-19 symptoms and have not been in close contact with someone known to have SARS-CoV-2 infection (meaning being within 6 feet of an infected person for at least 15 minutes).
+You do not need a test unless recommended or required by your healthcare provider or public health official.
+If you are tested, you should self-quarantine at home until your test results are known, and then adhere to your healthcare provider’s advice.
+A negative test does not mean you will remain negative at any time point after that test.
+If you are in a high SARS-CoV-2 transmission zone and attended a public or private gathering of more than 10 people (without universal mask wearing and/or physical distancing).
+Your healthcare provider or public health official may advise a SARS-CoV-2 test.
+If you are tested, you should self-isolate at home until your test results are known, and then adhere to your healthcare provider’s advice.
+A negative test does not mean you will remain negative at any time point after that test.
+Even if you have a negative test, you should wear a mask, physically distance, avoid crowds and indoor crowded places, wash your hands frequently, and monitor yourself for symptoms.
+Take special precautions in the home to protect any person(s) with increased risk of severe illness according to CDC guidelines.
+If you work in a nursing home,
+You will need testing as part of a nursing home’s plan to open or reopen, if not previously tested.
+You need to be tested if you are symptomatic. You must self-isolate and not go to work until your test results are known. If you test positive, you should self-isolate for at least 10 days after symptom onset and resolution of fever for at least 24 hours, without the use of fever-reducing medications, and with improvement of other symptoms.
+You will need testing if there is an outbreak in your facility, and repeat testing at regular intervals if your initial test result was negative until the outbreak is over.
+You will need serial testing based on your county percent test positivity rate.
+Results of testing will be used to inform infection control interventions, such as resident placement decisions and work exclusions.
+Follow any additional guidance from public health officials and the Centers for Medicare and Medicaid Services (CMS).
+If you live in or receive care in a nursing home,
+You will need testing as part of a nursing home’s plan to open or reopen, if not previously tested.
+You need to be tested if you are symptomatic. You must be isolated until your test results are known.  If you test positive, you should be isolated for at least 10 days after symptom onset and resolution of fever for at least 24 hours, without the use of fever-reducing medications, and with improvement of other symptoms.
+You will also need to be tested if there is an outbreak in your facility. This will need to be repeated at regular intervals if your initial test result was negative, until the outbreak is over.
+You may also need to be tested if you leave the facility on a regular basis (e.g. for dialysis or frequent medical/other appointments).
+Results of testing will be used to inform infection control interventions, such as resident and patient placement decisions.
+Follow any additional guidance from public health officials and the Centers for Medicare and Medicaid Services (CMS).
+If you are a critical infrastructure worker, healthcare worker, or first responder.
+You may need to get tested according to your employer’s guidelines.
+Even if you have a negative test, you should wear a mask when you cannot physically distance during your workday, avoid crowds and indoor crowded places, wash your hands frequently, and monitor yourself for symptoms.
+For public health reasons, your public health official(s) or healthcare provider may advise specific people, or groups of people, to be tested. You should follow this advice. It is important to realize that you can be infected and spread the virus but feel totally well and have no symptoms.
+Your healthcare provider or public health official may recommend that you are tested before being admitted to the hospital or before a procedure (e.g., pregnant people admitted for labor and delivery, surgery). This testing is to protect healthcare personnel and other patients.
+In areas where there are a small number of new cases and limited spread, your public health department may request a small number of asymptomatic “healthy people” to be tested.
+If there is significant spread of the virus in your community, your public health department may request significant numbers of asymptomatic “healthy people” to be tested in order to help stop the spread of the virus.
+Certain settings can experience rapid spread of SARS-CoV-2. This is particularly true for settings with people at increased risk of severe illness in close quarters for extended periods of time.
+Approaches for early identification of infected individuals include, initial testing of everyone in the setting, periodic (e.g., weekly) testing of everyone in the setting, and testing of new or returning entrants into the setting.
+Previous Updates
+Updates from Previous Content
+As of September 18, 2020
+Due to the significance of asymptomatic and pre-symptomatic transmission, this guidance further reinforces the need to test asymptomatic persons, including close contacts of a person with documented SARS-CoV-2 infection.
+As of August 24, 2020
+Diagnostic testing categories have been edited to focus on testing considerations and actions to be taken by individuals undergoing testing
+As of July 17, 2020
+Except for rare situations, a test-based strategy is no longer recommended to determine when an individual with a SARS-CoV-2 infection is no longer infectious (i.e., to discontinue Transmission-Based Precautions or home isolation)
+As of July 2, 2020
+Added screening to possible testing types
+Removed examples – please refer to setting specific guidance
+Top of Page

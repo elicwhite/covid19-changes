@@ -18,7 +18,8 @@ const CDC_PAGES = {
 const date = currentTimeInTimezone('America/New_York');
 const month = String(date.getMonth() + 1).padStart(2, '0');
 const day = String(date.getDate()).padStart(2, '0');
-const shortDateString = `20-${month}-${day}`;
+const year = String(date.getFullYear()).substr(-2);
+const shortDateString = `${year}-${month}-${day}`;
 
 async function run() {
   for (const [pageName, url] of Object.entries(CDC_PAGES)) {

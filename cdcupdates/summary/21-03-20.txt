@@ -1,0 +1,154 @@
+COVID Data Tracker Weekly Review
+Updated Mar. 19, 2021
+Print
+Minus
+Related Pages
+Subscribe to the Weekly Review
+Interpretive Summary for March 19, 2021
+Hindsight is 2020: A Year of Heartbreak and Hope
+On March 11, 2020, the World Health Organization first characterized COVID-19 as a pandemic. The toll of this disease, the continued loss of life around the world, and the burden in our nation are heartbreaking. In one year, we lost over half a million Americans to COVID-19. Our nation has also experienced separation from friends, family, and loved ones; food insecurity and financial burden; and an unprecedented mental health crisis.
+After a year of this pandemic, many of us are feeling tired, lonely, and impatient. Still, through it all, there is determination; there are stories of giving and hope, of stamina and perseverance. It was a hard year, but the progress we’ve made has given us hope…
+Vaccines are available. Today, more than 1 in 5 Americans have received at least one dose of COVID-19 vaccine. Each day millions more people are being vaccinated, providing hope that we can soon gather with our friends and family safely. On March 12, 2021, we reached 100 million vaccine doses administered in just 88 days—thanks to three safe and effective vaccines that have been distributed throughout the United States. CDC recently released recommendations for fully vaccinated people as the first step in safely returning to normal activities.
+Schools across the nation are reopening. CDC released an operational strategy to help pave the way for students’ return to the classroom and childcare guidelines to ensure the safety of our children. Safer communities mean safer schools.
+Testing is widespread. Since the beginning of the pandemic, more than 354 million RT-PCR tests to detect COVD-19 have been performed in the United States. This week, CDC released updated testing guidance to help healthcare providers and public health professionals use testing as a part of a comprehensive pandemic response strategy. Quickly identifying people infected with the virus that causes COVID-19 means they can get medical care and stay away from others, preventing the spread of COVID-19. If you think you may have COVID-19 now or may have had it in the past, learn more about the different types of COVID-19 tests and how to get tested.
+Hospitalizations and deaths are declining. Hospital admissions and deaths are on the decline. We have come a long way from where we were, but we still have much work to do. We must continue to follow proven prevention strategies, and get vaccinated when a vaccine is available to you. We are just starting to turn a corner and the data are moving in the right direction, but where this goes depends on whether we all do what we can to protect ourselves, our loved ones, and our communities.
+Even when this crisis is over, we will still need a strong public health system. The COVID-19 pandemic illuminated long-standing inequalities in health among racial and ethnic minority groups; demonstrated the need for resilient, fast, and accurate data systems; and showed the essential role a robust, skilled, and diverse public health workforce plays in protecting Americans. We cannot build the public health infrastructure the nation needs overnight or in the middle of an emergency. We must work together over the months and years ahead to build on the foundations, partnerships, and innovations that we have created during this crisis. It is one way we can turn tragedy into lasting progress and improved health for all.
+Reported CasesOverall, COVID-19 cases have decreased for the past 9 weeks. The current 7-day moving average of new cases (53,200) decreased 78.7% compared with the highest peak on January 11, 2021, (249,389), and 20.9% compared with the second highest peak on July 23, 2020 (67,277). On March 17, there was a 3.0% decrease in the 7-day average number of daily cases reported compared with the prior week, which provides an encouraging sign of continued progress.
+56,900
+New Cases Reported*
+53,200
+Current 7-Day Average**
+29,431,658
+Total Cases Reported
+54,825
+Prior 7-Day Average
+249,389
+Peak of 7-Day Average***
+-3.0%
+Change in 7-Day Average since Prior Week
+* New cases reported here may differ slightly from those on the COVID Data Tracker as new methods are being used to account for historical corrections.
+** In the current week, 4,007 historical cases were excluded, and in the prior week, 87,670 historical cases were excluded.
+*** Highest peak for 7-day average (January 11, 2021).
+Note: The table above excludes historical data from the new cases, the current and previous 7-day averages, and the percent change in the 7-day average.
+Daily Trends in COVID-19 Cases in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Case Data
+SARS-CoV-2 VariantsA total of 5,576 B.1.1.7 variant cases have been reported in 51 jurisdictions. One hundred eighty cases attributed to B.1.351 in 26 jurisdictions and 48 cases attributed to P.1 in 15 jurisdictions have also been detected in the United States. In addition, the B.1.427 and B.1.429 variants that were first identified in the United States in January 2021 are also being closely monitored. CDC and partners are increasing the numbers of specimens sequenced in laboratories around the country. Studies are underway to determine whether variants are more transmissible, cause more severe illness, or are likely to evade immunity brought on by prior illness or vaccination.
+To better understand the significance of these emerging variants, CDC recently published a webpage describing how variants are classified. CDC also recently published a new Variant Proportions in the U.S. web page, which describes CDC characterization of the proportion of SARS-CoV-2 lineages circulating in the United States. Additionally, the page highlights the estimated proportion of SARS-CoV-2 variants of concern in select states for which CDC has at least 300 genome sequences available from specimens collected during the 4-week period ending February 13, 2021.
+Variant
+Reported Cases in US
+Number of Jurisdictions with ≥1 Case Reported
+Variant
+B.1.1.7
+Reported Cases in US
+5,576
+Number of Jurisdictions with ≥1 Case Reported
+51
+Variant
+B.1.351
+Reported Cases in US
+180
+Number of Jurisdictions with ≥1 Case Reported
+26
+Variant
+P.1
+Reported Cases in US
+48
+Number of Jurisdictions with ≥1 Case Reported
+15
+Cases of Variants of Concern in the United States
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Variants Data and Maps
+TestingThe percent of COVID-19 RT-PCR tests that are positive (percent positivity) has increased slightly from the previous week. The 7-day average of percent positivity from tests is now 4.2%. No states or territories have higher than 10% positivity. The 7-day average test volume for March 5-March 11, 2021, was 1,170,972, down 5.0% from 1,231,973 for the prior 7 days.
+354,627,733
+Total Tests Reported
+1,170,972
+7-Day Average Test Volume
+354,627,733
+Total Tests Reported
+4.2%
+7-Day Average
+% Positivity
+1,170,972
+7-Day Average Test Volume
++1.7%
+Change in 7-Day
+% Positivity
+COVID-19 Viral (RT-PCR) Laboratory Test 7-day Percent Positivity by State/Territory
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Testing Dataexternal icon
+VaccinationsThe U.S. COVID-19 Vaccination Program began December 14. As of March 18, 2021, 115.7 million vaccine doses have been administered. Overall, about 75.5 million people, or 22.7% of the U.S. population, have received at least one dose of vaccine. About 41.0 million people, or 12.3% of the U.S. population have been fully vaccinated*. As of March 18, the 7-day average number of administered vaccine doses reported to CDC per day was 2.5 million, a 12.1% increase from the previous week.
+Recent COVID Data Tracker updates show the percent of the population 65 years and older who have been vaccinated, and breakdowns of vaccine delivery, administration, and series completion by type. As of March 18, 66.3% of people 65 years or older have received at least one dose of vaccine; 38.6% are fully vaccinated.
+115,730,008
+Vaccines Administered
+115,730,008
+Vaccines Administered
+75,495,716
+People who received at least one dose
+40,981,464
+People who are fully vaccinated*
+*People who are fully vaccinated (formerly “receiving 2 doses”) represents the number of people who have received the second dose in a two-dose COVID-19 vaccine series or one dose of the single-shot J&J/Janssen COVID-19 vaccine.
+Daily Change in Number of COVID-19 Vaccinations in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Vaccination Data
+New Hospital AdmissionsHospital admissions of patients with confirmed COVID-19 decreased 71.6% from the national 7-day average peak of 16,540 admissions on January 9, 2021, to 4,696 admissions over the week ending March 16, 2021. The average number of daily admissions fell by 4.2%, compared to the previous week.
+4,927
+New Admissions
+4,696
+Current 7-Day Average
+1,881,819
+Total New Admissions
+4,902
+Prior 7-Day Average
+16,540
+Peak 7-Day Average
+-4.2%
+Change in 7-Day Average
+Daily Trends in Number of New COVID-19 Hospital Admissions in the United States
+The most recent data in the vertical gray bar are provisional and should be interpreted with caution.
+resize iconView Larger
+Close
+The most recent data in the vertical gray bar are provisional and should be interpreted with caution.
+download iconDownload Image[JPG]
+More Hospital Data
+DeathsIn recent weeks, the number of COVID-19 deaths has declined. Overall, deaths have decreased for the past 9 weeks. The current 7-day moving average of new deaths (1,025) decreased 69.7% compared with the highest peak on January 13, 2021 (3,379), and 10.7% compared with the peak on August 1, 2020 (1,148).  As of March 17, 2021, a total of 535,217 COVID-19 deaths were reported.
+1,118
+New Deaths Reported*
+1,025
+Current 7-Day Average**
+535,217
+Total Deaths Reported
+1,476
+Prior 7-Day Average
+3,378
+Peak of 7-day Average***
+-30.6%
+Change in the 7-Day Average Since the Prior Week
+* New deaths reported here may differ slightly from those on the COVID Data Tracker as new methods are being used to account for historical corrections.
+** In the current week, there were 195 historical deaths excluded, and in the prior week, there were 138 historical deaths excluded.
+*** The highest peak in the 7-day average of new deaths (Jan 11, 2021).
+Note: The table above excludes historical data from the new deaths, the current and previous 7-day averages, and the percent change in the 7-day average.
+Daily Trends in Number of COVID-19 Deaths in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Death Data
+Recent Publications
+Association of Children’s Mode of School Instruction with Child and Parent Experiences and Well-Being During the COVID-19 Pandemic — COVID Experiences Survey, United States, October 8–November 13, 2020 | MMWR (cdc.gov)
+COVID-19 Vaccine Second-Dose Completion and Interval Between First and Second Doses Among Vaccinated Persons — United States, December 14, 2020−February 14, 2021
+Effectiveness of the Pfizer-BioNTech COVID-19 Vaccine Among Residents of Two Skilled Nursing Facilities Experiencing COVID-19 Outbreaks — Connecticut, December 2020–February 2021
+Low SARS-CoV-2 Transmission in Elementary Schools — Salt Lake County, Utah, December 3, 2020–January 31, 2021
+Minimal SARS-CoV-2 Transmission After Implementation of a Comprehensive Mitigation Strategy at a School — New Jersey, August 20–November 27, 2020
+NotesThe Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET) is an additional source for hospitalization data collected through a network of more than 250 acute-care hospitals in 14 states (representing ~10% of the U.S. population). Detailed data on patient demographics, including race/ethnicity, underlying medical conditions, medical interventions, and clinical outcomes, are collected using a standardized case reporting form.
+CDC’s website also provides new data views such as county-specific summaries (under “Your Community” in Data Tracker), vaccination trends (under “Your Community” in Data Tracker), and information on SARS-CoV-2 variants.

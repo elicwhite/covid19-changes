@@ -1,0 +1,243 @@
+Overview of Testing for SARS-CoV-2 (COVID-19)Overview of Testing for SARS-CoV-2 (COVID-19)
+Updated Mar. 17, 2021
+Print
+Minus
+Related Pages
+Summary of Recent Changes
+Updates as of March 17, 2021
+Expansion on the description of categories of tests, choosing a test, and addition of intended uses of testing
+Addition of health equity considerations related to testing, including discussion on ensuring equitable testing access and availability
+Discussion on expanded availability to, and use of, screening tests to reduce asymptomatic spread
+Discussion on testing of vaccinated individuals and interpretation of test results
+Inclusion of links to setting-specific testing guidance
+View Previous Updates
+Key Points
+Persons with signs or symptoms of COVID-19 should have diagnostic testing.
+Rapid, point-of care serial screening can identify asymptomatic cases and help interrupt SARS-CoV-2 transmission. This is especially important when community risk or transmission levels are substantial or high.
+The selection and interpretation of SARS-CoV-2 tests should be based on the context in which they are being used, including the prevalence of SARS-CoV-2 in the population being tested.
+Prior receipt of an mRNA COVID-19 vaccine will not affect the results of SARS-CoV-2 viral tests (NAAT or antigen).
+Note: This document is intended to provide guidance on the categories of viral testing and intended uses of testing for SARS-CoV-2 in light of additional testing capacity throughout the country and does not address decisions regarding payment for or insurance coverage of such testing.
+On This Page
+IntroductionConsiderations When TestingVaccination and SARS-CoV-2 TestingTesting for SARS-CoV-2 Infection
+Considerations for SARS-CoV-2 Testing in Different ScenariosPublic Health Surveillance Testing for SARS-CoV-2Setting-specific Testing Guidance
+Introduction
+A robust and responsive testing infrastructure is essential to our success in stopping the spread of SARS-CoV-2, the virus that causes COVID-19. This overview describes current information on the categories of tests used to detect SARS-CoV-2 infection and the intended strategies for use of those tests, including to diagnose infection, to screen in an effort to reduce asymptomatic or presymptomatic transmission, and to monitor trends in infection. This guidance also includes considerations for health equity in testing; choosing a test; interpretation of SARS-CoV-2 test results in vaccinated persons; links to guidance for specific settings (e.g., K-12 schools, businesses, non-healthcare workplaces, correctional and detention facilities); and other considerations when deciding to test. This information is intended for use by healthcare providers and public health professionals and those organizing and implementing testing in non-health care settings such as schools, workplaces, and congregate housing. Information for the general public on SARS-CoV-2 testing is also available. This guidance has been developed based on what is currently known about SARS-CoV-2 infection and COVID-19 and is subject to change as additional information becomes available.
+Top of PageConsiderations When Testing
+SARS-CoV-2 testing may be incorporated as part of a comprehensive approach to reducing transmission. Symptom screening, testing, and contact tracing are strategies to identify people infected with SARS-CoV-2 so that actions can be taken to slow and stop the spread of the virus.
+COVID-19 vaccine is currently available in limited doses, therefore CDC’s Advisory Committee on Immunization Practices (ACIP) described recommendations for prioritization during the early phases of the vaccination program. As vaccine supply increases and additional priority groups receive vaccine, CDC’s priorities for SARS-CoV-2 testing will change and the guidance will be updated. For example, as more K-12 teachers are vaccinated, SARS-CoV-2 testing priorities may shift to focus on unvaccinated teachers, staff, and students. For guidance on quarantine and testing of fully vaccinated people, please visit Interim Public Health Recommendations for Fully Vaccinated People.
+People undergoing testing should receive clear information on
+the manufacturer and name of the test, the type of test, the purpose of the test, the performance specifications of the test, any limitations associated with the test, who will pay for the test, how the test will be performed, how and when they will receive test results, and;
+how to understand what the results mean, actions associated with negative or positive results, the difference between testing for workplace screening versus for medical diagnosis, who will receive the results, how the results may be used, and any consequences for declining to be tested.
+Individuals tested are required to receive patient fact sheets as part of the test’s emergency use authorization (EUA)external icon.
+Top of PageVaccination and SARS-CoV-2 Testing
+Prior receipt of a COVID-19 vaccine will not affect the results of SARS-CoV-2 viral tests (NAAT or antigen). Because the Pfizer-BioNTech, Moderna, and Johnson & Johnson COVID-19 vaccines use the SARS-CoV-2 spike protein to generate an immune response, a positive serologic (antibody) test for spike protein IgM/IgG could indicate either previous infection or vaccination. Antibody testing is not currently recommended to assess for immunity to COVID-19 following COVID-19 vaccination or to assess the need for vaccination in an unvaccinated person. To evaluate for evidence of previous infection in an individual with history of COVID-19 vaccination, an antibody test specifically evaluating IgM/IgG to the nucleocapsid protein should be used (e.g., for public health surveillance or the diagnosis of MIS-C/MIS-A). For guidance on quarantine and testing of fully vaccinated people, please visit Interim Public Health Recommendations for Fully Vaccinated People.
+Top of PageTesting for SARS-CoV-2 Infection
+Many categories of tests are used to detect SARS-CoV-2,1 and their performance characteristics vary.
+Some tests provide results rapidly (within minutes); others require time for processing.
+Some must be performed in a laboratory by trained personnel, some can be performed at the point-of-care, and others can be performed at home.
+Some tests are very sensitive (i.e., few false-negative results or few missed detections of SARS-CoV-2); others are very specific (i.e., few false-positive results or few tests incorrectly identifying SARS-CoV-2 when virus is not present); and some are both sensitive and specific.
+Some tests can be performed frequently because they are less expensive, easier to use, and supplies are readily available.
+The selection and interpretation of SARS-CoV-2 tests should be based on the context in which they are being used, including the prevalence of SARS-CoV-2 in the population being tested (See Table 1) and the status (signs, symptoms, contacts) of the person being tested.
+Test types
+Viral tests, including antigen tests and nucleic acid amplification tests (NAATs) are used as diagnostic tests to detect infection with SARS-CoV-2 and to inform an individual’s medical care. Viral tests can also be used as screening tests to reduce the transmission of SARS-CoV-2 by identifying infected persons who need to isolate from others. See FDA’s list of In Vitro Diagnostics Emergency Use Authorizationsexternal icon for more information about the performance of specific authorized tests.
+NAATs, such as real-time reverse transcription-polymerase chain reaction (RT-PCR), are high-sensitivity, high-specificity tests for diagnosing SARS-CoV-2 infection. NAATs detect one or more viral ribonucleic acid (RNA) genes and indicate a current infection or a recent infection but, due to prolonged viral RNA detection, are not always direct evidence for the presence of virus capable of replicating or of being transmitted to others. Most NAATs need to be processed in a laboratory and time to results can vary (~1–3 days), but some NAATs are point-of-care tests with results available in about 15–45 minutes. Most NAATs produce qualitative results.
+Antigen tests are immunoassays that detect the presence of a specific viral antigen. Antigen tests generally have similar specificity but are less sensitive than most NAATs. Most can be processed at the point of care with results available in minutes and thus can be used in screening programs to quickly identify those who are likely to be contagious.  Because of the performance characteristics of antigen tests, it may be necessary to confirm some antigen test results (e.g., a negative test in persons with symptoms or a positive test in persons without symptoms) with a laboratory-based NAAT.  Furthermore, based on the authorization from FDAexternal icon, some point-of-care NAATs cannot be used for confirmatory testing. Use of the Antigen Testing Algorithm pdf icon[457 KB, 1 page] is recommended to determine when confirmatory testing is needed.
+Correct interpretation of results from both antigen test and confirmatory NAATs, when indicated, is important.
+Positive test results allow for identification and isolation of infected persons, as well as a case interview to identify and notify the case’s close contact(s) of exposure and the need to quarantine.
+Negative test results in persons with known SARS-CoV-2 exposure suggest no current evidence of infection. These results represent a snapshot of the time around specimen collection and could change if the same test was performed again in one or more days. Unvaccinated individuals with a negative result should continue to quarantine for 14 days or for the period established by local public health authorities. Fully vaccinated people with no COVID-like symptoms do not need to quarantine or be tested following an exposure to someone with suspected or confirmed COVID-19, as their risk of infection is low. For guidance on quarantine and testing of fully vaccinated people, visit Interim Public Health Recommendations for Fully Vaccinated People for more information.
+Negative test results in persons without symptoms and no known exposure suggest no infection. All persons being tested, regardless of results, should receive counseling on the continuation of risk reduction behaviors that help prevent the transmission of SARS-CoV-2 (e.g., wearing masks, physical distancing, avoiding crowds and poorly ventilated spaces).
+Antibody (or serology) tests are used to detect previous infection with SARS-CoV-2 and can aid in the diagnosis of Multisystem Inflammatory Syndrome in Children (MIS-C) and in adults (MIS-A)2. CDC does not recommend using antibody testing to diagnose current infection. Depending on the time when someone was infected and the timing of the test, the test might not detect antibodies in someone with a current infection. In addition, it is not currently known whether a positive antibody test result indicates immunity against SARS-CoV-2; therefore, at this time, antibody tests should not be used to determine if an individual is immune against reinfection. Antibody testing is being used for public health surveillance and epidemiologic purposes. Because antibody tests can have different targets on the virus, specific tests might be needed to assess for antibodies originating from past infection versus those from vaccination. For more information about COVID-19 vaccines and antibody test results, refer to Interim Clinical Considerations for Use of mRNA COVID-19 Vaccines Currently Authorized in the United States.
+Overview of testing scenarios
+Diagnostic testing is intended to identify current infection in individuals and is performed when a person has signs or symptoms consistent with COVID-19, or when a person is asymptomatic but has recent known or suspected exposure to SARS-CoV-2.
+Examples of diagnostic testing include:
+Testing people who have symptoms consistent with COVID-19 and who present to their healthcare provider
+Testing people as a result of contact tracing efforts
+Testing people who indicate that they were exposed to someone with a confirmed or suspected case of COVID-19
+Testing people who attended an event where another attendee was later confirmed to have COVID-19
+Screening tests are intended to identify infected people who are asymptomatic and do not have known, suspected, or reported exposure to SARS-CoV-2. Screening helps to identify unknown cases so that measures can be taken to prevent further transmission.
+Examples of screening include:
+Testing employees in a workplace setting
+Testing students, faculty, and staff in a school or university setting
+Testing a person before or after travel
+Testing at home for someone who does not have symptoms associated with COVID-19 and no known exposures to someone with COVID-19
+Public health surveillance is intended to monitor population-level burden of disease, or to characterize the incidence and prevalence of disease. Surveillance testing is primarily used to gain information at a population level, rather than an individual level. Surveillance testing results are not reported back to the individual. As such, surveillance testing cannot be used for an individual’s health care decision making or individual public health actions such as isolation or quarantine.
+An example of surveillance testing is wastewater surveillance.
+Choosing a Test
+When choosing which test to use, it is important to understand the purpose of the testing (e.g., diagnostic, screening), analytic performance of the test within the context of the level of community transmission, need for rapid results, and other considerations (See Table 1). For example, even a highly specific antigen test may have a poor positive predictive value (i.e., high number of false positives) when used in a community where prevalence of infection is low. As an additional example, use of a laboratory-based NAAT in a community with high transmission and increased test demand may result in diagnostic delays due to processing time and time to return results. Positive and negative predictive values of NAAT and antigen tests vary depending upon the pretest probability. Pretest probability considers both the prevalence of the level of community transmission as well as the clinical context of the individual being tested. Additional information on sensitivity, specificity, positive and negative predictive values for antigen tests and antibody tests and for the relationship between pretest probability and the likelihood of positive and negative predictive values is available. Also see FDA’s letters to clinical laboratory staff and healthcare providers on the potential for false-positive results with antigen testsexternal icon and the potential for false-negative results with molecular tests if a genetic variant of SARS-CoV-2external icon occurs in the part of the viral genome assessed by the test.
+Table 1 summarizes some characteristics of NAATs and antigen tests to consider for a testing program. Most antigen tests that have received EUA from FDAexternal icon are authorized for testing symptomatic persons within the first 5, 7, 12, or 14 days of symptom onset. Given the risk of transmission of SARS-CoV-2 from asymptomatic and presymptomatic persons with SARS-CoV-2 infection, use of antigen tests in asymptomatic and presymptomatic persons can be considered. FDA has provided a list of FAQ for healthcare providers who are using diagnostic tests in screening asymptomatic individualsexternal icon, and the Centers for Medicare & Medicaid Services will temporarily exercise enforcement discretionpdf iconexternal icon to enable the use of antigen tests in asymptomatic individuals for the duration of the COVID-19 public health emergency under the Clinical Laboratory Improvement Amendments of 1988 (CLIA). Laboratories that perform screening or diagnostic testing for SARS-CoV-2 must have a CLIA certificate and meet regulatory requirements. Tests that have received an EUA from FDA for point of care (POC) use can be performed with a CLIA certificate of waiver.
+Table 1. NAAT and Antigen Test Differences to Consider When Planning for Diagnostic or Screening Use
+NAATs
+Antigen Tests
+Intended Use
+Detect current infection^
+Detect current infection
+Analyte Detected
+Viral Ribonucleic Acid (RNA)
+Viral Antigens
+Specimen Type(s)
+Nasal, Nasopharyngeal, Oropharyngeal, Sputum, Saliva
+Nasal, Nasopharyngeal
+Sensitivity
+Varies by test, but generally high for laboratory-based tests and moderate-high for POC tests
+Varies depending on the course of infection, but generally moderate-to-high at times of peak viral load*
+Specificity
+High
+High
+Test Complexity
+Varies by Test
+Relatively Easy to Use
+Authorized for Use at the Point-of-Care
+Most are not, some are
+Most are, some are not
+Turnaround Time
+Most 1-3 days. Some could be rapid in 15 minutes
+Ranges from 15 minutes to 30 minutes
+Cost/Test§
+Moderate (~$75-$100/test)
+Low (~$5-$50/test)
+Advantages
+Most sensitive test method available
+Short turnaround time for NAAT POC tests, but few available
+Usually does not need to be repeated to confirm results
+Short turnaround time (approximately 15 minutes)
+When performed at or near POC, allows for rapid identification of infected people, thus preventing further virus transmission in the community, workplace, etc.
+Comparable performance to NAATs in symptomatic persons and/or if culturable virus present, when the person is presumed to be infectious
+Disadvantages
+Longer turnaround time for lab-based tests (1–3 days)
+Higher cost per test
+A positive NAAT diagnostic test should not be repeated within 90 days, since people may continue to have detectable RNA after risk of transmission has passed
+May need confirmatory testing
+Less sensitive (more false negative results) compared to NAATs, especially among asymptomatic people
+*The decreased sensitivity of antigen tests might be offset if the point-of-care antigen tests are repeated more frequently (i.e., serial testing at least weekly).
+^ Costs for: NAATsexternal icon, Antibody testsexternal icon
+Health Equity in SARS-CoV-2 Testing
+CDC’s COVID-19 Response Health Equity Strategy outlines a plan to reduce the disproportionate burden of COVID-19 among racial and ethnic minority populations and other population groups (e.g., essential and frontline workers, people living in rural or frontier areas) who have experienced a disproportionate burden of COVID-19. One component to move towards greater health equity and to stop transmission of SARS-CoV-2 is ensuring availability of resources, including access to testing for populations who have experienced longstanding, systemic health and social inequities. All population groups, including racial and ethnic minority groups, should have equal access to affordable and timely SARS-CoV-2 testing – with fast turnaround time for results — for diagnosis and screening to reduce community transmission. Efforts should be made to address barriers that might overtly or inadvertently create inequalities in testing. In addition, completeness of race and ethnicity data is an important factor in understanding the impact the virus has on racial and ethnic minority populations. The U.S. Department of Health and Human Services has required laboratories and testing facilities to reportexternal icon race and ethnicity data to health departments, in addition to other data elements, for individuals tested for SARS-CoV-2 or diagnosed with COVID-19. Healthcare providers and public health professionals need to ask and record race and ethnicity for anyone receiving a reportable test result and ensure these data are reported with the person’s test results in order to facilitate understanding the impact of COVID-19 on racial and ethnic minority populations.
+In communities with a higher proportion of racial and ethnic minority populations and other populations disproportionately affected by COVID-19, health departments should ensure there is timely and equitable access to and availability of testing with fast result return, especially when the level of community transmission is substantial or high.
+Some strategies to achieve this goal include:
+Use a social vulnerability index to assist in selecting testing sites.
+Assess the capacity of these sites to expand diagnostic and screening testing to meet the demand for impacted areas. This includes assessing the availability of free testing, wait times for testing and for results, and categories of available test (NAAT vs. antigen), as well as identifying and removing barriers to testing (e.g., alternatives to drive-through testing for a community where many do not have cars; availability of testing on evenings and weekends).
+Increase the availability of free testing sites in communities. Employers, community-based, and faith-based organizations can be important partners to increase the number of free, community-based testing sites. This expansion ensures that wait times both for testing and reporting of results are decreased, helping limit the spread of SARS-CoV-2.
+Increase public messaging about the importance of testing and communicate these messages in multiple languages and venues, particularly in communities at higher risk and disproportionately impacted by the virus.
+Top of PageConsiderations for SARS-CoV-2 Testing in Different Scenarios
+Diagnostic Testing
+Testing persons with signs or symptoms consistent with COVID-19
+Positive test results using a viral test (NAAT or antigen) in persons with signs or symptoms consistent with COVID-19 indicate that the person has COVID-19, independent of vaccination status of the person. A negative antigen test in persons with signs or symptoms of COVID-19 should be confirmed by NAAT, a more sensitive test. For more information, see the Antigen Test Algorithm pdf icon[457 KB, 1 page].
+All persons (independent of vaccination status) with positive results should isolate at home or, if in a healthcare setting, be placed on appropriate precautions. Most people with COVID-19 have mild illness and can recover at home without medical care. A symptom-based strategy to determine when to discontinue home isolation or precautions can be used for persons who are not severely immunocompromised. They should remain in isolation until they have met the criteria for discontinuing home isolation or for discontinuing precautions in a healthcare setting. For persons with COVID-19, testing is not recommended to determine when infection has resolved, when to end home isolation, or whether to discontinue precautions in a healthcare setting. NAATs have detected SARS-CoV-2 RNA in some people’s respiratory specimens long after they have recovered from COVID-19 (>3 months). Studies have not found evidence that clinically recovered adults with persistence of viral RNA have transmitted SARS-CoV-2 to others. These findings support the recommendation for a symptom-based, rather than test-based, strategy for ending isolation of most people, so that individuals who are no longer infectious are not kept unnecessarily isolated and excluded from work or other responsibilities.
+Some adults with severe illness may produce replication-competent virus beyond 10 days that may warrant extending duration of isolation and precautions. A test-based strategy may be considered in consultation with infectious disease experts for persons with severe illness or who are severely immunocompromised. For more information, including on retesting persons previously infected with SARS-CoV-2, visit Duration of Isolation and Precautions for Adults with COVID-19.
+Testing asymptomatic persons who have had recent known or suspected exposure to SARS-CoV-2
+Identifying close contacts (people who have been within 6 feet for a combined total of 15 minutes or more during a 24-hour period) of persons with COVID-19 can help reduce the spread of SARS-CoV-2 in communities, workplaces, and schools when these close contacts quarantine themselves. Viral testing is recommended for unvaccinated individuals who are close contacts of persons with COVID-19. These individuals should be tested immediately after being identified, and if negative, tested again in 5–7 days after last exposure or immediately if symptoms develop during quarantine. Most people with a history of test-confirmed COVID-19 who remain asymptomatic after recovery do not need to retest or quarantine if another exposure occurs within 90 days of their initial infection.
+Negative test results using a viral test (NAAT or antigen) in asymptomatic persons with recent known or suspected exposure suggest no current evidence of infection. These results represent a snapshot of the time around specimen collection and could change if tested again in one or more days. In instances of higher pretest probability, such as high incidence of infection in the community, or a person with household or continuous contact to a person with COVID-19, clinical judgement should determine if a positive antigen result for an asymptomatic person should be followed by a laboratory-based confirmatory NAAT. Results from NAATs are considered the definitive result when there is a discrepancy between the antigen and NAAT test. For more information, see the Antigen Test Algorithm pdf icon[457 KB, 1 page].
+Because of the potential for asymptomatic and presymptomatic transmission, it is important that unvaccinated individuals exposed to people with known or suspected COVID-19 be quickly identified and quarantined. Persons with positive results should remain in isolation until they have met the criteria for discontinuing isolation. Persons with negative results should remain in quarantine for 14 days unless other guidance is given by the local, tribal, or territorial public health authority. Fully vaccinated people with no COVID-like symptoms do not need to quarantine or be tested following an exposure to someone with suspected or confirmed COVID-19, as their risk of infection is low.  Based on local circumstances and resources, CDC has provided options to shorten quarantine, including the use of a test-based strategy. More information on the scientific foundation behind these recommendations is available in Options to Reduce Quarantine for Contacts of Persons with SARS-CoV-2 Infection Using Symptom Monitoring and Diagnostic Testing.
+Confidentiality of the individual with COVID-19 should be maintained when informing close contacts of their possible exposure to SARS-CoV-2. People are encouraged to work with public health departments investigating cases of COVID-19, including identification of close contacts.
+Information to help public health departments and healthcare providers prepare for expanded viral testing in facilities after known or suspected SARS-CoV-2 exposure or when there are substantial or high levels of community transmission (Table 2) is available in CDC’s Performing Broad-Based Testing for SARS-CoV-2 in Congregate Settings.
+Testing to determine resolution of infection
+Accumulating evidence supports ending isolation and precautions for persons with COVID-19 using a symptom-based strategy. Adults with more severe illness or who are immunocompromised may remain infectious up to 20 days or longer after symptom onset, so a test-based strategy could be considered in consultation with infectious disease experts for these people. For all others, a test-based strategy is no longer recommended except to discontinue isolation or precautions earlier than would occur under the symptom-based strategy.
+Screening Testing
+Testing asymptomatic persons without recent known or suspected exposure to SARS-CoV-2 for early identification, isolation, and disease prevention
+Persons with asymptomatic or presymptomatic infection are frequent contributors to community SARS-CoV-2 transmission and occurrence of COVID-19. Widespread testing, regardless of signs or symptoms, is a key component to a layered approach to mitigating the transmission of SARS-CoV-2. Screening allows early identification and isolation of persons who are asymptomatic, presymptomatic, or have only mild symptoms and who might be unknowingly transmitting virus. Screening can be particularly helpful in certain scenarios (see examples below), especially when testing is done serially and in areas with substantial or high levels of community transmission (Table 2) or in the setting of outbreaks.
+Use of point-of-care tests, such as antigen tests, for screening can play an important role in testing as a prevention strategy due to the short turn-around time for results. Antigen tests are most sensitive in the early stages of infection when viral loads are high and have decreasing sensitivity as disease progresses and when transmission may be less likely. The decreased sensitivity of antigen tests might be offset if the point-of-care antigen tests are repeated more frequently (i.e., serial testing at least weekly). Thus, when screening large numbers of persons (e.g., a well-defined cohort) without known or suspected exposure to SARS-CoV-2, a test sensitivity may be less critical than whether the test can be performed more frequently and provide rapid results with immediate isolation of infected individuals.3 Outbreak prevention and control is increasingly thought to depend largely on the frequency of testing and the speed of reporting (an advantage of antigen tests) and is only marginally improved – in the context of serial tests — by the higher test sensitivity of NAATs. In screening settings where antigen tests are used on asymptomatic people, laboratory-based confirmatory NAAT testing is recommended for individuals who test positive. For interpretation of screening test results, please see the Antigen Test Algorithm pdf icon[457 KB, 1 page].
+People without symptoms and without known exposure to COVID-19 do not need to quarantine while awaiting screening test results. If a person tests positive on a screening test and is referred for a confirmatory test, they should quarantine until they receive the results of their confirmatory test. For guidance on quarantine and testing of fully vaccinated people, please visit Interim Public Health Recommendations for Fully Vaccinated People.
+Screening testing as a prevention strategy
+Screening testing can improve detection of SARS-CoV-2.
+Widespread testing (e.g., within cohorts) with rapid isolation of infected individuals may facilitate re-opening of businesses, communities, and schools (e.g., in-person instruction in K-12 schools5) with less risk of a surge in local cases.
+Frequent testing (1–2 times per week) combined with other risk reduction strategies, contributed to low case rates in a university setting.6
+Frequency of testing could be informed by:
+Current community indicators for COVID-19 such as cumulative incidence in the past 7 days and test positivity rate (Table 2), in addition to other known factors about the epidemiology of transmission in a particular community or cohort.
+Characteristics (e.g., size, proximity of people, duration of interaction) of the school, workplace, residential setting, or gathering. If initial results indicate transmission is substantial or high (Table 2), more frequent screening might be needed regardless of other community indicators.
+The incubation period for COVID-19. Given that the incubation period can be (up to 14 days, CDC recommends conducting screening testing at least weekly.
+Testing using a tiered approach, analogous to testing described in high-density critical workplace and institutes of higher education guidance, could be considered and might be particularly important for low incidence areas.
+On some school campuses (e.g., institutes of higher learning), students may be tested upon arrival on campus or upon return from extended breaks.
+See additional guidance to facilitate implementation of screening in congregate settings.
+Examples of groups to prioritize for screening testing
+These examples can guide development of local recommendations to prioritize select groups for screening testing, taking into account feasibility and costs. Initial sampling of subgroups for screening testing to evaluate the need for additional screening testing in a particular group may also be considered. In communities with substantial or high levels of community transmission (Table 2), health departments should ensure there are resources (trained staff and testing supplies) available to provide expanded screening testing. These examples are not listed in a priority order. As vaccine supply increases and additional priority groups receive vaccine, CDC’s priorities for SARS-CoV-2 screening testing will change and the guidance will be updated.
+Racial and ethnic minority groups and other populations disproportionately affected by COVID-19
+Teachers and staff in K-12 schools and/or childcare settings
+Students, faculty, and staff at institutions of higher education (including community colleges and technical schools)
+Workers in high-density worksites or worksites with large numbers of close contacts to co-workers or customers (e.g., restaurant workers, transportation workers, grocery store workers)
+Government workers with public interactions as part of their duties (e.g., post office workers)
+First responders (e.g., police, fire, EMT) and healthcare personnel
+Residents and staff in congregate settings such as shelters serving the homeless and correctional and detention facilities or residential settings such as nursing homes or those serving persons with disabilities; workplaces that provide congregate housing (e.g., fishing vessels, offshore platforms, farmworker housing or wildland firefighter camps); military training facilities (e.g., barracks)
+Persons who recently traveled, either domestic or international, and those who attended mass gatherings
+Patients in healthcare settings
+Specific age groups (e.g., young adults) for whom increases have been documented early as incidence rises, especially in communities with substantial or high transmission (Table 2).
+Table 2. Community Indicators at the County Level@
+Indicator
+Low
+Moderate
+Substantial
+High
+Table 1. CDC Indicators and Thresholds for Community Transmission of COVID-19
+Cumulative number of new cases per 100,000 persons within the last 7 days*
+<10
+10-49
+50-99
+≥100
+Percentage of NAATs that are positive during the last 7 days†
+<5%
+5%-7.9%
+8%-9.9%
+≥10.0%
+Indicators should be calculated for counties or core based statistical areas, although in rural areas with low population density, multiple jurisdictions might need to be combined to make the indicators more useful for decision-making. The indicators listed can be found by county on CDC’s COVID Data Tracker Website under “county view”.
+@ If the two indicators suggest different transmission levels, the higher level should be selected.
+* Number of new cases in the county (or other administrative level) in the last 7 days divided by the population in the county (or other administrative level) and multiplying by 100,000.
+† Number of positive tests in the county (or other administrative level) during the last 7 days divided by the total number of tests resulted in the county (or other administrative level) during the last 7 days. Calculating Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Laboratory Test Percent Positivity: CDC Methods and Considerations for Comparisons and Interpretation.
+Top of PagePublic Health Surveillance Testing for SARS-CoV-2
+Public health surveillance is the ongoing, systematic collection, analysis, and interpretation of health-related data essential to the planning, implementation, and evaluation of public health practice. See CDC’s Introduction to Public Health Surveillance.
+Public health surveillance testing is intended to monitor community- or population-level outbreaks of disease, or to characterize the incidence and prevalence of disease. Surveillance testing is performed on de-identified specimens, and thus, results are not linked to individual people. Public health surveillance testing results cannot be used for individual decision-making.
+Public health surveillance testing may sample a certain percentage of a specific population to monitor for increasing or decreasing prevalence, or to determine the population effect from community interventions such as social distancing. An example of public health surveillance testing is when a state public health department develops a plan to randomly select and sample a percentage of all people in a city on a rolling basis to assess local infection rates and trends.
+“Wastewater,” also referred to as “sewage,” includes water from household/building use (i.e., toilets, showers, sinks) that can contain human fecal waste, as well as water from non-household sources (e.g., rainwater and industrial use). Wastewater can be tested for RNA from SARS-CoV-2. Data from wastewater testing are not meant to replace existing COVID-19 surveillance systems. Institutes of higher education (IHEs) with the resources to implement wastewater surveillance should develop a wastewater surveillance strategy in consultation with local public health authorities.
+CDC is working with state, local, territorial, academic, and commercial partners to conduct surveillance to better understand COVID-19 in the United States. For more information visit:
+Cases, Data, and Surveillance
+COVID-19-Associated Hospitalization Surveillance Network (COVID-NET)
+COVID-19 Serology Surveillance
+National Wastewater Surveillance System (NWSS)
+FAQ: COVID-19 Data & Surveillance
+Surveillance and Data Analytics
+CDC’s Diagnostic Multiple Assay for Flu and COVID-19 at Public Health Laboratories and Supplies
+Emerging SARS-CoV-2 Variants (SARS-CoV-2 Strain Surveillance)
+Top of PageSetting-specific Testing Guidance
+Testing in Healthcare Settings
+Nursing Homes
+Acute Care Facilities
+Infection Prevention and Control Recommendations for Healthcare Personnel
+Testing in Communities, Schools and Workplaces
+K-12 Schools
+Institutes of Higher Education
+Healthcare Personnel
+Non-Healthcare Workplaces
+High-Density Critical Workplaces
+Homeless Shelters
+Correctional and Detention Facilities
+Testing Information for the Public
+Testing Guidance for the Public
+Testing and International Air Travel
+Frequently Asked Questions: Testing
+Other Testing Resources
+Antigen Testing Algorithm pdf icon[457 KB, 1 page]
+Interim Guidelines for COVID-19 Antibody Testing
+Pooled Procedures for Testing
+Laboratory Resources
+Performing Facility-Wide Testing in Nursing Homes
+Testing in K-12 Settings Playbookexternal icon
+Previous Updates
+Updates from Previous Content
+As of October 21, 2020
+Added links to the updated close contact definition.
+Updated language to align with updated definition and to align with sitewide changes
+As of September 18, 2020
+Due to the significance of asymptomatic and pre-symptomatic transmission, this guidance further reinforces the need to test asymptomatic persons, including close contacts of a person with documented SARS-CoV-2 infection.
+As of August 24, 2020
+Diagnostic testing categories have been edited to focus on testing considerations and actions to be taken by individuals undergoing testing
+As of July 17, 2020
+Except for rare situations, a test-based strategy is no longer recommended to determine when an individual with a SARS-CoV-2 infection is no longer infectious (i.e., to discontinue Transmission-Based Precautions or home isolation)
+As of July 2, 2020
+Added screening to possible testing types
+Removed examples – please refer to setting specific guidance
+Top of Page
+References
+Mina MJ, Andersen KG. COVID testing: One size does not fit all. Science 2021;371(6525):126-127. doi: 10.1126/science.abe9187external icon.
+Morris SB, Schwarts NG, Patel P, et al. Case series of Multisystem Inflammatory Syndrome in Adults Associated with SARS-CoV-2 Infection – United Kingdom and United States, March – August 2020. MMWR. 2020;69(40)1450-1456. doi: 10.15585/mmwr.mm6940e1external icon.
+Paltiel AD, Zheng A, Walensky RP. Assessment of SARS-CoV-2 Screening Strategies to Permit the Safe Reopening of College Campuses in the United States. JAMA Netw Open. 2020;3(7):e2016818. doi:10.1001/jamanetworkopen.2020.16818external icon.
+Larremore DB, Wilder B, Lester E, et al. Test sensitivity is secondary to frequency and turnaround time for COVID-19 screening. Sci Adv. 2020;20(7):eabd5393. doi:10.1126/sciadv.abd5393external icon.
+Bracis C, Burns E, Moore M, Swan D, Reeves DB, Schiffer JT, Dimitrov D. Widespread testing, case isolation and contact tracing may allow safe school reopening with continued moderate physical distancing: A modeling analysis of King County, WA data. Infect Dis Model. 2020;13(6):24-3 doi: 10.1016/j.idm.2020.11.003external icon.
+Denny TN, Andrews L, Bonsignori M, et al. Implementation of a pooled surveillance testing program for asymptomatic SARS-CoV-2 infections on a college campus – Duke University, Durham, North Carolina, August 2 – October 1, 2020. MMWR 2020;69(45):1743-1747. doi: 10.15585/mmwr.mm6946e1.

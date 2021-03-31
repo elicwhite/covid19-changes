@@ -132,7 +132,7 @@ New information about COVID-19-Associated Hypercoagulability
 Updated content and resources to include new NIH Treatment Guidelines
 Minor revisions for clarity
 Top of Page
-CDC Resources
+Related Pages
 Healthcare Professionals: Frequently Asked Questions and Answers
 Information for Pediatric Healthcare Providers
 Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19)
@@ -141,7 +141,7 @@ Infection Control Guidance for Healthcare Professionals about COVID-19
 Interim Infection Prevention and Control Recommendations for Patients with Suspected or Confirmed Coronavirus Disease 2019 (COVID-19) or in Healthcare Settings
 Evaluation and Management Considerations for Neonates At Risk for COVID-19
 COVID Data Tracker Weekly Review
-Additional resources
+More Information
 World Health Organization. Interim Guidance on Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspectedexternal icon
 Surviving Sepsis Campaign: Guidelines on the Management of Critically Ill Adults with Coronavirus Disease 2019 (COVID-19)pdf iconexternal icon
 Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016external icon

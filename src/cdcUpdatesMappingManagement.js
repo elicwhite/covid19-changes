@@ -403,4 +403,5 @@ export default {
   '21-04-06': raw('../cdcupdates/management/21-04-06.txt'),
   '21-04-07': raw('../cdcupdates/management/21-04-07.txt'),
   '21-04-08': raw('../cdcupdates/management/21-04-08.txt'),
+  '21-04-09': raw('../cdcupdates/management/21-04-09.txt'),
 };

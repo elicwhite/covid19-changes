@@ -12,7 +12,7 @@ CDC recently introduced a classification system to rank the risk of the variants
 CDC Classification System to Rank the Risk of Variants
 Variant of Interest
 Variant of Concern
-Variant of High Concern*
+Variant of High Consequence*
 Predicted to be more contagious
 Yes
 Yes

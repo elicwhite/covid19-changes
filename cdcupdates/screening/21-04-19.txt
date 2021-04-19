@@ -15,7 +15,7 @@ Key Points
 Persons with signs or symptoms of COVID-19 should have diagnostic testing.
 Rapid, point-of care serial screening can identify asymptomatic cases and help interrupt SARS-CoV-2 transmission. This is especially important when community risk or transmission levels are substantial or high.
 The selection and interpretation of SARS-CoV-2 tests should be based on the context in which they are being used, including the prevalence of SARS-CoV-2 in the population being tested.
-Prior receipt of an mRNA COVID-19 vaccine will not affect the results of SARS-CoV-2 viral tests (NAAT or antigen).
+Prior receipt of a COVID-19 vaccine will not affect the results of SARS-CoV-2 viral tests.
 Note: This document is intended to provide guidance on the categories of viral testing and intended uses of testing for SARS-CoV-2 in light of additional testing capacity throughout the country and does not address decisions regarding payment for or insurance coverage of such testing.
 On This Page
 IntroductionConsiderations When TestingVaccination and SARS-CoV-2 TestingTesting for SARS-CoV-2 Infection
@@ -69,7 +69,7 @@ Table 1. NAAT and Antigen Test Differences to Consider When Planning for Diagnos
 NAATs
 Antigen Tests
 Intended Use
-Detect current infection^
+Detect current infection*
 Detect current infection
 Analyte Detected
 Viral Ribonucleic Acid (RNA)
@@ -109,7 +109,7 @@ A positive NAAT diagnostic test should not be repeated within 90 days, since peo
 May need confirmatory testing
 Less sensitive (more false negative results) compared to NAATs, especially among asymptomatic people
 *The decreased sensitivity of antigen tests might be offset if the point-of-care antigen tests are repeated more frequently (i.e., serial testing at least weekly).
-^ Costs for: NAATsexternal icon, Antibody testsexternal icon
+*Costs for: NAATsexternal icon, Antibody testsexternal icon
 Health Equity in SARS-CoV-2 Testing
 CDC’s COVID-19 Response Health Equity Strategy outlines a plan to reduce the disproportionate burden of COVID-19 among racial and ethnic minority populations and other population groups (e.g., essential and frontline workers, people living in rural or frontier areas) who have experienced a disproportionate burden of COVID-19. One component to move towards greater health equity and to stop transmission of SARS-CoV-2 is ensuring availability of resources, including access to testing for populations who have experienced longstanding, systemic health and social inequities. All population groups, including racial and ethnic minority groups, should have equal access to affordable and timely SARS-CoV-2 testing – with fast turnaround time for results — for diagnosis and screening to reduce community transmission. Efforts should be made to address barriers that might overtly or inadvertently create inequalities in testing. In addition, completeness of race and ethnicity data is an important factor in understanding the impact the virus has on racial and ethnic minority populations. The U.S. Department of Health and Human Services has required laboratories and testing facilities to reportexternal icon race and ethnicity data to health departments, in addition to other data elements, for individuals tested for SARS-CoV-2 or diagnosed with COVID-19. Healthcare providers and public health professionals need to ask and record race and ethnicity for anyone receiving a reportable test result and ensure these data are reported with the person’s test results in order to facilitate understanding the impact of COVID-19 on racial and ethnic minority populations.
 In communities with a higher proportion of racial and ethnic minority populations and other populations disproportionately affected by COVID-19, health departments should ensure there is timely and equitable access to and availability of testing with fast result return, especially when the level of community transmission is substantial or high.

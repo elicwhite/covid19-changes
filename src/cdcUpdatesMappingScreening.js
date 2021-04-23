@@ -417,4 +417,5 @@ export default {
   '21-04-20': raw('../cdcupdates/screening/21-04-20.txt'),
   '21-04-21': raw('../cdcupdates/screening/21-04-21.txt'),
   '21-04-22': raw('../cdcupdates/screening/21-04-22.txt'),
+  '21-04-23': raw('../cdcupdates/screening/21-04-23.txt'),
 };

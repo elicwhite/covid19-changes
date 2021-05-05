@@ -1,0 +1,131 @@
+COVID Data Tracker Weekly Review
+Updated Apr. 30, 2021
+Print
+Minus
+Related Pages
+Subscribe to the Weekly Review
+Interpretive Summary for April 30, 2021
+Think Globally. Get Vaccinated. Travel Locally.
+The COVID-19 pandemic continues to break daily records, even as the global vaccination pace accelerates. Additionally, multiple variants of the virus that causes COVID-19 are circulating globally and within the United States. On April 19, 2021, the U.S. Department of Stateexternal icon issued a Travel Advisory Updateexternal icon resulting in a significant increase in the number of countries classified as “Level 4: Do Not Travel,” to approximately 80% of countries worldwide.
+With summer quickly approaching and vaccination rates increasing, many people are eager to travel. Additionally, many countries and states are loosening restrictions for visitors. CDC recommends delaying travel until you are fully vaccinated because travel increases your chance of getting and spreading COVID-19. International travel poses additional risks, and even fully vaccinated travelers are at increased risk for getting and possibly spreading new COVID-19 variants. The COVID-19 situation differs from country to country, and you should pay close attention to the situation at your destination before traveling.
+Once you are fully vaccinated, you can travel safely within the United States but you should follow domestic travel recommendations and consider levels of community transmission when selecting a domestic travel destination. Your method of transportation, type of accommodation, and activities during travel can increase your risk of getting and spreading COVID-19. If you are not fully vaccinated and must travel, you should get tested for COVID-19 before and after travel.
+The safest way to travel is by practicing prevention strategies and getting vaccinated. To find a vaccine provider near you, visit Vaccine Finderexternal icon or your state or local public health department website.
+Reported CasesThe current 7-day moving average of daily new cases (52,528) decreased 16.2% compared with the previous 7-day moving average (62,653). Compared with the highest peak on January 8, 2021 (249,669), the current 7-day average decreased 79.0%. A total of 32,031,068 COVID-19 cases have been reported as of April 28.
+32,031,068
+Total Cases Reported
+52,528
+Current 7-Day Average*
+62,653
+Prior 7-Day Average
+-16.2%
+Change in 7-Day Average since Prior Week
+*Historical cases are excluded from daily new cases and 7-day average calculations until they are incorporated into the dataset for the applicable date. Of 84,981 historical cases reported retroactively, 3,462 were reported in the current week and 4,324 were reported in the prior week.
+Note: In the above table, historical data with missing report dates are excluded from current and prior 7-day averages, and the percent change in the 7-day average.
+Daily Trends in COVID-19 Cases in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Case Data
+SARS-CoV-2 VariantsMultiple variants of the virus that causes COVID-19 are circulating globally and within the United States. To date, five variants have been classified as a variant of concern, and the proportions of cases caused by these variants are summarized below. Based on specimens collected from March 28 to April 10, an estimated 59.2% of COVID-19 cases in the United States are caused by the SARS-CoV-2 variant B.1.1.7. The proportion of cases caused by B.1.429 is estimated at 4.5%, and the proportion of cases caused by B.1.427 is estimated at 1.8%. Variant P.1 is estimated to comprise 3.5% of COVID-19 cases, and the proportion of B.1.351 cases is estimated to be 0.9% for the two weeks ending April 10. Proportion estimates provided in COVID Data Tracker can now be viewed at the national or regional level in 2-week intervals.
+CDC and partners are increasing the number of specimens sequenced in laboratories around the country. For the week ending April 24, over 27,000 sequences were published in public repositories through CDC sequencing efforts. Studies are underway to determine whether variants are more transmissible, cause more severe illness, or are likely to evade immunity brought on by prior illness or vaccination.
+Note: To paint a clearer picture of how prevalent specific variants are in the United States, CDC analyzes available genomic sequence data from specimens of SARS-CoV-2 collected from patients. These data are weighted to account for known differences in diagnostic testing and sequencing across time and geography.
+SARS-CoV-2 Variants Circulating in the United States
+resize iconView LargerClosedownload iconDownload Image[JPG]
+resize iconView LargerClosedownload iconDownload Image[JPG]
+More Variants Data
+TestingThe percentage of COVID-19 RT-PCR tests that are positive (percent positivity) has decreased from the previous week. The 7-day average of percent positivity from tests is now 4.5%. The 7-day average number of tests reported for April 16-April 22 was 1,213,013, down 3.1% from 1,251,597 for the prior 7 days.
+413,060,172
+Total Tests Reported
+413,060,172
+Total Tests Reported
+1,213,013
+7-Day Average Tests Reported
+4.5%
+7-Day Average % Positivity
+413,060,172
+Total Tests Reported
+5.1%
+Previous 7-Day Average % Positivity
+-12.2%
+Change in 7-Day Average % Positivity since Prior Week
+COVID-19 Viral (RT-PCR) Laboratory Test 7-day Percent Positivity by State/Territory
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Testing Dataexternal icon
+VaccinationsThe U.S. COVID-19 Vaccination Program began December 14, 2020. As of April 29, 237.4 million vaccine doses have been administered. Overall, about 143.7 million people, or 43.3% of the total U.S. population, have received at least one dose of vaccine. About 99.7 million people, or 30% of the total U.S. population, have been fully vaccinated.* As of April 29, the 7-day average number of administered vaccine doses reported to CDC per day was 2.6 million, a 10.7% decrease from the previous week.
+The COVID Data Tracker Vaccination Demographic Trends tab shows vaccination trends by age group. As of April 29, 82.1% of people ages 65 or older have received at least one dose of vaccine and 68.4% are fully vaccinated. Just over one-half (54.9%) of people ages 18 or older have received at least one dose of vaccine and 38.4% are fully vaccinated.
+237,360,493
+Vaccines Administered
+143,793,565
+People who received at least one dose
+99,668,945
+People who are fully vaccinated*
+43.3%
+Percentage of the US population that has received at least one dose
+30%
+Percentage of the US population that has been fully vaccinated*
++2.4
+Percentage point increase from last week
++3.1
+Percentage point increase from last week
+*People who are fully vaccinated (formerly “receiving 2 doses”) represents the number of people who have received the second dose in a two-dose COVID-19 vaccine series or one dose of the single-shot J&J/Janssen COVID-19 vaccine.
+Daily Change in Number of COVID-19 Vaccinations in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Vaccination Data
+HospitalizationsNew Hospital Admissions
+The current 7-day average for April 21–April 27 was 5,057. This is a 9.8% decrease from the prior 7-day average (5,607) from April 14–April 20. Previously, the 7-day moving average for new admissions had been generally increasing from March 22 until April 18.
+2,098,135
+Total New Admissions
+5,057
+Current 7-Day Average
+5,607
+Prior 7-Day Average
+-9.8%
+Change in 7-Day Average
+Daily Trends in Number of New COVID-19 Hospital Admissions in the United States
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+New admissions are pulled from a 10 am EST snapshot of the HHS Unified Hospital Timeseries Dataset. Due to potential reporting delays, data from the most recent 7 days, as noted in the figure above with the grey bar, should be interpreted with caution. Small shifts in historic data may also occur due to changes in the CMS Provider of Services file, which is used to identify the cohort of included hospitals.
+More Hospital Data
+COVID-NET: Trends in Clinical Outcomes
+CDC’s Coronavirus Disease 2019-Associated Hospitalization Surveillance Network (COVID-NET) now has monthly data describing severe COVID-19 over the first year of the pandemic, including data on in-hospital deaths. Among hospitalized cases, the percentage of in-hospital deaths declined during the first 8 months of the pandemic, then increased to 12.9% in December. In February 2021, the percentage of hospitalized patients who died in the hospital decreased to 6.4%, possibly as a result of a lower proportion of older patients hospitalized compared to past months. Positive trends may also in part have been due to evolving healthcare provider and system practices, guided by increasing knowledge and experience in treating patients with COVID-19.
+Additional information on monthly trends in clinical outcomes can be found hereexternal icon.
+Trends in In-Hospital Deaths in COVID-19 Associated Hospitalizations
+resize iconView Larger
+Close
+download iconDownload Image[GIF]
+The Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET) is an additional source for hospitalization data collected through a network of more than 250 acute-care hospitals in 14 states (representing ~10% of the U.S. population). Detailed data on patient demographics, including race/ethnicity, underlying medical conditions, medical interventions, and clinical outcomes, are collected using a standardized case reporting form.
+More COVID-NET Data
+DeathsSince April 19, the 7-day moving average has been lower compared with the 7-day moving average of the prior week. The current 7-day moving average of new deaths (628) decreased 8.2% compared with the previous 7-day moving average (684). As of April 28, a total of 571,297 COVID-19 deaths have been reported.
+571,297
+Total Deaths Reported
+628
+Current 7-Day Average*
+684
+Prior 7-Day Average
+-8.2%
+Change in 7-Day Average Since Prior Week
+*Historical deaths are excluded from the daily new deaths and 7-day average calculations until they are incorporated into the dataset by their applicable date. Of 14,101 historical deaths reported retroactively, 278 were reported in the current week and 243 were reported in the prior week.
+Note: In the above table, historical data with missing report dates are excluded from current and prior 7-day averages, and the percent change in the 7-day average.
+Daily Trends in Number of COVID-19 Deaths in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Death Data
+Recent CDC COVID-19 Publications
+Updated Recommendations from the Advisory Committee on Immunization Practices for Use of the Janssen (Johnson & Johnson) COVID-19 Vaccine After Reports of Thrombosis with Thrombocytopenia Syndrome Among Vaccine Recipients — United States, April 2021
+Health Care Utilization and Clinical Characteristics of Nonhospitalized Adults in an Integrated Health Care System 28–180 Days After COVID-19 Diagnosis — Georgia, May 2020–March 2021
+Airport Traveler Testing Program for SARS-CoV-2 — Alaska, June–November 2020
+COVID-19 Outbreaks in Correctional Facilities with Work-Release Programs — Idaho, July–November 2020
+Laboratory Modeling of SARS-CoV-2 Exposure Reduction Through Physically Distanced Seating in Aircraft Cabins Using Bacteriophage Aerosol — November 2020
+Effectiveness of Pfizer-BioNTech and Moderna Vaccines Against COVID-19 Among Hospitalized Adults Aged ≥65 Years — United States, January–March 2021
+Recent COVID Data Tracker Updates
+New State-Issued Prevention Measure tabs at the State and County levels show prevention measures alongside case and death trends
+Updated New Hospital Admissions and Current Hospitalizations tabs display trends by region, state, jurisdiction, or territory

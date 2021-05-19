@@ -1,0 +1,134 @@
+COVID Data Tracker Weekly Review
+Updated May 14, 2021
+Print
+Minus
+Related Pages
+Subscribe to the Weekly Review
+Interpretive Summary for May 14, 2021
+Slay the Virus
+resize iconView LargerClosedownload iconDownload Image[JPG]
+On May 10, 2021, the Food and Drug Administrationexternal icon (FDA) issued an Emergency Use Authorization (EUA) for the Pfizer-BioNTech COVID-19 Vaccine for use in adolescents ages 12-15 years. On May 14, CDC’s Advisory Committee on Immunization Practices (ACIP) issued an interim recommendation in support of the EUA for the prevention of COVID-19 in adolescents ages 12-15 years. Additionally, CDC recently announced that fully vaccinated people, including adolescents, no longer need to wear masks in most situations. These announcements come as many families are looking forward to summer plans, including camp, youth sports, and travel. Authorization also comes as young people make up a rising proportion of new coronavirus cases in the United States.
+Vaccinating adolescents is an important step toward stopping the spread of COVID-19. Yet, adolescent vaccination has been met with mixed reactions, with some parents eager to vaccinate their children against COVID-19, and others expressing hesitancy. Pfizer’s COVID-19 vaccine was found to be safe and effective in adolescents between the ages of 12-15 years in clinical trials. Side effects were generally consistent with those experienced by people ages 16-25 years. Side effects are typically normal signs that the body is building protection against the virus that causes COVID-19.
+The COVID-19 pandemic has taken a toll on the mental health of many people, including adolescents. But as more people become eligible for vaccination, we have reason to be hopeful. In addition to preventing severe illness, COVID-19 vaccines will help adolescents safely return to doing the things they love – whether that’s school, sports and other extracurricular activities, or socializing with friends. If you or someone you know is considering adolescent COVID-19 vaccination, talk with your pediatrician or family physician about the benefits of vaccination. CDC also has resources on credible vaccine information, and support for teens and young adults facing challenges during the COVID-19 pandemic.
+Reported CasesThe current 7-day moving average of daily new cases (35,442) decreased 23.6% compared with the previous 7-day moving average (46,390). Compared with the highest peak on January 8, 2021 (250,037), the current 7-day average decreased 85.8%. A total of 32,643,851 COVID-19 cases have been reported as of May 12.
+32,643,851
+Total Cases Reported
+35,442
+Current 7-Day Average*
+46,390
+Prior 7-Day Average
+-23.6%
+Change in 7-Day Average since Prior Week
+*Historical cases are excluded from daily new cases and 7-day average calculations until they are incorporated into the dataset for the applicable date. Of 89,986 historical cases reported retroactively, 1,651 were reported in the current week and 1,649 were reported in the prior week.
+Note: In the above table, historical data with missing report dates are excluded from current and prior 7-day averages, and the percent change in the 7-day average.
+Daily Trends in COVID-19 Cases in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Case Data
+SARS-CoV-2 VariantsNowcast estimates are now available on COVID Data Tracker. Current nowcast estimates are modeled data based on sequencing data from previous weeks. Nowcast provides timely estimates for the present, while accounting for limited sequence data availability, as specimens from the most current time interval are still being processed.
+Multiple variants of the virus that causes COVID-19 are circulating globally and within the United States. To date, five variants have been classified as a variant of concern (VOC). Nowcast estimates of SARS-CoV-2 cases caused by these VOCs for the two weeks ending May 8 are summarized here. Nationally, B.1.1.7 proportions are predicted to increase to 72.4%; P.1 proportions are predicted to increase to 6.2%; B.1.427/B.1.429 proportions are predicted to decrease; and B.1.351 proportions are predicted to decrease. Nowcast estimates predict that B.1.1.7 proportions will increase to more than 60% in HHS regions 3 – 10. B.1.351 is predicted to increase in regions 3 and 10; P.1 is predicted to increase in all regions except 7 and 8; and B.1.427/429 will be highest in regions 9 and 10. B.1.617.2, a new variant of interest, is predicted to increase in regions 2, and 7 – 9.
+SARS-CoV-2 Variants Circulating in the United States
+resize iconView LargerClosedownload iconDownload Image[JPG]
+resize iconView LargerClosedownload iconDownload Image[JPG]
+More Variants Data
+TestingThe percentage of COVID-19 RT-PCR tests that are positive (percent positivity) has decreased from the previous week. The 7-day average of percent positivity from tests is now 3.4%. The 7-day average number of tests reported for April 30-May 6 was 1,084,898, down 9.9% from 1,203,977 for the prior 7 days.
+429,553,942
+Total Tests Reported
+429,553,942
+Total Tests Reported
+1,084,898
+7-Day Average Tests Reported
+3.4%
+7-Day Average % Positivity
+429,553,942
+Total Tests Reported
+4.0 %
+Previous 7-Day Average % Positivity
+-15.0%
+Change in 7-Day Average % Positivity since Prior Week
+COVID-19 Viral (RT-PCR) Laboratory Test 7-day Percent Positivity by State/Territory
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Testing Dataexternal icon
+VaccinationsThe U.S. COVID-19 Vaccination Program began December 14, 2020. As of May 13, 266.6 million vaccine doses have been administered. Overall, about 154.6 million people, or 46.6% of the total U.S. population, have received at least one dose of vaccine. About 119 million people, or 35.8% of the total U.S. population, have been fully vaccinated.* As of May 13, the 7-day average number of administered vaccine doses reported to CDC per day was 2.09 million, a 0.06% increase from the previous week.
+The COVID Data Tracker Vaccination Demographic Trends tab shows vaccination trends by age group. As of May 13, 84.0% of people ages 65 or older have received at least one dose of vaccine and 71.8% are fully vaccinated. Over one-half (58.9%) of people ages 18 or older have received at least one dose of vaccine and 45.6% are fully vaccinated.
+266,596,486
+Vaccines Administered
+154,624,231
+People who received at least one dose
+118,987,308
+People who are fully vaccinated*
+46.6%
+Percentage of the US population that has received at least one dose
+35.8%
+Percentage of the US population that has been fully vaccinated*
++1.6
+Percentage point increase from last week
++3.0
+Percentage point increase from last week
+*People who are fully vaccinated represents the number of people who have received the second dose in a two-dose COVID-19 vaccine series or one dose of the single-shot J&J/Janssen COVID-19 vaccine.
+Daily Change in Number of COVID-19 Vaccinations in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Vaccination Data
+HospitalizationsNew Hospital Admissions
+The current 7-day average for May 5–May 11 was 4,049. This is a 12.4% decrease from the prior 7-day average (4,624) from April 28–May 4. The 7-day moving average for new admissions has been consistently decreasing since April 19.
+2,178,309
+Total New Admissions
+4,049
+Current 7-Day Average
+4,624
+Prior 7-Day Average
+-12.4%
+Change in 7-Day Average
+Daily Trends in Number of New COVID-19 Hospital Admissions in the United States
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+New admissions are pulled from a 10 am EST snapshot of the HHS Unified Hospital Timeseries Dataset. Due to potential reporting delays, data from the most recent 7 days, as noted in the figure above with the grey bar, should be interpreted with caution. Small shifts in historic data may also occur due to changes in the CMS Provider of Services file, which is used to identify the cohort of included hospitals.
+More Hospital Data
+COVID-NET: Trends in Hospitalizations in Children 5-17 years, including adolescents ages 12-17 years
+Children ages 5-17 years have the lowest hospitalization rate of all age groups; however, children can experience severe illness and hospitalization associated with COVID-19. Hospitalization rates in adolescents ages 12-17 are comparable to those among children ages 0-4 years, and higher than those among children ages 5-11 years.
+Among children ages 5-17 years, weekly COVID-19-associated hospitalization peaked at 1.3 per 100,000 persons in early January, then decreased to 0.4 per 100,000 persons in mid-March. However, data from late March and April show that hospitalization rates have steadily increased among children ages 5-17 years, increasing more than 200% since mid-March to 0.9 per 100,000 persons by late April. Hospitalization rates have increased in all pediatric age groups.
+Rising hospitalization rates in children highlight the need for continuing prevention efforts, including mask-wearing and physical distancing. Now that COVID-19 vaccination is authorized for adolescents ages 12 years and older, implementation of COVID-19 vaccines for all eligible people is another critical tool to reduce the risk of COVID-19 hospitalization in children.
+Trends in Hospitalizations in Children Ages 5-17 Years
+resize iconView Larger
+Close
+download iconDownload Image[GIF]
+The Coronavirus Disease 2019 (COVID-19)-Associate­­d Hospitalization Surveillance Network (COVID-NET) is an additional source for hospitalization data collected through a network of more than 250 acute-care hospitals in 14 states (representing ~10% of the U.S. population). Detailed data on patient demographics, including race/ethnicity, underlying medical conditions, medical interventions, and clinical outcomes, are  collected using a standardized case reporting form.
+More COVID-NET Data
+DeathsThe current 7-day moving average of new deaths (592) decreased 10.3% compared with the previous 7-day moving average (660). As of May 12, a total of 580,837 COVID-19 deaths have been reported.
+580,837
+Total Deaths Reported
+592
+Current 7-Day Average*
+660
+Prior 7-Day Average
+-10.3%
+Change in 7-Day Average Since Prior Week
+*Historical deaths are excluded from the daily new deaths and 7-day average calculations until they are incorporated into the dataset by their applicable date. Of 14,470 historical deaths reported retroactively, 213 were reported in the current week and 236 were reported in the prior week.
+Note:  In the above table, historical data with missing report dates are excluded from current and prior 7-day averages, and the percent change in the 7-day average.
+Daily Trends in Number of COVID-19 Deaths in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Death Data
+Recent CDC COVID-19 Publications
+Demographic and Social Factors Associated with COVID-19 Vaccination Initiation Among Adults Aged ≥65 Years — United States, December 14, 2020–April 10, 2021
+Diagnostic Performance of an Antigen Test with RT-PCR for the Detection of SARS-CoV-2 in a Hospital Setting — Los Angeles County, California, June–August 2020
+Community-Based Testing for SARS-CoV-2 — Chicago, Illinois, May–November 2020
+Rapid Emergence and Epidemiologic Characteristics of the SARS-CoV-2 B.1.526 Variant — New York City, New York, January 1–April 5, 2021
+Identification of and Surveillance for the SARS-CoV-2 Variants B.1.427 and B.1.429 — Colorado, January–March 2021
+Modeling of Future COVID-19 Cases, Hospitalizations, and Deaths, by Vaccination Rates and Nonpharmaceutical Intervention Scenarios — United States, April–September 2021
+Demographic and Social Factors Associated with COVID-19 Vaccination Initiation Among Adults Aged ≥65 Years — United States, December 14, 2020–April 10, 2021
+Recent COVID Data Tracker Updates
+Addition of 12-15-year-old age group as a population of interest on the Vaccinations in the US tab
+Updated Vaccination data on the County View tab shows the percentage of the population 12 years and over that is  fully vaccinated by county
+Addition of more bars to indicate vaccination administration in the last 14 days for each demographic category on the Vaccination Demographics tab
+Addition of a new visualization to the New Hospital Admissions tab to show hospital admissions over time by state and age group

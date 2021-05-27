@@ -58,7 +58,7 @@ Laboratory and Radiographic Findings
 Testing for Infection
 Diagnosis of COVID-19 requires detection of SARS-CoV-2 RNA or antigen in respiratory specimens. Detection of SARS-CoV-2 viral RNA is better in nasopharynx samples compared with throat samples.(32,47,52) Lower respiratory samples may have better viral yield than upper respiratory samples.(53) SARS-CoV-2 antigen tests can also be used in a variety of testing strategies. See Interim Guidance for Rapid Antigen Testing for SARS-CoV-2 for more information about the effective use of antigen tests in different testing situations. SARS-CoV-2 RNA has also been detected in stool and blood.(51,54) Detection of SARS-CoV-2 RNA in blood may be a marker of severe illness.(55)
 Infection with both SARS-CoV-2 and with other respiratory viruses (e.g., influenza) or bacteria is well documented, and detection of another respiratory pathogen does not rule out COVID-19.(56)  Clinicians are encouraged to consider testing for other viral causes of respiratory illness, for example influenza, in addition to testing for SARS-CoV-2 depending on patient age, season, or clinical setting. Clinicians should also consider bacterial and fungal causes of pneumonia (e.g. Legionnaires’ disease in patients exposed to water from previously closed buildings or overnight travel, pneumococcal pneumonia, and coccidioidomycosis) in patients who are PCR-negative for SARS CoV-2, as clinically indicated. See IDSA/ATS guidelinesexternal icon.
-For more information about COVID-19 testing and specimen collection, handling and storage, visit Overview of Testing for SARS-CoV-2 (COVID-19) and Frequently Asked Questions about COVID-19 for Laboratories.
+For more information about COVID-19 testing and specimen collection, handling and storage, visit Frequently Asked Questions about COVID-19 for Laboratories.
 Other Laboratory Findings
 Lymphopenia is the most common laboratory finding among people with COVID-19 and is found in up to 83% of hospitalized patients.(1,5) Lymphopenia, neutrophilia, elevated serum alanine aminotransferase and aspartate aminotransferase levels, elevated lactate dehydrogenase, high C-reactive protein (CRP), and high ferritin levels may be associated with greater illness severity.(1,5,6,8) Elevated D-dimer and lymphopenia have been associated with mortality.(8,37,57,58) Procalcitonin is typically normal on admission but may increase among those patients admitted to an ICU.(4-6) Patients with critical illness had high plasma levels of inflammatory makers, suggesting potential immune dysregulation.(5,59)
 Radiographic Findings
@@ -134,7 +134,6 @@ Top of Page
 Related Pages
 Healthcare Professionals: Frequently Asked Questions and Answers
 Information for Pediatric Healthcare Providers
-Evaluating and Testing Persons for Coronavirus Disease 2019 (COVID-19)
 Frequently Asked Questions on COVID-19 Testing at Laboratories
 Infection Control Guidance for Healthcare Professionals about COVID-19
 Interim Infection Prevention and Control Recommendations for Patients with Suspected or Confirmed Coronavirus Disease 2019 (COVID-19) or in Healthcare Settings

@@ -1,0 +1,130 @@
+COVID Data Tracker Weekly Review
+Updated May 28, 2021
+Print
+Minus
+Related Pages
+Subscribe to the Weekly Review
+Interpretive Summary for May 28, 2021
+What’s Up, Doc?
+resize iconView LargerClosedownload iconDownload Image[JPG]
+COVID-19 cases and deaths in the United States have dropped to their lowest levels in nearly a year, and the number of people vaccinated continues to grow. As of May 27, 2021, nearly 133 million people in the U.S. are fully vaccinated, and the national percentage of COVID-19 tests that came back positive over the last 7 days was less than 3%. This is one of the lowest rates the United States has seen since widespread testing began. These encouraging trends come as many people are making plans to travel, gather with friends and family, and resume other activities they had avoided since the start of the pandemic.
+In addition to delaying travel plans and gatherings over the past year, many people also delayed or avoided medical care, including urgent or emergency care, and routine care.1 There were many reasons for this, including stay-at-home orders, temporary closures of health facilities, shifting focus of health care facilities, or safety concerns.2 Unfortunately, delayed medical care can result in missed opportunities for management of chronic conditions, routine vaccinations, or early detection of new conditions, which could worsen health outcomes. Additionally, certain medical conditions put some people at higher risk for severe illness from COVID-19.
+As you make plans this summer, consider adding “visit my doctor” back to your list of things to do. Getting regular health care, routine screenings, and vaccinations – including one of the COVID-19 vaccines – can help prevent serious health problems, save money, and lead to better health. Health care facilities have extensive safety protocols in place to reduce the spread of SARS-CoV-2, the virus that causes COVID-19. If you remain concerned about the safety of visiting a health care facility, ask your doctor or healthcare provider about their safety protocols or whether they offer telehealth services. You might be surprised by the variety of care you can get through telehealth. If you’ve delayed medical care during the pandemic, now is the best time to see your doctor or healthcare provider.
+Reported CasesThe current 7-day moving average of daily new cases (21,627) decreased 22.3% compared with the previous 7-day moving average (27,818). Compared with the highest peak on January 8, 2021 (252,932), the current 7-day average decreased 91.4%. A total of 33,018,965 COVID-19 cases have been reported as of May 26.
+33,018,965
+Total Cases Reported
+21,627
+Current 7-Day Average*
+27,818
+Prior 7-Day Average
+-22.3%
+Change in 7-Day Average since Prior Week
+*Historical cases are excluded from daily new cases and 7-day average calculations until they are incorporated into the dataset for the applicable date. Of 88,582 historical cases reported retroactively, 2,402 were reported in the current week and 1,918 were reported in the prior week.
+Daily Trends in COVID-19 Cases in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Case Data
+SARS-CoV-2 VariantsMultiple variants of the virus that causes COVID-19 are circulating globally and within the United States. To date, five variants have been classified as a variant of concern (VOC). Nowcast estimates* of SARS-CoV-2 cases caused by these VOCs for the two weeks ending May 22 are summarized here. Nationally, B.1.1.7 proportions are predicted to stay at 74%; P.1 proportions are predicted to increase to 9.6%. B.1.427/B.1.429 proportions are predicted to decrease; and B.1.351 proportions are predicted to stay the same. Nowcast estimates predict that B.1.1.7 proportions will remain at more than 60% in all but HHS region 1. B.1.351 is predicted to remain higher in regions 3, 4, 9, and 10; P.1 is predicted to increase in all regions, and will be more than 10% in regions 1, 5, 9, and 10; and B.1.427/429 will remain highest in regions 9 and 10. B.1.617.2, a variant of interest, is predicted to be higher in regions 2, 6, 8, and 10.
+*Current Nowcast estimates are modeled data based on sequencing data from previous weeks. Nowcast provides timely estimates for the present, while accounting for limited sequence data availability, as specimens from the most current time interval are still being processed.
+SARS-CoV-2 Variants Circulating in the United States
+resize iconView LargerClosedownload iconDownload Image[PNG]
+resize iconView LargerClosedownload iconDownload Image[JPG]
+More Variants Data
+TestingThe percentage of COVID-19 NAATs (nucleic acid amplification tests) that are positive (percent positivity) has decreased from the previous week. The 7-day average of percent positivity from tests is now 2.6%. The 7-day average number of tests reported for May 14-May 20 was 909,846, down 10.7% from 1,018,748 for the prior 7 days.
+443,579,898
+Total Tests Reported
+443,579,898
+Total Tests Reported
+909,846
+7-Day Average Tests Reported
+2.6%
+7-Day Average % Positivity
+443,579,898
+Total Tests Reported
+2.9%
+Previous 7-Day Average % Positivity
+-12.9%
+Change in 7-Day Average % Positivity since Prior Week
+COVID-19 NAAT Laboratory Test 7-day Percent Positivity by State/Territory
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Testing Dataexternal icon
+VaccinationsThe U.S. COVID-19 Vaccination Program began December 14, 2020. As of May 27, 290.7 million vaccine doses have been administered. Overall, about 165.7 million people, or 49.9% of the total U.S. population, have received at least one dose of vaccine. About 132.8 million people, or 40% of the total U.S. population, have been fully vaccinated. As of May 27, the 7-day average number of administered vaccine doses reported to CDC per day was 1.6 million, a 11.51% decrease from the previous week.
+The COVID Data Tracker Vaccination Demographic Trends tab shows vaccination trends by age group. As of May 27, 85.5% of people ages 65 or older have received at least one dose of vaccine and 74.3% are fully vaccinated. Over half (62%) of people ages 18 or older have received at least one dose of vaccine and 50.6% are fully vaccinated.
+290,724,607
+Vaccines Administered
+165,718,717
+People who received at least one dose
+132,769,894
+People who are fully vaccinated*
+49.9%
+Percentage of the US population that has received at least one dose
+40%
+Percentage of the US population that has been fully vaccinated*
++1.7
+Percentage point increase from last week
++1.9
+Percentage point increase from last week
+*People who are fully vaccinated represents the number of people who have received the second dose in a two-dose COVID-19 vaccine series or one dose of the single-shot J&J/Janssen COVID-19 vaccine.
+Daily Change in Number of COVID-19 Vaccinations in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Vaccination Data
+HospitalizationsNew Hospital Admissions
+The current 7-day average for May 19–May 25 was 3,122. This is a 10.1% decrease from the prior 7-day average (3,473) from May 12–May 18. The current 7-day average is the lowest 7-day average since August 1, 2020.* The 7-day moving average for new admissions has been consistently decreasing since April 19.
+2,209,521
+Total New Admissions
+3,122
+Current 7-Day Average
+3,473
+Prior 7-Day Average
+-10.1%
+Change in 7-Day Average
+*The start of consistent reporting of hospitalization data was August 1, 2020.
+Daily Trends in Number of New COVID-19 Hospital Admissions in the United States
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+New admissions are pulled from a 10 am EST snapshot of the HHS Unified Hospital Timeseries Dataset. Due to potential reporting delays, data from the most recent 7 days, as noted in the figure above with the grey bar, should be interpreted with caution. Small shifts in historic data may also occur due to changes in the CMS Provider of Services file, which is used to identify the cohort of included hospitals.
+More Hospital Data
+COVID-NET: Underlying Medical Conditions in People with COVID-19-Associated Hospitalizations
+Having certain medical conditions can increase the risk of being becoming severely ill due to COVID-19. Data from March 1, 2020 through March 31, 2021 show that 91.9% of adults ages 18 years and older with a laboratory-confirmed COVID-19-associated hospitalization have an underlying medical condition. Among adults with a COVID-19-associated hospitalization, the most common underlying medical conditions include obesity (48.6%), metabolic disease including diabetes (43.9%), and cardiovascular disease (36.5%). Neurologic disease, including dementias like Alzheimer’s disease, and chronic lung disease are both reported in 1 in 5 adults with a COVID-19-associated hospitalization. Additionally, among children ages 17 years and younger with a COVID-19-associated hospitalization, more than half have at least one underlying medical condition; the two most common are obesity (34.2%) and asthma (13.2%).
+Percent with Underlying Medical Conditions
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+The Coronavirus Disease 2019 (COVID-19)-Associate­­d Hospitalization Surveillance Network (COVID-NET) is an additional source for hospitalization data collected through a network of more than 250 acute-care hospitals in 14 states (representing ~10% of the U.S. population). Detailed data on patient demographics, including race/ethnicity, underlying medical conditions, medical interventions, and clinical outcomes, are collected using a standardized case reporting form.
+More COVID-NET Data
+DeathsThe current 7-day moving average of new deaths (438) has decreased 13.2% compared with the previous 7-day moving average (504). As of May 26, a total of 589,547 COVID-19 deaths have been reported.
+589,547
+Total Deaths Reported
+438
+Current 7-Day Average*
+504
+Prior 7-Day Average
+-13.2%
+Change in 7-Day Average Since Prior Week
+*Historical deaths are excluded from the daily new deaths and 7-day average calculations until they are incorporated into the dataset by their applicable date. Of 11,880 historical deaths reported retroactively, 924 were reported in the current week and 14 were reported in the prior week.
+Note:  In the above table, historical data with missing report dates are excluded from current and prior 7-day averages, and the percent change in the 7-day average.
+Daily Trends in Number of COVID-19 Deaths in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Death Data
+References
+Update: COVID-19 Pandemic–Associated Changes in Emergency Department Visits — United States, December 2020–January 2021
+Delay or Avoidance of Medical Care Because of COVID-19–Related Concerns — United States, June 2020 | MMWR (cdc.gov)
+Recent CDC COVID-19 Publications
+COVID-19 Vaccine Breakthrough Infections Reported to CDC — United States, January 1–April 30, 2021
+Mask Use and Ventilation Improvements to Reduce COVID-19 Incidence in Elementary Schools — Georgia, November 16–December 11, 2020
+COVID-19 Testing to Sustain In-Person Instruction and Extracurricular Activities in High Schools — Utah, November 2020–March 2021
+COVID-19 Vaccine Breakthrough Infections Reported to CDC — United States, January 1–April 30, 2021
+Recent COVID Data Tracker Updates
+The Healthcare Personnel tab now shows trends in cases and deaths among healthcare personnel by week
+The new time slider on the Daily and Total Trends tab now allows users to narrow the date range in the display to focus and zoom the trend lines and bars in on smaller periods of time

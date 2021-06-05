@@ -1,0 +1,129 @@
+COVID Data Tracker Weekly Review
+Print
+Minus
+Related Pages
+Subscribe to the Weekly Review
+Interpretive Summary for June 4, 2021
+Trending: Teens
+resize iconView LargerClosedownload iconDownload Image[JPG]
+A recent CDC study found COVID-19-associated hospitalization rates among adolescents ages 12-17 years increased during March and April, following declines in January and February 2021. This trend differed from hospitalization rates among people ages 65 years and older—the age group with the highest COVID-19 vaccination coverage—who saw hospitalization rates stabilize during the same timeframe.
+While rates of COVID-19-associated hospitalization in adolescents are lower than those in adults, cases of severe disease (including those requiring ICU admission or mechanical ventilation) have been documented in this age group. Recent increases in COVID-19-associated hospitalization rates and the potential for severe disease in adolescents reinforce the importance of continued prevention strategies, including vaccination and the correct and consistent use of masks in those who are not yet fully vaccinated.
+With summer upon us, many adolescents are looking forward to returning to activities they may have missed last summer, including travel, hanging out with friends, work, and summer camp. Vaccinating adolescents is an important step toward stopping the spread of COVID-19. As of June 3, 2021, more than 5.9 million adolescents ages 12-17 years have received at least one dose of a COVID-19 vaccine. Fully vaccinated adolescents are at low risk of symptomatic or severe infection and are less likely to transmit COVID-19 to others. If you or someone you know is considering adolescent vaccination, talk with your pediatrician or healthcare provider about the benefits of vaccination. To find a vaccine provider near you, visit vaccines.gov.
+Note to Readers: This week, CDC celebrates the 70th anniversary of the Epidemic Intelligence Service (EIS) program, a unique training program of service and on-the-job learning. CDC’s EIS officers—better known as CDC’s elite “disease detectives”—have served on the front lines of public health, investigating threats in the United States and around the world. During the COVID-19 pandemic, more than 120 EIS officers have deployed nearly 400 times to airport screening stations, quarantine stations, state and local health departments, and the CDC Emergency Operations Center to assist with the nation’s response to COVID-19.
+Reported CasesThe current 7-day moving average of daily new cases (14,349) decreased 35.2% compared with the previous 7-day moving average (22,139). Compared with the highest peak on January 9, 2021 (251,374), the current 7-day average decreased 94.3%.  A total of 33,130,027 COVID-19 cases have been reported as of June 2.
+33,130,027
+Total Cases Reported
+14,349
+Current 7-Day Average*
+22,139
+Prior 7-Day Average
+-35.2%
+Change in 7-Day Average since Prior Week
+*Historical cases are excluded from daily new cases and 7-day average calculations until they are incorporated into the dataset for the applicable date. Of 71,176 historical cases reported retroactively, 1 was reported in the current week and none were reported in the prior week.
+Note: In the above table, historical data with missing report dates are excluded from current and prior 7-day averages, and the percent change in the 7-day average.
+Daily Trends in COVID-19 Cases in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Case Data
+SARS-CoV-2 VariantsMultiple variants of the virus that causes COVID-19 are circulating globally and within the United States. To date, five variants have been classified as a variant of concern (VOC). Nowcast estimates* of SARS-CoV-2 cases caused by these VOCs for the two weeks ending May 22 are summarized here. Nationally, B.1.1.7 proportions are predicted to increase to 73%; P.1 proportions are predicted to increase to 9.8%. B.1.427/B.1.429 proportions are predicted to decrease; and B.1.351 proportions are predicted to stay the same. Nowcast estimates predict that B.1.1.7 proportions will remain at more than 60% in all but HHS regions 1, 2, and 10. B.1.351 is predicted to remain higher in regions 7, 9, and 10; P.1 is predicted to be more than 10% in regions 1 and 10; and B.1.427/429 will remain highest in regions 9 and 10. B.1.617.2, a variant of interest, is predicted to be higher in regions 6, 7, 8, and 9.
+*Current Nowcast estimates are modeled data based on sequencing data from previous weeks. Nowcast provides timely estimates for the present, while accounting for limited sequence data availability, as specimens from the most current time interval are still being processed.
+SARS-CoV-2 Variants Circulating in the United States
+resize iconView LargerClosedownload iconDownload Image[JPG]
+resize iconView LargerClosedownload iconDownload Image[JPG]
+More Variants Data
+TestingThe percentage of COVID-19 NAATs (nucleic acid amplification tests) that are positive (percent positivity) has decreased from the previous week. The 7-day average of percent positivity from tests is now 2.2%. The 7-day average number of tests reported for May 21-May 27 was 814,444, down 11.2% from 916,804 for the prior 7 days.
+449,236,831
+Total Tests Reported
+449,236,831
+Total Tests Reported
+814,444
+7-Day Average Tests Reported
+2.2%
+7-Day Average % Positivity
+449,236,831
+Total Tests Reported
+2.5%
+Previous 7-Day Average % Positivity
+-14.5%
+Change in 7-Day Average % Positivity since Prior Week
+COVID-19 NAAT Laboratory Test 7-day Percent Positivity by State/Territory
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Testing Dataexternal icon
+VaccinationsThe U.S. COVID-19 Vaccination Program began December 14, 2020. As of June 3, 297.7 million vaccine doses have been administered. Overall, about 169.1 million people, or 50.9% of the total U.S. population, have received at least one dose of vaccine. About 136.6 million people, or 41.2% of the total U.S. population, have been fully vaccinated. As of June 3, the 7-day average number of administered vaccine doses reported to CDC per day was 1.0 million, a 38.2% decrease from the previous week.
+The COVID Data Tracker Vaccination Demographic Trends tab shows vaccination trends by age group. As of June 3, 86% of people ages 65 or older have received at least one dose of vaccine and 75% are fully vaccinated. Over half (63%) of people ages 18 or older have received at least one dose of vaccine and 52% are fully vaccinated.
+297,720,928
+Vaccines Administered
+169,090,262
+People who received at least one dose
+136,644,618
+People who are fully vaccinated*
+50.9%
+Percentage of the US population that has received at least one dose
+41.2%
+Percentage of the US population that has been fully vaccinated*
++1.0
+Percentage point increase from last week
++1.2
+Percentage point increase from last week
+*People who are fully vaccinated represents the number of people who have received the second dose in a two-dose COVID-19 vaccine series or one dose of the single-shot J&J/Janssen COVID-19 vaccine.
+Daily Change in Number of COVID-19 Vaccinations in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Vaccination Data
+HospitalizationsNew Hospital Admissions
+The current 7-day average for May 26–June 1 was 2,574. This is a 17.8% decrease from the prior 7-day average (3,132) from May 19–May 25. The current 7-day average is the lowest 7-day average since August 1, 2020.* The 7-day moving average for new admissions has been consistently decreasing since April 19.
+2,227,705
+Total New Admissions
+2,574
+Current 7-Day Average
+3,132
+Prior 7-Day Average
+-17.8%
+Change in 7-Day Average
+*The start of consistent reporting of hospitalization data was August 1, 2020.
+Daily Trends in Number of New COVID-19 Hospital Admissions in the United States
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+New admissions are pulled from a 10 am EST snapshot of the HHS Unified Hospital Timeseries Dataset. Due to potential reporting delays, data from the most recent 7 days, as noted in the figure above with the grey bar, should be interpreted with caution. Small shifts in historic data may also occur due to changes in the CMS Provider of Services file, which is used to identify the cohort of included hospitals.
+More Hospital Data
+COVID-NET: Rate of COVID-19-Associated Hospitalizations in Adolescents Ages 12–17 Years
+CDC’s Coronavirus Disease 2019-Associated Hospitalization Surveillance Network (COVID-NET) now has data describing COVID-19-associated hospitalizations in adolescents ages 12–17 years. While rates of COVID-19-associated hospitalization in adolescents ages 12–17 years are lower than those in adults, cases of severe disease have been documented in this younger age group. Weekly adolescent hospitalization rates peaked at 2.1 per 100,000 in early January 2021, declined to 0.6 in mid-March, and then rose again through April and early May to a peak of 1.5 per 100,000.
+Additional information on COVID-19-associated hospitalizations in adolescents ages 12–17 years can be found in a new report using COVID-NET data here.
+Rate of COVID-19-Associated Hospitalizations in Adolescents Ages 12–17 Years
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+The Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET) is an additional source for hospitalization data collected through a network of more than 250 acute-care hospitals in 14 states (representing ~10% of the U.S. population). Detailed data on patient demographics, including race/ethnicity, underlying medical conditions, medical interventions, and clinical outcomes, are collected using a standardized case reporting form.
+More COVID-NET Data
+DeathsThe current 7-day moving average of new deaths (325) has decreased 21.6% compared with the previous 7-day moving average (414). As of June 2, a total of 592,776 COVID-19 deaths have been reported.
+592,776
+Total Deaths Reported
+325
+Current 7-Day Average*
+414
+Prior 7-Day Average
+-21.6%
+Change in 7-Day Average Since Prior Week
+*Historical deaths are excluded from the daily new deaths and 7-day average calculations until they are incorporated into the dataset by their applicable date. Of 11,315 historical deaths reported retroactively, 293 were reported in the current week and 134 were reported in the prior week.
+Note:  In the above table, historical data with missing report dates are excluded from current and prior 7-day averages, and the percent change in the 7-day average.
+Daily Trends in Number of COVID-19 Deaths in the United States Reported to CDC
+7-Day moving average
+resize iconView Larger
+Close
+download iconDownload Image[JPG]
+More Death Data
+Recent CDC COVID-19 Publications
+Hospitalization of Adolescents Aged 12–17 Years with Laboratory-Confirmed COVID-19 — COVID-NET, 14 States, March 1, 2020–April 24, 2021
+COVID-19 Severity and COVID-19-Associated Deaths Among Hospitalized Patients with HIV Infection — Zambia, March–December 2020
+Impact of Policy and Funding Decisions on COVID-19 Surveillance Operations and Case Reports — South Sudan, April 2020–February 2021
+Patterns in COVID-19 Vaccination Coverage, by Social Vulnerability and Urbanicity — United States, December 14, 2020–May 1, 2021
+Recent COVID Data Tracker Updates
+A new Health Equity Data page catalogs health equity-related data available on COVID Data Tracker
+Addition of Emergency Department Visit trends to Daily and Total Trends tab
